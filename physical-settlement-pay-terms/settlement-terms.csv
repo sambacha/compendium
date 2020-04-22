@@ -1,0 +1,30 @@
+,,,,,,,,,,,
+,Rules for any mode or modes of transport,,,,,,,Rules for sea and inland waterway transport,,,
+,EXW,FCA,CPT,CIP,DAT,DAP,DDP,FAS,FOB,CFR,CIF
+,Ex Works,Free Carrier,Carriage Paid To,"Carriage & Insurance
+Paid To",Delivered at Terminal,Delivered at Place,Delivered Duty Paid,"Free Alongside
+Ship",Free on Board,Cost & Freight,"Cost Insurance
+& Freight"
+SERVICES,Who Pays,Who Pays,Who Pays,Who Pays,Who Pays,Who Pays,Who Pays,Who Pays,Who Pays,Who Pays,Who Pays
+Export Packing,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller
+Marking &Labeling,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller
+Block and Brace,1,1,1,1,1,1,1,1,1,1,1
+"Export Clearance (License, EEI/AES)",Buyer,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller
+"Freight Forwarder
+Documentation Fees",Buyer,Buyer,Seller,Seller,Seller,Seller,Seller,Buyer,Buyer,Seller,Seller
+Inland Freight to Main Carrier,Buyer,2,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller,Seller
+Origin Terminal Charges,Buyer,Buyer,Seller,Seller,Seller,Seller,Seller,Buyer,Seller,Seller,Seller
+Vessel Loading Charges,Buyer,Buyer,Seller,Seller,Seller,Seller,Seller,Buyer,Seller,Seller,Seller
+Ocean Freight / Air Freight,Buyer,Buyer,Seller,Seller,Seller,Seller,Seller,Buyer,Buyer,Seller,Seller
+Nominate Export Forwarder,Buyer,Buyer,Seller,Seller,Seller,Seller,Seller,Buyer,Buyer,Seller,Seller
+Marine Insurance,3,3,3,Seller,3,3,3,3,3,3,Seller
+Unload Main Carrier Charges,Buyer,Buyer,4,4,Seller,Seller,Seller,Buyer,Buyer,4,4
+Destination Terminal Charges,Buyer,Buyer,4,4,4,Seller,Seller,Buyer,Buyer,4,4
+Nominate On-Carrier,Buyer,Buyer,5,5,5,5,Seller,Buyer,Buyer,Buyer,Buyer
+"Security Information
+Requirements",Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer
+"Customs Broker Clearance
+Fees",Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Seller,Buyer,Buyer,Buyer,Buyer
+"Duty, Customs Fees, Taxes",Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Seller,Buyer,Buyer,Buyer,Buyer
+Delivery to Buyer Destination,Buyer,Buyer,5,5,5,5,Seller,Buyer,Buyer,Buyer,Buyer
+Delivering Carrier Unloading,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer,Buyer

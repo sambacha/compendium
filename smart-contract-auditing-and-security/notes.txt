@@ -1,0 +1,14 @@
+Valid Server Setup:
+
+1. Deploy the NFT and Master Proxy contracts 
+2. Deploy the Universal Proxy contract with the Master Proxy's address and an
+   admin address (this should be a human account) as input
+3. Deploy the Controller contract with the Universal Proxy's address and an admin
+   address (the same address as in step 2) an input
+4. Call `changeController` through the Universal Proxy from the admin address. 
+   The controller should be changed to the controller address deployed in step
+   3. 
+
+Steps 1-3 cannot be performed through the API. Step 4 can if the `controller_address` 
+is originally set to equal the `universal_address`. This solution is not ideal, 
+so all of steps 1-4 should be completed during server setup.

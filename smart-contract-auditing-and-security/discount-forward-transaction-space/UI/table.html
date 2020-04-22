@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.10/lodash.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+
+
+<style type="text/css">
+	body {
+		font-family: 'Roboto Condensed', sans-serif;
+	}
+	table {
+    border-collapse: collapse;
+    width: 100%;
+    color: black;
+	}
+
+	th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+	}
+
+	/*tr:nth-of-type(n+3)
+	{
+    background-color:salmon;
+	}*/
+</style>
+
+<body>
+	<h2>Block Number: n</h2>
+	<h2>Futures Outstanding: n</h2>
+	<div id="data-list"></div>
+</body>
+
+<script>
+const data = _.times(31, (i) => {
+	return {
+		blockCreated: i,
+		startHeight: i+100,
+		executeHeight: i+1000,
+		gasLimit: 1000000,
+		price: _.random(1,100),
+		executionMessage: "0x.....",
+		executionAddress: "0x.....",
+	}
+})
+
+const columnTitles = ["Block Created", "Start Height", "Execution Height", "Gas Limit", "Price", "Execution Message", "Execution Address"];
+const columnHeadings = Object.keys(data[0]);
+const columnCount = columnHeadings.length;
+const rowCount = data.length;
+
+// Create table.
+let table = document.createElement('table');
+table.id = 'main-table';
+document.getElementById("data-list").appendChild(table);
+
+const loadData = (data) => {
+	const header = table.createTHead();
+	let row = header.insertRow(-1);
+
+	_.forEach(columnTitles, (title) => {
+		let headerCell = document.createElement('th');
+    headerCell.innerText = title.toUpperCase();
+    row.appendChild(headerCell);
+	})
+
+	// Create table body.
+	let tBody = document.createElement('tbody');
+	tBody.setAttribute("id", "main-table-body")
+	table.appendChild(tBody);
+
+	_.forEach(data, (rowItem) => {
+		row = tBody.insertRow(-1);
+		row.setAttribute('data-executionHeight', rowItem['executeHeight'])
+		row.setAttribute('class', 'dataRow')
+
+		_.forEach(rowItem, (cellItem) => {
+			let cell = row.insertCell(-1);
+	    cell.setAttribute('data-label', cellItem.toString().toUpperCase());
+	    cell.innerText = cellItem;
+		})
+	})
+}
+
+const updateColours = (currentHeight) => {
+	const table = document.getElementById('main-table');
+	const rows = table.getElementsByClassName('dataRow');
+
+	_.forEach(rows, (row) => {
+		if (parseInt(row.getAttribute('data-executionHeight')) > currentHeight) {
+			row.style.backgroundColor = 'maroon';
+		}
+	})
+}
+
+const insertRow = (data) => {
+	const tableBody = document.getElementById('main-table-body');
+
+	row = tableBody.insertRow(0);
+	row.setAttribute('data-executionHeight', data['executeHeight'])
+	row.setAttribute('class', 'dataRow')
+
+	_.forEach(data, (cellItem) => {
+		let cell = row.insertCell(-1);
+    cell.setAttribute('data-label', cellItem.toString().toUpperCase());
+    cell.innerText = cellItem;
+	})
+
+}
+
+
+///////////////////
+loadData(data)
+// updateColours() // to update the colouring once a block has proceeded
+// insertRow() // every time a new block arrises
+
+insertRow({
+	blockCreated: 400,
+	startHeight: 400+100,
+	executeHeight: 400+1000,
+	gasLimit: 1000000,
+	price: _.random(1,100),
+	executionMessage: "0x.hiiii....",
+	executionAddress: "0x.....",
+})
+
+</script>

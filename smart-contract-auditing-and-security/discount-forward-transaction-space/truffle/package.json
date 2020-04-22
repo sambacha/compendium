@@ -1,0 +1,24 @@
+{
+  "name": "BlockSpaceToken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "openzeppelin-solidity": "1.11.0",
+    "truffle-contract": "^3.0.6",
+    "web3": "^0.20.6"
+  },
+  "devDependencies": {
+    "truffle-test-utils": "^0.1.0"
+  }
+}

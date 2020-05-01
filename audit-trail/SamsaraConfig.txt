@@ -1,0 +1,2 @@
+"Id"	"Created"	"LastModified"	"LastModifiedBy"	"CreatedBy"	"Enabled"	"ApiKey"	"GroupId"	"EmailDomain"	"SyncDrivers"	"RateTypeId"	"PayrollRate"
+"95092451-d8df-4c5a-a5b1-4ecb98a888f5"	"28/8/2019 08:16:12.246499"	"1/1/1 00:00:00"			"1"	"TS3TP60wcMpeWE8meeXXXKeCblxXQh"	"17791"	"advantagelogisticsinc.com"	"1"	"PM"	"0.45"

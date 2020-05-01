@@ -1,0 +1,37 @@
+#!/bin/bash
+set -e
+source common/variables
+source common/functions
+
+numberOfBootNodes=${1:-1}
+numberOfValidatorNodes=${2:-4}
+echo "Number of boot nodes: $numberOfBootNodes."
+echo "Number of validator nodes: $numberOfValidatorNodes."
+echo "Clearing output directory."
+rm -Rf out
+mkdir -p out/networkFiles
+
+echo "Generating IBFT network files."
+run "$BESU_PATH operator generate-blockchain-config --config-file=config/ibft-network-config.json --to=out/networkFiles --private-key-file-name=key"
+
+echo "Creating IBFT network directory structure."
+for i in `seq 1 $numberOfBootNodes`;
+do
+  mkdir -p "out/ibft-network/bootnode-$i/data"
+done
+for i in `seq 1 $numberOfValidatorNodes`;
+do
+  mkdir -p "out/ibft-network/validator-$i/data"
+done
+
+echo "Copying IBFT network files."
+echo "Copying genesis file."
+cp out/networkFiles/genesis.json out/ibft-network/
+echo "Copying nodes keys."
+i=1
+for f in out/networkFiles/keys/*; do
+  cp $f/* "out/ibft-network/validator-$i/data"
+  ((i=i+1))
+done
+
+tree out/ibft-network

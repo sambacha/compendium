@@ -1,0 +1,936 @@
+
+ICC Model Consortium Agreement
+DOCUMENT FOR APPROVAL AT 13 NOVEMBER 2015 CLP COMMISSION MEETING
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICC copyright and confidentiality policy
+
+The text below (in draft and final forms) is a collective work, initiated and drafted under the authority and control of ICC, and to which ICC holds all rights.
+Participation in the development of this text will not give rise to any rights for contributors in this collective work, of which ICC is sole copyright holder.
+This ICC working document is provided to you on condition that its contents remain confidential and should not be disseminated further without express authorization from the ICC International Secretariat.
+
+If you decide to participate in developing this ICC text, you agree to respect ICC’s policy as stated above and at http://www.iccwbo.org/copyright-and-trademarks/
+
+
+
+
+
+
+ICC Model Consortium Agreement 
+for supplies and services provided through an open Consortium (including bidding phase)
+
+by and between:
+
+
+
+
+
+
+
+.....................................
+
+
+and
+
+.....................................
+
+and
+
+.....................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Agreement contains an arbitration clause and clauses limiting and/or excluding the liability of the Consortium Members in certain circumstances.
+
+Disclaimer
+The user of this ICC Model Consortium Agreement must at all times realize that the ICC has had these Model Agreements created by a team of specialists and with the greatest care, to facilitate small and medium size businesses to form consortia or joint ventures to expand and enhance their business and to enlarge their footprint in the world theatre of international business. However it is not possible to create a model whereby “one size fits all” and therefore each and every user should obtain separate legal and/or financial and/or tax advice to make this model fit the specific business purpose for which he intends to use this model and the ICC disclaims any liability for the use of this model by anyone. 
+
+
+
+ 
+Foreword
+International as well as national cooperation between companies, be they small and medium sized or large, in complex transactions require solid and balanced terms and conditions for such cooperation and it is vital that the arrangements put in place be durable, clear and equitable thereby enhancing business in general. ICC has prepared this Model Agreement for use in cooperation between said companies, in order to provide them with a unique, balanced platform that is fair to all parties to it.
+
+At the same time, the model accommodates the desire of all parties for a solid unanimous decision making process, a clear allocation of participation and provision of resources, the need for swift and effective dispute resolution, and the need for complete and informed allocation of risks.
+
+This model contract, one of a successful series produced by ICC’s Commercial Law and Practice Commission under the chairmanship of Fabio Bortolotti (Italy), has benefited from the active participation of the following members of the Major Project Group, co-chaired by Eric Eggink (Netherlands) and Isabelle Smith Monnerville (France): Jens Machoy (Germany), Martin Kurtze (Germany), Bettina Geisseler (Germany), Francine Gurral (France), Mireille Bouzols-Breton (France), Arnoud Penseel (Netherlands), Giovanni Leo (Italy), Claudio Perella (Italy), Helena Prata (Angola), Rana Obeid (UAE), Jane Davies Evans (UK), Ben Beaumont (UK), Galyah Natan-Epstein (Israel), Linna Li (China), Haifeng Li (China), Julien Maire du Poset (France), Erick Castellanos (Colombia), Terry F Moritz (United States).
+
+Secretariat support was provided by ICC Secretariat staff: Emily O’Connor, Rachel Dignam, Zoë Smoke.
+
+
+
+
+
+
+Introduction
+The International Chamber of Commerce’s (“ICC”) Commission on Commercial Law and Practice is, like ICC, in business for business, and acts as a focus group for all parties to international transactions. In recent years, the Commission on Commercial Law and Practice has published a number of model forms of contracts. Although the forms have covered a wide range of international transactions they have all been distinguished by the imperative that they be balanced and fair to all parties involved, since ICC represents all parties to all transactions.
+
+In its role as facilitator the ICC Commission on Commercial Law and Practice has started to provide a number of standard forms of contract for the world of engineering, procurement and construction (EPC) projects. After its publication of the ICC Model Turnkey Contract for Major Projects and the ICC Model Subcontract the ICC Commission on Commercial Law and Practice has now developed two more model forms, one for joint ventures and the other for consortia. 
+
+Single point of responsibility
+Employers undertaking major projects have increasingly over the years sought a form of contracting whereby there would be a single point of responsibility on the contractor’s side. This has caused the contractor to seek co-operation with others, 1.) in the desire to share the risks and the liabilities that such major projects present, and/or 2.) in the desire to form a co-operation that encompasses all the disciplines necessary to supply all the various components of a major project that the Employer seeks and that provides the Employer with the desired single point of responsibility. 
+
+For Employers the single point of responsibility makes the management of the whole project much simpler as they do not have to manage the supply of each individual supplier or the interfaces between suppliers. 
+
+A word of caution is appropriate here. The Employer may select companies that may bid on a yet to be issued “invitation to bid” through a so called “pre-qualification procedure” whereby either a group of companies that have organized themselves in a joint venture or a consortium is pre-qualified, or whereby individual companies are pre-qualified individually. Once the pre-qualification procedure has been closed by the employer, pre-qualified joint ventures or consortia may usually not be changed in their composition. In the case of companies individually pre-qualifying, non pre-qualified companies may not join a joint venture or consortium of pre-qualified companies. Not abiding by these good practices may severely compromise the whole of the tender procedure and hence the Employer cannot accept the admission of a non-qualified company, as awarding the project to a compromised joint venture or consortium may be successfully challenged by non-awarded parties in a court of law.
+
+The aim of the ICC in producing a standard form for a Joint Venture Agreement and for a Consortium Agreement is to provide a balanced model form of agreement for those parties that wish to cooperate not on a sub-contract basis but as joint operators (in a non-incorporated form, thus not as a legal entity) in the execution of majors project. It is the cooperation as partners that brings about a risk sharing scheme that is fundamentally different from the one that forms the basis of the ICC Model Subcontract. 
+
+For both joint-ventures and consortia it can equally be said that counterparty risk, i.e. the Employer’s ability to pay, with regard to the Employer is shared amongst the joint venturers or operators. Unlike in subcontracts, payment on an “if and when” basis is the rule and not the exception. Similarly, joint venturers or operators, unlike subcontractors, typically assume counterparty risk of each other for the benefit of the Employer (joint and several liability).
+
+
+Joint Venture and Consortium 
+The main difference between the two is the extent to which the partners for their own immediate benefit share performance risks, i.e. the risks innate to the nature of their resources, technologies and processes. In a joint venture the members share all risks, liabilities, rights, benefits and profits in proportion to their participation in the joint venture, such proportion normally being determined based on the resources that each member will supply to the joint venture for the execution of the total scope of work under the contract with their employer, to whom they are jointly and severally liable for all the contractual obligations. Joint venture members are generally kindred spirits in their field of business and understand each other’s business and the risks therein.
+
+In a consortium the co-operating parties, though jointly and severally liable for the whole of the contractual obligations towards their employer, are, towards the other consortium members, liable for the proper execution of only their individual parts of the total scope of work. This form of co-operation should be chosen if the consortium members are not familiar with the intricacies of the other members’ business and risks therein and therefore have no means to control either the probability of the risk event materializing or the impact that the occurrence of the risk event may have. Consortium members are often operating in industries adjacent to each other, e.g. civil contractors and engineering contractors or dredging contractors.
+
+The ICC Model Consortium Agreement is that of an open Consortium whereby the employer contract is entered into between the employer and all of the members of the consortium; all of the members of the consortium are jointly and severally liable for the performance of the contract. Generally, one consortium member is appointed by the other consortium members as the consortium leader for managing the contract with the employer; usually it has the authority to conduct negotiations for the members, but cannot enter into any binding agreements on their behalf.
+
+Anti-trust caution 
+While there is typically no general rule whereby it would be forbidden for competitors to co-operate on one or several specific project(s), high caution must be exercised in the forming of such co-operations, which must be justifiable in terms of objective economic or technical necessity, so as to avoid any infringement of competition law. In particular, the reasons for a co-operation can never be to form a strong block vis-á-vis the employer by forming a price cartel as that would be against the law in any jurisdiction.
+
+Joint Governance
+It is the generally accepted view that decisions in a joint venture or a consortium will be made by the members collegially (in most cases in unanimity). It can never be that one member is forced to go along with a decision that it cannot agree to. It can be regarded as a universal principle that unlike the sovereign no subject has the power to impose its will to the other party(ies) to the joint operation. 
+
+For the benefit of the project however, the principle of joint governance requires the back up of a robust system to efficiently deal with differences, and to avoid that such degenerate into disputes. Where there is a deadlock with the potential to severely delay or harm the project, the solution may be that one of the joint operators, which will be the leader, is empowered to make unilateral decisions that are binding on the other(s), provided, that such decision is only binding on the other(s) unless and until it has been overturned in the agreed dispute resolution process. 
+
+ICC Model Contracts
+In relation to the above, all indications in the model of any durations of processes, particularly in the decision making process, are indicative and for guidance only. Such time periods should always be revisited and (if need be) adjusted to fit with the requirements of the bidding process and the contract with the employer. 
+
+The insurance section of the model agreements (Article 9 of the General Conditions) focusses on the project-related insurances under the assumption that any responsible party engaging in a major project though a joint venture or a consortium will have sufficient professional indemnity coverage in place to mitigate the risk of professional indemnity and thus such insurance is not mentioned in the insurance section. Moreover, if any additional joint insurance not mentioned in this model agreement is needed for the project, it is envisioned such insurance will be taken out by the members pro rata according to their respective participation in the project.
+
+As mentioned above, the ICC Model Joint Venture Agreement and the ICC Model Consortium Agreement have been drafted with the ICC Model Turnkey Contract for Major Projects and the ICC Model Subcontract in mind. For ease of reference and work with the forms, the authors have endeavoured to make sure the forms are aligned both in terms of structure and terminology.
+
+Applicable law
+In an international contract, parties have the choice of the applicable law, which is part of the negotiation. Some arguments might militate in favour of any particular legislation: the nationality of the largest number of parties; the nationality of the party whose intake is the most significant, the law of a neutral jurisdiction is chosen sometimes for reasons of impartiality and certainty. In any event, before choosing the law of a given country, users should check if the provisions of this model agreement conform with such law and if the chosen law has mandatory legal or tax effects which prevail over the parties’ agreement(s). While this model agreement is intended to cover all issues that are likely to arise in a clear and succinct fashion to minimize resort to national laws, the parties should be aware that many national laws provide default rules which may, in some cases, supersede the contractual arrangements of the parties. For instance, the choice to have an administrative seat of the consortium and the country where the parties elect to place it can have the effect of making a national law applicable.
+
+Main Agreement Form
+	This agreement is made on [_____ _____, _____]
+
+Between:
+
+[ ________________ ] (a [ ______________ ] company with registered number [ __________ ]) whose registered office is at [ _______________________________ ] and represented by ______________ acting through a duly authorized power of attorney (the [ _________ ], which expression shall include successors and permitted assigns), and;
+
+[ ________________ ] (a [ ______________ ] company with registered number [ __________ ]) whose registered office is at [ _______________________________ ] and represented by ______________ acting through a duly authorized power of attorney (the [ _________ ], which expression shall include successors and permitted assigns),
+
+[ ________________ ] (a [ ______________ ] company with registered number [ __________ ]) whose registered office is at [ _______________________________ ] and represented by ______________ acting through a duly authorized power of attorney (the [ _________ ], which expression shall include successors and permitted assigns),
+
+[ _________ ], [ _________ ] and [ _________ ] hereinafter referred to individually as “Consortium Member” or collectively as “Consortium Members”.
+
+Whereas:
+
+the Employer has invited interested companies to submit offers for the Project;
+
+the Consortium Members wish to submit a joint Offer for the Project, and, if the Offer is successful, to jointly implement the Project;
+
+the Consortium Members anticipate that submission by them of individual offers would not lead to any of them being the successful bidder;
+
+the Consortium wishes to be selected and appointed by the  Employer to execute and carry out the Work under the terms of the Contract, including any addition or variation thereto, which may be ordered by the Employer under the Contract. To enable the proper performance of the Work to be so carried out the Consortium Members have agreed to enter into this Consortium Agreement on terms and conditions set forth herein
+
+It is agreed as follows:
+
+	1.	In this Main Agreement Form, all capitalised words and expressions shall have the same meanings as are assigned to them in this Main Agreement Form or the General Conditions.
+	2.	The Consortium Members agree to co-operate based on the terms and subject to the conditions of this Agreement, as more particularly described in Section II Special Conditions, General Conditions and Annexures as attached hereto.
+	3.	The following Sections shall be read as one document and form the Agreement and, in the event of ambiguity or contradiction between the Sections, the ambiguity or contradiction shall be resolved by giving precedence to the Sections in the order listed as follows:
+		- Main Agreement Form
+		- Section I – Special Conditions
+		- Section II – General Conditions
+		- Annex 1 – Scope of Work
+Annex 2 – Time Schedule
+		- […]
+
+Whereas the Consortium Members have executed this Agreement by duly authorized representatives on the day and year first above written.
+
+
+[ _________ ]				[ _________ ]				[ _________ ]
+
+
+Name						Name						Name
+
+
+
+Witness					Witness					Witness
+
+
+
+
+
+ Section I - Special Conditions 
+Schedule of Reference Details:
+
+Article 1				"Employer" means […].
+
+				"Project" means […].
+				
+The Proportionate Value of each Consortium member is:
+
+(i)	.................
+
+(ii)	.................
+
+(iii)	.................
+
+
+Article 2.2 (optional)		The administrative office of the Consortium shall be at [...].
+
+Article 4.4.1			The Consortium Leader shall be [...].
+
+Article 4.4.5		The Consortium Leader’s Fee shall be […] percent, and the payment terms of the fee shall be as follows […].
+
+Article 9.1.2			Maximum Marine Cargo/Transportation Insurance deductible shall be 
+[…].
+
+Article 9.2.1 (c)			Minimum Comprehensive third-party liability Insurance coverage shall 
+be […] per occurrence and […] in the aggregate.
+
+Article 12.4		The period of confidentiality shall be […] years from the termination of the Consortium.
+
+Article 13.3.2	The profit margin shall be […] percent.
+
+Article 13.3.3	The profit margin shall be […] percent.
+
+Article 13.3.5		The liability of each Consortium Member shall per event be limited to […] percent of the value of the Scope of Work of the liable Consortium Member.
+
+Article 13.3.6		The delayed payment compensation shall be […] percent per annum.
+
+Article 15.1		This Agreement shall become effective on […] regardless of the date of signature of the Consortium Members.
+
+Article 16.3	The selected Dispute Board shall be:
+Dispute Review Board; or
+Dispute Adjudication Board; or
+Combined Dispute Board
+none 
+
+The number of DB members shall be […].
+
+If “none” is selected, the Consortium Members agree to the following alternative dispute resolution: […].
+
+Article 16.4 			The number of arbitrators shall be […].
+The place of arbitration shall be […].
+					The language of the arbitral proceedings shall be […].
+
+Article 17		The substantive law applicable to the Agreement shall be the law of […].
+
+Article 18.6			The addresses for the service of notices are:
+
+(i)	...............................................................................
+
+(ii)	...............................................................................
+
+(iii)	...............................................................................
+
+[end of Special Conditions]
+
+Section II - General Conditions 
+Article 1	Definitions and Interpretation
+"Agreement" means this Consortium Agreement consisting of the Main Agreement Form, Section I Special Conditions, Section II General Conditions of Contract and the Annexes listed in the contents section.
+“Authorized Representatives” is defined in Article 4.2.1.1.
+"Consortium" means the temporary association of the Consortium Members established under this Agreement pursuing the objectives described in Article 2.1.
+"Consortium Leader" is the Consortium Member nominated in Section I Special Conditions when acting in the functions described in Article 4.4.3.
+"Consortium Member" means any party to this Agreement as described hereinabove. 
+"Contract" means the contract for the Project to be entered into by the Employer and all Consortium Members or awarded by the Employer to all Consortium Members as the case may be.
+“Day”, “Days” or “Date/s” mean, unless otherwise agreed, references to a 24-hour calendar day in the Gregorian calendar with "year" meaning 365 days under that calendar, unless it is a 366-day leap year. Periods of time are calculated from the day after receipt of the relevant instruction or other action requiring an activity to commence. 
+“DB Rules” mean the ICC Dispute Board Rules in force at the time of signing the Agreement.
+"Design Freeze Date" means the date set forth in the Time Schedule prior to which a Consortium Member may change the design within or related to its Scope of Work without becoming liable hereunder due to the change.  
+"Disagreement" means any difference between the Consortium Members arising out of or in connection with the Agreement that has not yet become a Dispute.
+"Dispute" means any Disagreement that is formally referred to a Dispute Board, another form of alternative dispute resolution if specified in Section I Special Conditions or to arbitration in accordance with Article 16.4, as applicable.
+"Employer" shall have the meaning given to it in Section I Special Conditions.
+“Expulsion” is defined in Article 14.1.
+"Good Practice" means the exercise of that degree of skill, diligence, prudence, foresight and that engineering and construction practice which would reasonably and ordinarily be expected from a skilled contractor under circumstances the same as or similar to the Project.
+“Gross Negligence” shall mean the conscious and reckless disregard for the need for and the use of Good Practice.
+"HSE" means Health, Safety and Environment.
+“ICC” means the International Chamber of Commerce.
+"Negligence" means any act or omission which is not in line with Good Practice.   
+"Offer" means the offer to be submitted by the Consortium Members to the Employer for the Project pursuant to Article 6.1.
+"Project" shall have the meaning given to it in Section I Special Conditions.
+“Project Committee” is defined in Article 4.1.2.
+"Proportionate Value" is the percentage ratio of the value of the Scope of Work of a Consortium Member in proportion to the Total Value of the Work as specified in the Agreement.
+"Scope of Work" is the part of the Work a Consortium Member has to perform pursuant to Annex 1 – Scope of Work.
+"Site" is the piece of land where Work supplied under the Contract is to be erected and commissioned.
+"Steering Committee" is defined in Article 4.1.2.
+"Time Schedule" is the time schedule attached as Annex 2 – Time Schedule and referred to in Article 7.4.
+"Total Value of the Work" is the Contract price as amended during the implementation of the Project. 
+"Work" means the supplies and services to be provided by the Consortium Members to the Employer pursuant to the Contract.
+1.2	Wording of the Agreement
+
+In the Agreement, except where the context requires otherwise:
+
+the Agreement and language are neutral in relation to gender;
+words indicating the singular also include the plural and words indicating the plural also include the singular;
+provisions including the word “agree”, “agreed” or “agreement” require the agreement to be either in writing or recorded in writing (before or after the agreement);
+in understanding this Agreement, the Sections, Chapters, Articles and other headings are intended to be included in the Agreement and its interpretation; and
+all Notices, notifications, certificates, consents, approvals, decisions and requests under this Agreement shall indicate the sections(s) of this Agreement under which they are given or made.
+
+Article 2	Formation of the Consortium
+
+2.1      	Objectives
+ 
+The Consortium Members hereby agree to form a Consortium having the following objectives:
+(i)	to prepare and submit the Offer, 
+(ii)	to conduct any necessary negotiations with the aim to agree on the Contract, and
+(iii)	to execute and perform the Contract.
+
+-------------------------
+
+Optional
+
+2.2	Administrative Office 
+
+The administrative office of the Consortium shall be at as specified in Section I Special Conditions.
+
+
+Article 3	Participation / Allocation
+
+
+3.1 	Allocation of Work
+
+The Work shall be allocated among the Consortium Members according to Annex 1 – Scope of Work, as amended, as the case may, according to Article 7.3.
+
+3.2 	Bearing of Risks
+
+To the extent not otherwise provided herein and particularly Article 13 each Consortium Member shall, inter partes, bear the technical, economic, quantity and time related, financial and other risks connected with or affecting that members Scope of Work.
+
+3.3 	Profits and Losses 
+
+The Consortium Members do not intend to share the profits or losses of their joint performance of the Contract.
+
+Article 4	Organisation and Decision making
+
+
+4.1 	General Organisation
+
+4.1.1 	Each Consortium Member shall perform and be responsible for carrying out its Scope of Work in accordance with the Contract and this Agreement.
+
+4.1.2 	The Consortium Members shall constitute a steering committee (‘Steering Committee’) who shall be in charge of the overall management of the Consortium, in particular in respect of the monitoring of progress in line with the requirements of the Contract, of decision making in the event of changes to the Contract or termination thereof and, in addition to all specific matters which are reserved for its decisions under this Agreement, generally to carry out, with the assistance of the Project Committee as the case may be, the joint supervision, coordination and management of the Works. If the size and situs of the Works justify, the Consortium Members may also constitute an additional and ancillary project committee (“Project Committee”) who shall be in charge of the day-to-day management of the Works.  
+
+4.2 	Steering Committee
+
+4.2.1	Constitution of the Steering Committee
+
+4.2.1.1	The Steering Committee shall be comprised of a minimum of one authorised representative of each Consortium Members (“Authorized Representatives”).
+
+4.2.1.2	Each Consortium Member shall, no later than 15 Days following the award of the Contract to the Consortium, appoint its Authorized Representative(s) by filling out the respective information in Section I Special Conditions, and shall give notice to the other Consortium Members of the particulars of its Authorized Representative(s). Section I Special Conditions allows for the appointment of alternates, in order to avoid that the holding of meetings of the Steering Committee should be prevented by the unavailability of an Authorized Representative.
+
+4.2.1.3	In the interest of optimal knowledge management and coordination, the Consortium Members shall use all reasonable efforts to avoid any change of their Authorized Representatives during the performance of the Contract. If a change has to take place, the Consortium Member changing one or the other of its Authorised Representatives shall give to the other Consortium Members the earliest advance notice reasonably feasible.
+
+4.2.1.4	The Authorised Representative of the Consortium Leader shall act as chairman of the Steering Committee.
+
+4.2.1.5	Subject to the provisions of the Agreement to the contrary, each of the Consortium Members shall have one vote at the meetings of the Steering Committee, irrespective of the number of its representatives present.
+
+4.2.1.6	The individual costs and expenses of attendance of Authorized Representatives, and other Consortium Member representatives on Consortium business shall be borne by each relevant Consortium Member individually. Unless otherwise agreed, no representative of any Consortium Member representatives shall not receive any remuneration from the Consortium for Consortium business.
+
+4.2.1.7	A first meeting of the Steering Committee shall take place no later than 15 Days from the date of the award of the Contract. At that first meeting at the latest, the Consortium Members shall finalize the overall project organization, which shall be submitted to the approval of the Steering Committee and shall be used throughout the execution of the Works as provided in article 4.5. below. 
+
+4.2.2	Decision Making and Steering Committee Meetings
+
+4.2.2.1	General Principle of Decision Making
+
+Decisions will be made by the Steering Committee and decision making shall require the unanimous consent of the Authorized Representatives, if not otherwise explicitly provided herein. Authorized Representatives shall not unreasonably withhold their consent. 
+
+4.2.2.2	Exception to the General Principle
+
+By way of exception to the above general principle, it is agreed that matters which do not affect all Consortium Members can be decided by and shall require the approval of only the Consortium Member(s) affected. 
+
+If a decision is taken by less than the entirety of the Consortium Members pursuant to the foregoing paragraph and a Consortium Member who has not taken part in the decision claims that it is affected by it, such Consortium Member will notify its claim no later than 15 Days after it has received notification of the decision to which it objects. In that case, the Consortium Leader shall convene a Steering Committee meeting for the examination of the consequences of the decision on the objecting Consortium Member.
+
+4.2.2.3 	Event of deadlock
+
+	In the event of a deadlock at a Committee meeting, the meeting shall be adjourned and shall reconvene not more than 3 Days later. In the event of a continued deadlock, the matter shall forthwith be referred, in writing, by the Chairman of the Steering Committee to the chief executive officers of each of the Consortium Members or to another person of suitable standing and authority chosen by the respective Consortium Members who shall meet within 21 Days of the matter being referred to them. They shall work together in order to reach a unanimous decision which shall be binding on all Consortium Members, failing which the disagreement shall be referred to the agreed dispute resolution process. 
+
+	However, in the event of a deadlock with the potential to severely delay or harm the Project, the Consortium Leader is empowered to make unilateral decisions binding on the other(s) provided that the impact and consequences of such unilateral decisions will be jointly examined by the collegial bodies in due course, and will necessarily be subjected to the agreed dispute resolution process as per Article 16.
+
+4.2.2.4	Form 
+
+Resolutions or decisions to be taken by the Steering Committee shall be passed or taken at a meeting or – without a meeting – in writing or by telephone or e-mail if – in the case of resolution or decision by telephone or e-mail – confirmed in writing within 5 Days after the resolution was passed. 
+
+4.2.2.5	Convening of Meetings
+
+The Steering Committee shall meet according to need and at least every month unless a different minimum periodicity had been agreed in writing. Meetings shall be convened by the Consortium Leader at the agreed intervals or upon written request of an Authorized Representative of another Consortium Member. Such request shall be notified to the Consortium Leader with a copy to all other Consortium Members. If reasonably possible, the Consortium Leader shall give the Authorized Representatives of the other Consortium Members 7 Days’ prior written notice of meetings and provide a written agenda. Additions or corrections to such written agenda by other Consortium Members shall be taken into account if they are submitted by the Consortium Member to the Consortium Leader with copy to the other Consortium Members, at least 4 Days prior to the scheduled Consortium meeting. If agreed by the Authorized Representatives, the Committee meetings may be held by telephone or video conference. 
+
+4.2.2.6	Obligation to Attend Meetings
+
+Consortium Members shall procure that their respective Authorized Representative(s) shall attend the properly convened meetings of the Steering (and as the case may be the Project) Committee. If an Authorized Representative fails to attend a Steering (and as the case may be the Project) Committee meeting without justification despite a correct and timely invitation, the Consortium Leader shall immediately reconvene such a meeting pursuant to Article 4.2.3. If the Authorized Representative that did not attend the first meeting fails to attend the reconvened meeting without justification, resolutions which have a direct impact on the continuation of the Work may be passed by the attending Authorized Representatives alone even if the non-attending Consortium Member is affected by such resolutions.   
+
+4.2.2.7	Records of Meetings
+
+The Consortium Leader shall keep minutes of the Steering (and as the case may be the Project) Committee meetings and shall record decisions passed by such Committee(s), and shall circulate such minutes and records to the other Consortium Members without delay, but in no event later than 10 Days after the meeting was held and the decision(s) taken. Unless the Consortium Leader receives a written objection to any such minute or record within 10 Days from the date of receipt by the other Consortium Members, such record shall be deemed to be correct and complete.
+
+4.3	Project Committee
+
+	The provisions in Article 4.2 with respect to the Steering Committee shall apply mutatis mutandis to the Project Committee, if any.
+
+4.4	Consortium Leader 
+
+4.4.1 	Leader
+
+The Consortium Leader shall be the Consortium Member designated for that mission in the Section I Special Conditions.
+
+4.4.2 	Authority
+
+The Consortium Leader shall be authorized to undertake those actions and activities as set out in this Agreement or in subsequent decisions of the Steering (and/or Project) Committee but shall, otherwise in no case be authorised to make commitments for or legally bind the Consortium or any Consortium Member. 
+
+4.4.3 	Duties
+
+The duties of the Consortium Leader shall solely be of an administrative and coordinative character, including:
+
+to provide technical, commercial and organizational coordination of the Consortium Members in the bidding phase and during the performance of the Contract;
+to act as the spokesman in negotiations with the Employer, authorities or any third parties which are of joint interest, including preparing the necessary correspondence;
+to the extent applicable, and subject to Article 6.1, to submit the bid for the Consortium and coordinate necessary formalities, in particular regarding a potential mandatory registration of the Consortium, to keep the necessary books, and, to prepare and submit tax returns for the Consortium; to convene, preside and keep records of the meetings of the executive body(ies) of the Consortium;
+to make proposals for joint insurance coverage of all the Consortium Members pursuant to Article 9.1.4;
+to coordinate the establishment of a joint construction site;
+to coordinate the preparation of progress reports and other documentation to be submitted to the Employer;
+if and as required, to keep an integrated information and digital documentation system and organize the sharing of such information and documentation with the Consortium Members and with the Employer as required; 
+to collect data for invoicing the Employer and to collect payments from the Employer to the extent and in the way foreseen in Article 10.4; and
+to perform any other duties assigned to the Consortium Leader through this Agreement or through a respective resolution or decision of the Consortium Members.
+
+4.4.4	Mutual Duties to Inform and Cooperate
+
+The Consortium Leader shall advise the other Consortium Members without delay of all matters, of which it becomes aware in its function as Consortium Leader and which may materially affect the preparation of the Offer, the performance of the Contract or any other Consortium Member’s Scope of Work and provide the other Consortium Members with copies of all important correspondence in its possession relating to the Project, particularly those relating to each Consortium Member's Scope of Work.
+
+The Consortium Members other than the Consortium Leader agree to cooperate with the Consortium Leader fully and in good faith, with a view to allowing the Consortium Leader to discharge its duties in a time and cost effective manner. In particular, the duties of the other Consortium Members shall be:
+
+to inform the Consortium Leader of progress, difficulties and corrective action occurring in the context of their respective Scope of Work and they shall hand over all required documentation timely, complete, in the required digital format as the case may be and correct in content;
+to abstain from direct contact with the Employer and channel all correspondence with the Employer through the Consortium Leader subject only to the exception that, after the conclusion of the Contract, technical questions of minor importance which clearly concern the supplies or services of one Consortium Member only may, if the Employer agrees, be handled by the Consortium Member concerned directly with the Employer with the provision that the Consortium Leader will be informed in real time and copied into all correspondence;
+to forward any information and correspondence received from the Employer to the Consortium Leader.
+
+4.4.5	Compensation of the Consortium Leader
+
+The Consortium Leader shall not be entitled to a fee in consideration for his duties until the Contract is awarded to the Consortium. Thereafter, the Consortium Leader shall be entitled to charge the other Consortium Members a fee which is a percentage as defined in Section I Special Conditions of each Consortium Member’s part of the Total Value of the Work and increased by any applicable value-added tax. The agreed lump sum fee shall be included in the estimate of the contract price towards the Employer in the Contract. The terms of payment of the Consortium Leader’s fee shall be specified in Section I Special Conditions. 
+
+4.5 	Execution of the Project
+
+4.5.1 	Project Management and Coordination
+
+Each Consortium Member shall cooperate to the joint performance of the Contract in accordance with the Time Schedule of the Contract and, to that effect, promptly provide to the others all reasonable information and data in connection with its Scope of Work which will reasonably be required or necessary for the other Consortium Members to execute their respective Scope of Work. 
+
+4.5.2 	Meetings with the Employer or Third Parties 
+
+Each Consortium Member may take part in meetings with the Employer or third parties in relation to the Project provided that the subject of such meetings affects the interests of all or the respective Consortium Member(s) und further provided that the Employer or the third party does not object to such participation; upon request of the Consortium Leader each of the other Consortium Members shall attend. The Consortium Leader shall use reasonable efforts to ensure that a Consortium Member may attend such meeting whose subject is such Consortium Member’s Scope of Work. If, despite such reasonable efforts, the affected Consortium Member does not attend such meeting without good reason, it will be liable for any and all costs and expenses incurred by the other Consortium Member(s) due to its non-attendance. 
+
+4.5.3 	Correspondence with Employer
+
+All correspondence of the Consortium Members with the Employer shall be sent via the Consortium Leader. In matters affecting only one Consortium Member the affected Consortium Member shall prepare drafts of the correspondence to be sent to the Employer. In matters affecting more than one but not all of the Consortium Members one of the Consortium Members affected shall prepare drafts of the correspondence to be sent to the Employer. In matters affecting the whole of the Consortium the Consortium Leader shall prepare drafts of the correspondence to be sent to the Employer. 
+
+No correspondence to the Employer shall be sent by the Consortium Leader before it has received the approval of all the Consortium Members affected. In case the Consortium Leader does not receive another Consortium Member’s approval or disapproval latest within three (3) Days after submission of a respective notification of the requirement of its approval, the Consortium Leader shall be entitled to send such correspondence without approval and no Consortium Member can be held liable for any information contained therein.
+
+Article 5 	Principles of Cooperation
+
+5.1 	Good Faith and Fair Dealing
+
+In carrying out their obligations under this Agreement the Consortium Members will act in accordance with the principles of good faith and fair dealing. The provisions of the Contract, as well as any statements made by the Consortium Members in connection with it, shall be interpreted in accordance with the principles of good faith and fair dealing.
+
+5.2 	Duty to Inform 
+
+Each Consortium Member shall inform the other Consortium Members without undue delay of any matters of which it becomes aware and which may materially affect the preparation of the Offer, the performance of the Contract or any other Consortium Member's Scope of Work. 
+
+Each Consortium Member shall provide the Consortium Leader with such technical data and drawings and other information to the extent necessary and appropriate for the preparation and submission of the Offer and performance of the Contract so that they can be forwarded to the Employer in a timely and complete manner and in the required form and language.
+
+Each Consortium Member shall in a timely manner provide the other Consortium Members with accurate and - to the extent possible - complete technical data and drawings, which are related to its Scope of Work and which the other Consortium Members require for engineering and performing their own Scope of Work.  
+
+Each Consortium Member shall be responsible for checking the technical data and drawings received from the Employer or other Consortium Members, insofar as they affect its Scope of Work. The Consortium Leader shall not bear any responsibility in this respect.
+
+5.3 	Exclusivity  
+
+The Consortium Members shall cooperate on an exclusive basis to achieve the objectives set forth in Article 2.1 hereof. In particular, no Consortium Member shall by itself or with third parties, either make offers or enter into agreements concerning the Project or any part thereof. 
+
+The foregoing exclusivity obligation only applies to products and services which belong to the Scope of Work of the respective Consortium Member. This exclusivity obligation shall apply until the Consortium is wound up pursuant to Article 15.2 hereof. If a Consortium Member voluntarily leaves or is expelled from the Consortium for any reason for which it is responsible this obligation shall bind it until the Consortium is wound up pursuant to Article 15.2 hereof.
+
+5.4 	Title to Assets
+
+Unless otherwise explicitly set out in this Agreement, the Consortium Members shall not establish joint assets when pursuing the objectives of this Agreement. If it is not possible to avoid undivided joint ownership of any rights and/or assets, such undivided joint ownership shall only refer to each respective right and/or asset separately and not to the aggregate of the rights and/or assets.
+
+5.5 	Justification of Non-Performance 
+
+Non-performance of the Contract by a Consortium Member shall only be justified or excused under this Agreement if it is justified or excused under the Contract or – to the extent relevant – the applicable law of the Contract.
+
+5.6 	No Authority to represent  
+
+Unless otherwise agreed in writing for a specific case, no Consortium Member is authorized to or shall enter into commitments on behalf or in the name of the Consortium or the Consortium Members and no Consortium Member or any of its respective agents, employees, contractors, or representatives shall:
+ 
+(i)	be considered an agent, employee or representative of any other Consortium Member for any purpose whatsoever, or 
+(ii)	have any authority to make any agreement or commitment for any other Consortium Member, nor to incur any liability or obligation in the other Consortium Member's name or on its behalf, or 
+(iii)	represent to third parties that they have any right so to bind any other Consortium Member, or
+(iv)	have the authority to recognize, without prior written approval of the affected Consortium Member, claims of the Employer or third parties for which the Consortium or other Consortium Members are wholly or partly responsible.
+
+5.7 	Prohibition of Corruption  
+
+5.7.1 	Each Consortium Member hereby undertakes that, at the date of the entering into force of the Agreement, itself, its directors, officers or employees have not offered, promised, given, authorized, solicited or accepted any undue pecuniary or other advantage of any kind (or implied that they will or might do any such thing at any time in the future) in any way connected with the Agreement and that it has taken reasonable measures to prevent subcontractors, agents or any other third parties, subject to its control or determining influence, from doing so.
+
+5.7.2 	The Consortium Members agree that, at all times in connection with and throughout the course of the Agreement and thereafter, they will comply with and that they will take reasonable measures to ensure that their subcontractors, agents or other third parties, subject to their control or determining influence, will comply with Part I of the ICC Rules on Combating Corruption 2011, which is hereby incorporated by reference into the Agreement, as if written out in the Agreement in full.
+
+5.7.3 	If a Consortium Member, as a result of the exercise of a contractually-provided audit right, if any, of another Consortium Member’s accounting books and financial records, or otherwise, brings evidence that the latter Consortium Member has been engaging in material or several repeated breaches of the provisions of Part I of the ICC Rules on Combating Corruption 2011, it will notify the latter Consortium Member accordingly and require such Consortium Member to take the necessary remedial action in a reasonable time and to inform it about such action. If the latter Consortium Member fails to take the necessary remedial action, or if such remedial action is not possible, it may invoke a defense by proving that by the time the evidence of breach(es) had arisen, it had put into place adequate anti-corruption preventive measures, as described in Article 10 of the ICC Rules on Combating Corruption 2011, adapted to its particular circumstances and capable of detecting corruption and of promoting a culture of integrity in its organization. If no remedial action is taken or, as the case may be, the defense is not effectively invoked, the first Consortium Member may, at its discretion, either suspend the Agreement or terminate it, it being understood that all amounts contractually due at the time of suspension or termination of the Agreement will remain payable, as far as permitted by applicable law.
+
+5.7.4 	Any entity, whether an arbitral tribunal or other dispute resolution body, rendering a decision in accordance with the dispute resolution provisions of the Agreement, shall have the authority to determine the contractual consequences of any alleged non-compliance with this ICC Anti-corruption Article.
+
+Article 6 	Preparation, Submission and Acceptance of the Offer
+
+6.1 	Preparation of the Offer  
+
+The Consortium Leader shall establish the format of the Offer having due regard to the requirements established by the Employer. Each Consortium Member shall timely prepare the technical part of the Offer related to its Scope of Work. The Consortium Leader shall draw up a list of comments on the commercial conditions of the Employer’s bidding documents or a proposal for the commercial conditions of the Offer as the case may be. The final list of comments on the commercial conditions and/or the commercial and technical conditions of the Offer shall require a unanimous resolution by all the Consortium Members. The Offer shall be compiled by the Consortium Leader and submitted to the Employer after being approved by all Consortium Members by the due date for the bid.
+
+6.2 	Costs 
+
+Each Consortium Member shall bear the costs incurred by it in the preparation and submission of the Offer for its Scope of Work (including the costs for obtaining documents and for technical data and drawings to be provided to another Consortium Member).
+
+6.3 	Non-award of Contract 
+
+No Consortium Member shall be responsible to the other Consortium Members where the Contract is not awarded, except in case of Gross Negligence and wilful misconduct.
+
+Article 7	Project Implementation
+
+7.1 	Completeness 
+
+Each Consortium Member shall provide its respective Scope of Work as if it had entered into a separate contract with the Employer covering the Scope of Work of the Consortium Member. Each Consortium Member shall provide all supplies and services required for the proper fulfilment of its Scope of Work, irrespective of whether or not such supplies and services are completely specified in Annex 1 – Scope of Work, and even if the incompleteness is attributable to insufficient information received from another Consortium Member. 
+
+Any supplies and/or services which are not allocated to any Consortium Member’s Scope of Work in Annex 1 – Scope of Work, but which are required for the performance of the Contract, shall be performed by the Consortium Member whose Scope of Work is primarily affected thereby or has the closest relationship thereto, irrespective of whether such supplies and/or services give an entitlement to an adjustment of the Contract price. 
+
+7.2 	Employer Required Changes 
+
+Changes with respect to the Work that are required by the Employer in accordance with the Contract shall be performed by the Consortium Member(s) whose Scope(s) of Work is/are affected by such changes. If more than one Consortium Member is affected by such changes required by the Employer the changes in the Scope of Work of the respective Consortium Members shall be carried out pursuant to Article 7.3 hereof.  
+
+7.3 	Changes in the Work Allocation 
+
+Any changes in the allocation of the Work and any resulting consequences (for example relating to the Proportionate Values) shall be agreed upon by the Steering Committee. Such agreement shall take the form of an amendment to Annex 1 – Scope of Work to this Agreement and shall be signed by the Consortium Members.
+
+7.4 	Time Schedule 
+
+The Work shall be carried out in accordance with the Time Schedule attached as Annex 2 – Time Schedule hereto. The Consortium Members shall regularly update this Time Schedule, as necessary.
+
+7.5 	Subcontracting 
+
+Each Consortium Member may subcontract in its own name and on its own behalf part - but not the whole - of its Scope of Work unless the Contract provides otherwise. A Consortium Member subcontracting part of its Scope of Work shall remain fully liable for the performance of its Scope of Work and for all the acts and omissions of any subcontractor or sub-supplier.
+
+Each Consortium Member shall be fully liable for the performance of any part of its share of the Project, or other Contract obligation, in respect of which it enters into any contract with a third party/parties (e.g. a subcontractor) and shall ensure that the all obligations due to, and enforceable by, all other Consortium Members shall include:
+the requirement that such contracts enable fulfilment of the Contract, and;
+that the other Consortium Member’s rights are the same as would have been the case had the contracting Consortium Member performed its share of the Project and/or those obligations itself.
+
+7.6 	Applicable laws, public permits and authorizations
+
+Each Consortium Member shall be responsible for observing the laws applicable to it and/or its Scope of Work. Each Consortium Member shall be responsible for obtaining and maintaining all administrative permits, licences and other authorisations required for the performance of its Scope of Work, except those which are to be obtained by another Consortium Member pursuant to an explicit provision of this Agreement or by the Employer pursuant to the Contract. The Consortium Members which are not responsible for obtaining the respective authorizations shall reasonably assist the responsible Consortium Member in the process of obtaining such authorization.
+
+7.7 	HSE Requirements
+
+Each Consortium Member shall observe the HSE requirements established by the Contract, the applicable laws and Good Practice. The Consortium Leader shall draw up a draft for a project specific HSE plan which shall be observed by all Consortium Members after being approved by them. Each Consortium Member shall nominate a HSE representative who shall be the direct contact for the general HSE representative appointed by the Consortium Leader.
+
+7.8 	Enforcement of Claims against Employer 
+
+To the extent permitted by the Contract each Consortium Member is entitled to pursue claims relating exclusively to the Scope of Work of such Consortium Member against the Employer after written notification to the other Consortium Members. If according to the Contract claims can only be asserted by the Consortium Leader or by all Consortium Members jointly the Consortium Leader or the non-claiming Consortium Members respectively shall reasonably cooperate with the claiming Consortium Member(s). The claiming Consortium Member(s) shall reimburse the Consortium Leader or the non-claiming Consortium Members for the expenditure incurred by them in connection with the pursuit of the claim.  
+
+7.9 	Division of Additional Payments and/or Extension of Time
+
+If the Employer is obliged to pay additional remuneration or compensation (“Additional Payment”) under the Contract and/or to grant an extension of time, such Additional Payment or extension of time shall be attributed to the Consortium Member(s) who’s performance of its Scope of Work gave rise to the additional payment and/or extension of time. The Steering Committee shall determine any allocation of such additional payment and/or extension of time in the event of interactions and/or interfaces two or more Consortium Members. 
+
+Article 8	Securities
+
+8.1	Where the Consortium Members are required to provide security (e.g. bid bonds, advance payment bonds, performance bonds, warranty bonds) in connection with the Offer or the performance of their obligations under the Contract, each Consortium Member shall provide such security separately corresponding to its Proportionate Value. 
+
+8.2	If the Employer does not accept such an arrangement, the Consortium Leader shall procure the issue of such security on behalf of all Consortium Members. Each Consortium Member shall commit itself towards the issuer of such security to indemnify him according to its Proportionate Value in the event the security is drawn upon by the Employer. To the extent required by the issuer each Consortium Member shall provide an additional security, including in the form of a counter-guarantee, acceptable to the issuer securing the indemnification obligation of the Consortium Member to the issuer.
+
+8.3	If the issuer of the security requires an indemnity obligation from the Consortium Leader for the full amount of the security, the other Consortium Members shall promptly provide the Consortium Leader with counter guarantees equivalent to their Proportionate Values payable on demand issued by an institution and on terms acceptable to the Consortium Leader. In all cases of joint security pursuant to this Article, the Consortium Members shall bear the costs of it according to the Proportionate Values. 
+
+8.4	In the event the Employer avails himself of any security, the Consortium Members shall internally be liable as provided in Articles 13 hereof.
+
+Article 9	Insurance
+
+9.1 	Work Insurance 
+
+9.1.1	General principles 
+
+The Consortium Members recognize and accept the need for insurance cover for all of the Work as specified in Article 9.1. The insurance cover shall be on terms and conditions as are reasonably available in the insurance market and that are customarily purchased by contractors on similar projects with regard to size, technology and location. Any insurance proceeds under the Work Insurance under Article 9.1 shall be paid from the insurers to the joint account created for the Consortium and shall be applied for the repair or rectification of any damage that has occurred. Deductibles, if any, shall be borne by the Consortium Member responsible for the damage.
+
+9.1.2	Marine Cargo/ Transportation Insurance 
+
+Marine Cargo/ Transportation Insurance, where applicable, shall be maintained for not less than 110 % of the Incoterms® (latest edition) CIF value to cover loss or damage to the Work during transportation with conveyances of whatsoever kind from any warehouse worldwide until and including unloading at the Site.  This cover shall not be less than the internationally known Institute Cargo Clauses (A) of the Institute of London Underwriters, provided war risks are available at base rate and the deductible shall not be higher than the amount per occurrence specified (if any) in Section I Special Conditions.
+
+9.1.3	Construction/Erection All Risk Insurance 
+
+Construction/Erection All Risk Insurance shall cover loss or damage to the Work on all risks basis for not less than the full reinstatement cost, subject to sub-limits as are reasonably commercially available and with exclusions customarily required by the insurance market, such as the exclusion of the terrorism risk. This insurance shall cover any Site activity after unloading of the Work at the Site, including storage on or near the Site, construction, erection, assembly, cold and hot commissioning and testing until the Works are accepted or deemed to be accepted under the Contract.
+
+9.1.4	If not taken out by the Employer, then unless otherwise agreed, the Consortium Leader shall effect and maintain the insurance cover as set out in Articles 9.1 in the joint names of the Consortium Members and shall provide for a waiver of recourse from the insurers against all insured parties, in which case the cost of the cover shall be treated as common cost to be shared by the Consortium Members according to their Proportionate Value. 
+
+9.2 	Other Insurance
+
+9.2.1	Each Consortium Member shall effect and maintain at its own expense, or shall cause its Sub-contractors to effect and maintain at their own expense, the following insurance cover with reputable insurance carriers authorised to do business in the country of the Site:
+(a)	Employer’s liability and workman’s compensation insurance in accordance with any applicable law(s). If the law does not provide for any obligations in this respect or requires only some minimum limits, then the Consortium Member shall arrange this insurance in a manner and with limits as a prudent and reasonable contractor in the same circumstances and environment would so do. This insurance shall be maintained in full force and effect during the whole time that Consortium Member’s Personnel are assisting in the execution of the Work on Site.
+(b)	Automobile liability insurance in the country of the Site in accordance with any applicable law(s).  If the law does not provide for any obligations in this respect or requires only some minimum limits, then the Consortium Member shall arrange this insurance in a manner and with limits as a prudent and reasonable contractor in the same circumstances and environment would so do.
+(c)	Comprehensive third-party liability insurance to cover the Consortium Member’s legal liability with a limit, unless otherwise agreed, of indemnity of not less than specified in Section I Special Conditions.
+(d)	Consortium Member’s equipment insurance to cover loss or damage to Consortium Member’s equipment on an all risks basis for not less than the full replacement value, during any activity on the Site and including delivery to Site.
+
+9.2.2	On request of another Consortium Member, a Consortium Member shall provide evidence to the other Consortium Members that the Consortium Member’s Other Insurance is in place at the latest within 30 Days after such request.
+
+
+Article 10	Financials
+
+10.1 	Bank account
+
+On behalf of the Consortium Members, the Consortium Leader, where required, is authorized and obliged to open and - together with one other Consortium Member - to operate a joint account. The Consortium Leader shall use best efforts to ensure that payments by the Employer under the Contract are effected through the joint account. The authority to operate the account shall be revocable at any time by the other Consortium Members through written notice. 
+
+10.2 	Bank Charges 
+
+Each Consortium Member shall bear the bank charges for handling the payments for its Scope of Work.
+
+10.3 	Invoicing 
+
+Each Consortium Member shall invoice the Employer directly to the extent permitted by the Contract and by applicable tax regulations and shall send copies of the invoices to the Consortium Leader. To the extent it is not permitted to send invoices directly to the Employer, each Consortium Member shall send invoices concerning its Scope of Work to the Consortium Leader, who shall invoice the Employer in accordance with the Contract.  
+
+10.4 	Payment Claims 
+
+Payments received on the joint account and the Consortium Leader shall promptly forward them to the Consortium Members in proportion to the Work invoiced and performed. A claim against the Consortium Leader for payment may only be made after the Consortium Leader has received the relevant payment from the Employer. Withholding of payment, non-payment or partial non-payment by the Employer attributable to a Consortium Member shall be taken into account with respect to the payment claim by the respective Consortium Member.
+
+10.5 	Misdirected Payments 
+
+If a Consortium Member receives payments to which it is not entitled, it shall immediately forward them to the Consortium Member entitled; if this Consortium Member cannot be determined within 7 Days from receipt of such payments, they shall be forwarded to the Consortium Leader.
+
+10.6 	Non-payment by Employer
+	
+The failure of the Employer to effect payments does not entitle any Consortium Member to suspend or reduce the performance of its Scope of Work unless such suspension or reduction is justified under the Contract or accepted by the Steering Committee.
+
+10.7 	Financing 
+
+Each Consortium Member shall be responsible for any financing arrangements required for its Scope of Work and shall bear all costs connected therewith.
+
+
+Article 11	Taxes
+
+11.1 	Tax Obligations 
+
+Each Consortium Member shall comply with all tax regulations concerning its Scope of Work at its own risk and expense and for its own account. In particular, each Consortium Member shall be responsible for preparing and submitting all necessary tax returns and tax payments, as legally required.
+
+11.2 	Value-Added Tax 
+
+If the Consortium is subject to sales or value-added tax, the relevant tax obligations shall be satisfied by the Consortium Leader on behalf of the Consortium. 
+	
+Details of necessary procedures (with regard to invoicing procedure, tax declarations, documents and respective tax payments) will be agreed upon separately.
+
+11.3 	Taxation of the Consortium 
+
+It is the Consortium Members’ common understanding that the implementation of the Project based on the principles of cooperation in this Agreement will not cause the Consortium to register for corporate income tax purposes, whether as taxable entity or in another form. No Consortium Member shall take any action that may contradict such common understanding of the Consortium Members.
+
+If the tax authorities nevertheless should tax the Consortium on the basis of income from the entire Contract, the Consortium Members shall closely cooperate and agree on a joint approach in responding to the tax authorities’ position. If the Consortium should be taxable, the Consortium Leader will coordinate the tax filling and tax payment process. Details will be agreed upon separately. 
+
+In principle, each Consortium Member shall bear the corporate income tax to the extent it relates to its Scope of Work. The calculation of each Consortium Member's proportional amount of tax will be subject to the local tax law, each Consortium Member's pro-rata share of the taxable income and the relevant tax rate. 
+
+If such calculation is not possible, the Consortium Members shall agree on another way of allocation of the respective tax. 
+
+Taxes other than corporate income tax assessed on the Consortium shall be borne by the Consortium Members pursuant to their Proportionate Values.
+
+
+Article 12 Confidentiality
+12.1		Each Consortium Member shall use all business and technical information received from the other Consortium Member in connection with this Agreement, and which the disclosing Consortium Member expressly states to be confidential or the confidential nature of which can be assumed on the basis of the circumstances of its disclosure or its contents, solely for the purposes for which it was provided; and shall treat it in the same way as its own business secrets; and not make it available to third parties, unless the business or technical information in question:
+		(a)		is generally available from public sources or in the public domain;
+		(b)		is received at any time from any third party without a nondisclosure obligation to the disclosing Consortium Member;
+		(c)		is shown either to have been developed independently by the receiving Consortium Member without reliance on the disclosing Consortium Member’s confidential information or to have been known to the receiving Consortium Member prior to its disclosure by the disclosing Consortium Member; or
+		(d)		must be disclosed to third parties for the purpose of performing this Contract, provided such third parties are or become subject to an equivalent confidentiality obligation.
+12.2		Notwithstanding the provisions of Article 12.1, any Consortium Member may disclose any confidential information if, and to the extent that, it is required to do so by the disclosure requirements of any law, rule, or regulation or any order, decree, subpoena, or ruling or other similar process of any court, tribunal, arbitral tribunal or governmental instrumentality or of any regulatory body having jurisdiction. Prior to making or permitting any Consortium Member to make such disclosure the disclosing Consortium Member shall – to the extent possible – provide the Consortium Member that initially provided such information with written notice of any such requirement so that that Consortium Member may seek a protective order or other appropriate remedy. The Consortium Member required to make such disclosure shall co-operate with the Consortium Member that initially provided the information, in order to minimize and protect against the disclosure of the confidential information and with any efforts by the Consortium Member seeking to protect the information from disclosure to obtain proprietary or confidential treatment for such confidential information by the third party to whom the confidential information is disclosed or to seek protective orders limiting the dissemination and use of the confidential information. Nothing herein shall prevent any Consortium Member from objecting to the rule, regulation, or order requiring the disclosure.
+12.3		The foregoing confidentiality obligation shall also apply to the contents of this Contract.
+12.4		The confidentiality obligation created by this Article 12 shall continue for a period as described in Section I Special Conditions after termination of the Consortium.
+12.5		Publications of any kind on or in any media (including electronic media) by a Consortium Member or initiated by a Consortium Member referring to the Works shall require the prior written approval of the other Consortium Member, which approval shall not unreasonably be withheld.
+
+Article 13	Liability
+
+13.1 	Liability towards the Employer
+
+To the extent provided for in the Contract or in the law governing the Contract the Consortium Members shall be jointly and severally liable to the Employer for performance of the Contract. As among themselves, each Consortium Member shall be liable for its Scope of Work.
+
+13.1.1	Liability for Delay 
+
+If the Employer claims penalty or damages (including liquidated damages) for delay, the Consortium Member(s) responsible for the delay shall be solely liable up to the amount that is equal to the respective limitation for liability in the Contract expressed in percent applied to the Consortium Member(s)’s Proportionate Value, unless it is specified differently in Section I Special Conditions. The excess liability (if any) shall be borne by all Consortium Members pursuant to their respective Proportionate Value, unless the delay has been caused by Gross Negligence of the responsible Consortium Member(s), in which case it (they) shall be solely liable. 
+
+13.1.2 	Liability for Defects 
+
+The Consortium Member(s) having caused a defect will be liable for this defect and any resulting claims of the Employer. However any remedial work shall be executed subject to the terms of the Contract and subject to Article 13.3.1, by the Consortium Member in whose Scope of Work it is located or occurs. 
+
+13.1.3 	Technical Guarantees
+
+If technical guarantees specified in the Contract are not met, liability shall rest solely with the Consortium Member who has contributed to the technical guarantees not being met.   
+
+13.1.4	Mitigation by Consortium Members
+	
+If the Employer has or can reasonably be expected to become entitled to a claim for non-compliance with the Contract and the Consortium Member(s) responsible for this claim ("Responsible Consortium Member(s)") is/are unable or unwilling to avoid, mitigate or resolve it and if the claim can be avoided, mitigated or resolved by measures initiated by any of the other Consortium Members not responsible for the claim ("Non-Responsible Consortium Members"), the Non-Responsible Consortium Members may make every reasonable effort to avoid, mitigate or resolve the claim, to the extent that the claim is likely to adversely and materially affect the Consortium or Non-Responsible Consortium Members. 
+
+If the measures consist of carrying out works on the Responsible Consortium Member(s)’ Scope of Work on behalf of the Responsible Consortium Member(s) a decision of all Consortium Members,  the Responsible Consortium Member(s) not being allowed to vote, is required. If the Responsible Consortium Member(s) without justification do not attend the Steering Committee meeting where the decision on such action is to be taken, the other Consortium Member’s representatives can make a decision without need for reconvening the meeting pursuant to Article 4.2.2.6. Such decision shall become final if the Responsible Consortium Member(s) has not, within 30 Days of receipt of notice of the decision, initiated DB proceedings in accordance with Article 16.3 or arbitration proceedings if the application of the DB has not been agreed upon. If the Non-Responsible Consortium Members have to carry out works on the Responsible Consortium Member(s)’ Scope of Work the Responsible Consortium Member remains liable for defects and deficiencies in its Scope of Work (including the work carried out by the Non-Responsible Consortium Members, except in case of their Gross Negligence or wilful misconduct).
+
+The Non-Responsible Consortium Members may exercise the right to avoid, mitigate or resolve the claim only after appropriately notifying the Responsible Consortium Member(s), where reasonably possible.
+
+13.1.5 	Other Liability 
+
+Any other claims of the Employer shall be borne by the Consortium Member(s) responsible for the event giving rise to the claim.
+
+13.2 	Liability towards Third Parties 
+
+In the case of third-party claims, the Consortium Member(s) responsible for the event causing the claim shall be solely liable.
+
+13.3 	Liability of the Consortium Members with respect to each other.
+
+13.3.1	Allocation of cost for remedying Defects
+
+If a Consortium Member must execute remedial work pursuant to Article 13.1.2 without being liable for the respective defect, the Consortium Member who caused the defect shall advance or, in any event, indemnify the Consortium Member who must execute the remedial work, for the direct costs, regardless of any right to seek reimbursement under any insurance policy. The direct costs shall include overheads, expenses for establishing the cause of and the responsibility for the defect, for additional measures necessitated as a result of the defect, for changes in the Scope of Work of another Consortium Member necessitated by correction of such defect, and for repeat inspections or acceptance or other tests. 
+
+13.3.2	Design Changes and Design Freeze
+
+A Consortium Member may change the design within or related to its Scope of Work at any time provided such design change does not violate the Contract and this Agreement. If such design change occurs prior to or on the Design Freeze Date, if any, as determined by the Steering Committee the Consortium Member effecting it shall not be liable to the other Consortium Members for any impacts. If such design change occurs after the respective Design Freeze Date the Consortium Member making such change shall be liable to the other Consortium Members affected by such change for the reasonable additional direct cost plus overheads, and the that Consortium Member’s profit margin if described in Section I Special Conditions, resulting therefrom unless the design change was necessitated by another Consortium Member or the Employer or could not have been avoided by the responsible Consortium Member by applying Good Practice. 
+
+
+13.3.3 	Reimbursement of expenditure 
+
+The Responsible Consortium Member(s) shall reimburse Non-Responsible Consortium Members for the direct costs and corresponding overheads, and the profit margin if specified in Section I Special Conditions, incurred by the other Non-Responsible Consortium Members in avoiding, mitigating or resolving any claim in accordance with Article 13.1.4 (including e.g. additional personnel, overtime and the like). 
+
+The same shall apply if a Consortium Member executes remedial work for a defect caused by another Consortium Member pursuant to Article 13.1.2, in which case the direct costs shall additionally include expenses for establishing the cause of and the responsibility for the defect for additional measures necessitated as a result of the defect, for changes in the Scope of Work of another Consortium Member necessitated by correction of such defect, and for repeat inspections or acceptance or other tests.
+
+13.3.4 	Other Damage caused to other Consortium Members	
+
+If not otherwise provided herein each Consortium Member shall be liable to and indemnify the other Consortium Members for the damage(s) which it causes by Negligence in its (their) activities to the other Consortium Members such as damage to the site equipment or materials of the other Consortium Members.
+
+13.3.5 	Limitation of Liability 
+
+Each Consortium Member’s liability pursuant to this Article 13.3 shall be limited to a percentage of the value of the Scope of Work of the liable Consortium Member as specified in Section I Special Conditions per event and (ii) to the value of the Scope of Work of the liable Consortium Member in the aggregate. In the event of a liability pursuant to Articles 13.3.3 (first paragraph) or Article 14.6 or Article 14.7 hereof or in the case of responsibility for termination by the Employer for cause, only the latter limitation shall apply.  
+    
+Unless explicitly provided otherwise, no Consortium Member shall be liable to another Consortium Member for loss of profit, loss of use, loss of data or information, loss of contracts or business opportunities or any punitive damages. 
+
+The foregoing limitations and exclusions of liability shall apply to the extent consistent with mandatory law and regardless of the basis of the liability is contractual or non-contractual, or is based on breach of contract, breach of warranty, negligence, strict liability, tort or any other legal theory and shall also apply for the benefit of employees, agents, subcontractors and sub-suppliers of the responsible Consortium Member.  
+
+13.3.6 	Delayed Payments 
+
+If the Employer's payments to the Consortium Leader or any Consortium Member, as the case may be, are delayed, the Consortium Member responsible for causing, if any, the Employer's delayed payment shall compensate the Consortium Member affected by the delay in payment at a rate per annum as specified in Section I Special Conditions with respect to the amount of each Consortium Member’s delayed payment and for the duration of the delay. The Consortium Leader shall be liable for loss of interest in the same way if it does not promptly pass on payments to the other Consortium Member(s) pursuant to Article 10.4. 
+
+
+
+13.3.7 	Claim Period 
+
+If a Consortium Member intends to bring a claim against another Consortium Member pursuant to this Article 13.3, it has to notify the other Consortium Member in writing within a time period of 30 Days after it knew or - if it had applied Good Practice - should have known of the facts constituting the basis of the claim and shall describe the facts in reasonable detail in its notification. If the Consortium Member fails to do so it shall not be entitled to the claim anymore. 
+
+13.3.8 	Exclusion of further Claims
+
+Claims against any other Consortium Member pursuant to this Article 13.3 which have arisen prior to provisional acceptance of the last unit of the Project are excluded after expiry of six months thereafter except for claims for which dispute settlement procedures have been commenced pursuant to Article 16 within the time period mentioned before.  
+
+13.4 	Responsibility and Liability of Multiple Consortium Members
+
+13.4.1 	General 
+
+If more than one Consortium Member is responsible for an event which gives rise to a claim, each responsible Consortium Member shall be liable to the extent of its contribution to the event that gives rise to the claim.
+ 	
+13.4.2 	Claims against non-responsible Consortium Members 
+
+If the Employer or third parties make a claim against a Consortium Member who is not responsible, such Consortium Member shall without undue delay inform the responsible Consortium Member, who shall indemnify the Consortium Member against whom the claim was made.
+
+13.4.3  	Settlement of Claims 
+
+If the Employer or third parties threaten with a claim and/or submit a claim against the Consortium the Steering Committee shall convene as soon as practicable and decide the immediate steps to be taken in order to avoid negative impacts on the progress of the Project such as not limited to the financial needs of the Project; and such other necessary measures. 
+
+Thereafter the Steering Committee shall endeavour to establish the responsibility and the liability with regard to the event leading to the Employer’s or third party claim in accordance with this Agreement. 
+
+13.4.4	Preliminary allocation 
+
+If the Consortium Members are unable to reach agreement with respect to responsibility for all or any proportion of an Employer’s or third party claim in sufficient time to avoid negative impact on the Project, all Consortium Members shall provisionally assume responsibility for the claim according to their respective Proportionate Values. If an agreement is reached as to which Consortium Member(s) is/are liable and at what amount, or if the matter has been decided by arbitration, the Consortium Members shall reimburse each other accordingly.
+
+13.4.5 	Liability in case of Insolvency of the responsible Consortium Member
+
+If a Consortium Member is held liable by the Employer or a third party due to the joint and several liability of the Consortium Members and such Consortium Member is internally not or not fully liable but is not indemnified by the internally liable Consortium Member due to the insolvency of the latter Consortium Member or by insurance, the liability share of the insolvent Consortium Member or remainder thereof shall be borne by the other Consortium Members pursuant to their Proportionate Values and they shall indemnify the Consortium Member held liable by the Employer or the third party accordingly. 
+
+
+
+
+13.4.5 	Liability of the Consortium Leader
+
+13.4.5.1 	Liability and Limitation of Liability 
+
+The Consortium Leader shall be liable for damage caused to the other Consortium Members through Negligence with respect to the performance of its duties as described in Article 4.4.3. Such liability shall in aggregate be limited to the amount of the Consortium Leader's fee. In no event shall the Consortium Leader be liable for loss of profit, loss of use, loss of data or information, loss of contracts or business opportunities or any punitive damages. This limitation and exclusion of liability shall apply to the extent consistent with mandatory law and regardless of whether the liability claim is based on breach of contract, breach of warranty, negligence, strict liability, tort or any other legal theory and shall also apply for the benefit of the employees of the Consortium Leader.
+
+13.4.5.2	Insufficient Compensation
+
+If compensation under Article 13.4.5.1 hereof is not sufficient to cover the amount of damages caused to more than one Consortium Member, the compensation shall be divided among the affected Consortium Members in proportion to the damage suffered by each.
+
+13.4.6 	Exclusion of further Claims 
+
+Among each other, the Consortium Members shall have no claims for damages and cost reimbursement other than those set forth in this Agreement to the extent consistent with mandatory law.
+
+Article 14	Insolvency and Expulsion
+
+14.1 	Grounds for Expulsion 
+
+Unless prohibited under the Contract, a Consortium Member may be expelled from the Consortium if the other Consortium Member cannot reasonably be expected to continue the Consortium with such a Consortium Member (“Expulsion”). Relevant circumstances giving rise to such Expulsion include, but are not limited to:
+
+prior to the award of the Contract, a Consortium Member being acquired by or merged with an entity having a conflict of interest with the pursuit of the Project;
+
+prior to the award of the Contract, if a Consortium Member is disqualified by the Employer;
+
+if a Consortium Member is excluded from the Contract by the Employer.
+
+a material breach or persistent breaches of the Agreement, the Contract or applicable laws and regulations by a Consortium Member which is irremediable or (if such breach is remediable) where it fails to remedy that breach without undue delay after having been given written notice on it requiring such remedy. Such a breach might be in particular, but is not limited to, (i) a breach by a Consortium Member of the undertaking under Article 5.7; or (ii) non-provision of the security stipulated in Article 8; or
+
+a Consortium Member ceases to hold any qualification, certification or registration required for the performance of its duties as a Consortium Member, or becomes  unfit to carry on his duties and obligations as a Consortium Member; or
+
+if the behaviour of a Consortium Member seriously endangers the successful performance of the Agreement and/ or Contract; or
+
+a Consortium Member has bankruptcy, composition or reorganization proceedings or any other insolvency proceedings opened against it by court or other public authority; or has an order entered against it either appointing a receiver or trustee for, or issuing a levy attachment against a substantial portion of its assets, without this order being vacated, set aside or stayed within 60 Days from the date of entry; voluntarily files a petition under the bankruptcy or equivalent insolvency law; becomes insolvent or faces a substantial deterioration (actual or imminent) in its assets; or has payment claims (existing under the terms of the Contract) or its membership interest in this Consortium seized by a creditor; consents to or applies for reorganization under the bankruptcy or equivalent insolvency law; makes an assignment for the benefit of its creditors; or has involuntarily filed against it, a petition under the bankruptcy or equivalent insolvency law, which is not dismissed within 90 Days after filing. 
+
+14.2 	Procedure of Expulsion
+
+Expulsion shall be effected by a resolution adopted by the Steering Committee. The concerned Consortium Member must be given the opportunity to defend its interests, but its presence in the meeting is not required and in no case will it has a voting right. Expulsion shall become effective on the day of the resolution of the Steering Committee and it shall become binding if the Consortium Member to be expelled has not, within 30 Days of receipt of resolution, initiated DB proceedings in accordance with Article 16.3 or arbitration proceedings if the application of the DB has not been agreed upon. Expulsion shall not affect any other existing rights or obligations of the Consortium Member to be expelled or any claims against it.
+
+14.3 	Continuation of the Consortium 
+
+If a Consortium Member is expelled from the Consortium, then the Consortium shall continue with the remaining Consortium Members. Upon a Consortium Member's exercise of its right under mandatory law to terminate the Consortium, it shall leave the Consortium, and the remaining Consortium Members shall continue the Consortium.  
+
+14.4 	Use of Property 
+
+The Consortium Members remaining in the Consortium may use the expelled Consortium Member's physical property (such as equipment, materials, system components) and intellectual property (such as drawings and know-how), for which no substitute can be obtained at a reasonable cost and in due time. The departing Consortium Member shall make every effort to facilitate such utilization. The expelled Consortium Member shall be entitled to a reasonable compensation for such use by the other Consortium Members. The compensation for such utilization shall only become payable once all accounts have been settled between the remaining Consortium Members and the Employer. 
+
+The departing Consortium Member shall have the duty to without undue delay:
+make a full disclosure all information relevant for the continuation of the Project, including disclosure of information regarding sub-contractor(s) and sub-contract(s) relevant to that Consortium Member’s Scope of Work.
+sign and execute all documents and perform all acts that the Consortium requires for the purpose of enabling the Consortium to recover any outstanding interest or right, or the property of or in connection with the Consortium or the remaining Consortium Members; and 
+return to the Consortium or Consortium Members all documents, records, papers, or other property (in whatever form held) which are not owned by itself but may be in its possession or under its control, which relate in any way to the Scope of Work or the Consortium’s business affairs, and it shall not retain any copies thereof. 
+
+14.5 	Liability for Work Provided 	
+
+The expelled Consortium Member(s) shall not be relieved from any of its liability for or in connection with its performance of its Scope of Work up to the date of Expulsion, subject to the limitations and/or exclusions of liability under the Agreement and/or the Contract. The remuneration of the departing Consortium Member for such supplies and services shall be paid in accordance with Article 10. The other Consortium Members shall be entitled to condition such payments to the departing Consortium Member on its provision of securities covering possible claims in accordance with this Agreement.
+
+14.6 	Liability for Damages 
+
+To the extent the expulsion is due to causes within the control of the expelled Consortium Member it shall be liable to the other Consortium Members for damages (for example for the increase in cost to finalize the Project and for compensation payable to the Employer for delay to the extent they result from the expulsion). 
+
+14.7 	Execution by Substitution
+
+If Expulsion is prohibited under the Contract, and the above mentioned procedure 14.2 to 14.6 is not possible, then the remaining Consortium Members may decide to reduce the Scope of Work of the concerned Consortium Member(s) to 0 and withdraw its voting rights in the Consortium. The consequences as per the Articles 14.2 to 14.6 shall apply mutatis mutandis when this provision is applied.
+
+14.8 	Dismissal of the Consortium Leader
+
+The Consortium Leader may be dismissed from its tasks by resolution of the other Consortium Members if circumstances arise in accordance with Article 14.1 which make it unreasonable for the other Consortium Members to allow the Consortium Leader to maintain its position as Consortium Leader. Article 14.2 shall apply to the dismissal of the Consortium Leader from its tasks as far as appropriate.
+
+Article 15	Duration and Termination
+
+15.1 	Effective Date 
+
+This Agreement shall become effective on the date as specified in Section I Special Conditions regardless of the date of signature of the Consortium Members and continue until it is terminated.
+
+15.2 	Causes for Termination
+
+The Consortium shall be automatically terminated in the following events: 
+
+withdrawal of the Bid by the Employer or announcement by the Employer that it will not award the Contract to any of the bidding parties; provided, that if the Employer announces within one hundred and eighty (180) Days of such withdrawal or announcement of non-award that it will re-bid the Project, then this Agreement shall remain in effect for the re-bid unless otherwise agreed by the Consortium Members; or
+the expiry of the period of validity of the Bid unless the Consortium Members have agreed in writing to prolong the validity of this Agreement beyond such period; or
+if the final offer of the Consortium Members is not accepted and no further negotiations are carried out by between the Employer and the Consortium; or
+when the Consortium Members have unanimously so decided and recorded such decision in writing; or 
+failure of the Consortium Members to agree on an offer after negotiating in good faith for a reasonable time, provided that jointly two Consortium Members or the Consortium Leader give the other Members 5 Days written notice of the intention to terminate the Agreement; or
+in the event that the Contract is awarded to the Consortium, once the Contract has been performed or terminated and the Consortium Members have fulfilled all their obligations and received their rights in accordance with the Contract and this Agreement.
+
+15.3	The termination of this Agreement shall not affect the rights and obligations of the Consortium Members accrued up to the date of the event causing the termination of the Agreement.
+
+Article 16	Claims, Dispute Resolution and Arbitration
+
+16.1	All Disagreements and Disputes shall be resolved solely by the procedures set out in this Agreement.  
+
+16.2	If a Disagreement arises out of in connection with this Agreement during the time period described in Article 6, the respective Consortium Members shall attempt, in fair dealing and good faith, to settle such dispute amicably. The Consortium Members shall be free to organize the procedure of their settlement negotiations and to include senior management representatives as the case may be. Any of the Consortium Members involved in the negotiation process may terminate the settlement negotiations at all times by written notification to the other Consortium Member(s).
+
+16.3	In order to avoid and resolve Dispute(s) amongst the Consortium Members, which can impede the continuation of the Works, the Consortium Members hereby agree, if selected in Section I Special Conditions, to establish a Dispute Board as specified in Section I Special Conditions, (“DB”) in accordance with the ICC Dispute Board Rules in force at the date of signing this Agreement (the “Rules”), which are incorporated herein by reference. The selected DB shall be established within 30 Days after commencement of the Project and shall have 1 or 3 member(s) as specified in Section I Special Conditions. Where the Consortium Members have not otherwise agreed, there shall be a Combined Dispute Board of 3 members.
+
+16.4	All Dispute(s) arising out of or in connection with the present Agreement which are not resolved in accordance with the procedure as described in article 16.2 and/or 16.3 shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by 1 or more arbitrators as specified in Section I Special Conditions appointed in accordance with the said Rules. The place of arbitration and the language of the arbitral proceedings shall be specified in Section I Special Conditions.
+ 
+Article 17	Choice of Law
+
+17.1	This Agreement shall be governed by, and all disputes in connection with it shall be resolved in accordance with the substantive law of the country as specified in Section I Special Conditions without regard to this jurisdiction’s conflicts of law provisions.
+
+Article 18	Miscellaneous
+
+18.1 	No Joint Venture, Agency or Partnership
+
+Nothing contained in this Agreement shall be construed as creating an agency, partnership or joint venture relationship among the Consortium Members.
+
+18.2	The Consortium Members acknowledge that in the event of damage, the Consortium Members shall exert all reasonable efforts to mitigate the damage accruing from such event.
+
+18.3	Assignment
+
+No Consortium Member shall assign its rights under this Agreement to any third party, without the prior written consent of all Consortium Members, and any attempted assignment without this consent shall be void. Should the Contract additionally require Employer’s authorization for such an assignment, the latter will only be effective upon prior approval of all Consortium Members and Employer.
+
+18.4 	Amendments 
+No modification to this Agreement will be binding, unless made in writing by Authorized Representatives of all Consortium Members. Any waiver of this requirement for the written form shall likewise be issued in writing thereby.
+
+18.5	Communications in writing
+
+All correspondence, notices and other communications to be given to any of the Consortium Members pursuant to this Agreement in writing or written form, shall be sent, delivered or transmitted by courier, in person (against receipt), or by facsimile or e-mail with confirmation of receipt, at the respective addresses set forth below.  However, if Consortium Members designate other addresses by notice given in accordance herewith, all correspondence, notices and other communications to be given to the respective Consortium Members shall thereafter be delivered accordingly.
+
+Any correspondence, notice or other communication served as provided in this section shall be deemed to have been received:
+in the case of delivery by hand or by courier, when delivered against an acknowledgement of receipt; or
+in the case of fax or e-mail (with confirmation of receipt requested) sent to the correct delivery address, the next local business day in the Country of the intended recipient (day on which banks are open for general business), following the day of successful transmission.
+
+Approvals, certificates, consents, decisions, requests, notices and/or notifications shall not be unreasonably withheld or delayed by Consortium Members.
+
+18.6 	Written form
+
+Written form or in writing shall mean that the respective notification, statement, agreement, decision, resolution is signed by one or more representative(s) of the Consortium Member. An e-mail message shall only be considered in writing if it results in a record with a confirmation of receipt. 
+
+All correspondence, notices and other written communications shall be delivered by authorized individuals of the Consortium Member, as follows: legal representatives of each Consortium Members, project managers and site managers thereof and all other individuals which authorization is previously informed to all Consortium Members. 
+
+18.7 	Partial Invalidity, Omissions 
+
+Any individual provision of this Agreement which is or becomes invalid, or any omission to provide for any subject matter, shall not affect the validity of the remaining provisions of this Agreement. In such cases, the Consortium Members shall seek effective solutions as closely as possible approximating (in economic effect) to the invalid provisions.
+
+18.8 	Language of the Agreement, Correspondence, Documentation 
+
+The language of this Agreement shall be English. Correspondence, technical and commercial documents as well as any other information exchanged between the Consortium Members relating to this Agreement shall be in English. If another language is agreed with the Employer in respect of the Contract, correspondence, technical and commercial documents and other information – including any drafts thereof – to be exchanged between the Consortium Members and which are intended to be passed on to or to be used towards the Employer may be in the language that is agreed with the Employer. 
+
+18.9 	Waivers 
+
+Any waiver on the part of any Consortium Member of any right or interest shall be in writing and shall not imply the waiver of any other right or interest or any subsequent waiver.
+
+18.10 	Entire Agreement 
+
+This Agreement is the Consortium Members’ entire agreement relating to the subject matter hereof. It supersedes all prior or contemporaneous agreements, oral or written communications, proposals, drafts and representations with respect to its subject matter. Such prior or contemporaneous agreements, oral or written communications, proposals, drafts and representations may however be used for the interpretation of the Agreement where the Agreement is unclear or ambiguous. 
+
+18.11 	Counterparts
+
+This Agreement may be executed in any number of counterparts, all of which, taken together shall constitute one and the same Agreement.
+
+18.12 	Announcements
+
+No Consortium Member shall make any public announcement or communicate any information to third parties concerning the subject matter of this Agreement without the prior approval of the other Consortium Members. 
+
+18.13 	Alleging Lack of Capacity
+
+Each Consortium Member warrants that, once this Agreement is executed, it will not allege that the person or persons who signed the Agreement on behalf of that Consortium Member lacked the capacity or authority to execute the Agreement, or that there was some other formal invalidity or incapacity that affected the validity or enforceability of the Agreement against that Consortium Member.  In particular, actual or alleged lack of governmental or managing board authorisations or permits shall not excuse non-performance or non-observance of the Agreement by a Consortium Member.
+
+18.14. 	Waiver of Sovereign Immunity and Similar Privileges
+
+Any sovereign immunity or immunity from execution or attachment is hereby waived by Consortium Members.  It is agreed that this Agreement is a commercial transaction under international law and that governmental or state bodies entering into this Agreement do so with the intention of making the Agreement effective in accordance with its terms and so hereby waive any and all sovereign immunity, immunity from attachment or administrative law requirements that otherwise might have applied to them.
+
+18.16 	Provisions to Continue
+
+The expiration or termination of this Agreement shall not affect such provisions of this Agreement as expressly provide that they will operate after any such expiration or termination, or which of necessity must continue to have effect after such expiration or termination, notwithstanding that the clauses themselves do not expressly provide for this. 
+ 
+[end of General Conditions]
+￼ 	It is not uncommon in practice that a silent (or internal or undisclosed) consortium can be formed whereby the Employer contract is entered into between the Employer and one of the companies involved as the sole ostensible contractor. In that case, only the ostensible contractor is party to and is liable to the Employer for fulfilment of the contract. For those supplies and services that the ostensible contractor wishes to source from the outside, he can e.g. form a silent consortium with other companies. The “silent” members are not liable for the fulfilment of the contract in the contractual relationship with the Employer who will hence not benefit from joint and several liability. Lack of transparency to the Employer is another downside, such being alleviated, in a vast proportion of jurisdictions by the fact that, for human safety and other project management purposes, all and any party present on the worksite must be identified and declared to the Employer. ￼ Germany, Russia, Belgium and Italy, for example, have specific rules governing consortia.￼ While the number of members is in theory not restricted, the user should be aware that the higher the number is, the more complicated the implementation of the project will be - in particular due to the principle of unanimity.￼ Further Annexes might be used, e.g. to cover HSE, Project procedures, prices, etc.￼ It would normally be a good idea to have a witness from all Consortium Members witness all signatures, and examine the business cards or powers of attorney of those signing as duly authorised representatives. If appropriate, a chop or seal should be attached from the Consortium Members.
+￼ As said in the Introduction, a number of jurisdictions have specific regulation about consortia in this context, the choice of administrative office may have legal consequences that the users need to investigate in advance.￼ Each Consortium Member shall have due regard and respect for religious practices, days of rest and other recognized customs of the relevant country.￼      If the option is not specified in Section I Special Conditions then this shall mean that the option clause is not selected and therefore not part of the Agreement.￼    Please be aware of the local codes and regulations such as HSE and tax regulations, which do not only mandatorily apply to the Project (e.g. regarding a necessary building and operation permit) and the respective construction, manufacturing, erection activities and all other activities necessary to fulfil the Contract, but which might have a considerable impact on the Consortium respectively the Consortium Members and its/ their activities regardless or even depending on where the Consortium members’ seat or the Consortium’ s seat / administrative office is. The users of this model contract must analyse these impacts and take the applicable local laws and jurisdiction into account before concluding this Agreement and before opting for a specific contractual setup, e.g. by choosing the Consortium’s seat/ administrative office.￼ This model agreement does not provide standard language for the allocation of potential interface risk which is inherent to projects with multiple contractors interacting for the execution of work whether simultaneously or in necessary sequence, or again whether on the same worksite or shared facility or infrastructure. Because it is project specific, interface risk and its allocation must be part of the negotiation of the parties and needs to be evaluated. Because interface risk is largely unpredictable, the solution of this model agreement is that interface risk will be managed by the Steering Committee and, as the case may, Project Committee, as part of the overall management of the Consortium.￼ If the size of the project allows, it is advisable to appoint two (or more) levels of Authorised Representatives (Steering and Project), in order to allow the possibility of escalating disagreements and conflicts internally with a view to preventing disputes. 
+￼ To the effect of maximising coordinated progress and knowledge management during the execution of the Works, it is part of Good Practice to define an overall project organisation which shall ensure that each Consortium Member shall keep the other informed of their respective progress and particularly in relation to interfaces and interactions of their respective Scopes of Work. The overall project organisation also addresses the required notifications of any potential difficulties met by any Consortium Member in regard to the on-time and quality fulfilment of its respective Scope of Work as well as any changes and/or variations it considers necessary for the proper fulfilment of its obligations as set out in the Contract.￼ In the increasingly digital environment of the construction industry, the Consortium Members may well be under the obligation under the Contract to use a Building Information Modelling platform or system and they will be well advised to consider using one even in the absence of such obligation. Building Information Modeling is an electronic collaborative tool which is used in public procurement in Europe, see e.g. EU Directive 2014/24, and other various regions.￼ It may be that a Consortium Member’s delay allows the delay of another Consortium Member (e.g. later in the Time Schedule) to avoid sanction. As this Model Agreement is drafted, in case of concurrent delays by more than one Consortium Member causing a delay claim by the Employer, it has not been defined, for the sake of brevity, how the liability for the delay will be apportioned amongst the Consortium Members who have concurrently caused the delay, according e.g. to predominance or other criteria, which highly depends on the specifics of the Project and the delay. The issue should however be kept in mind, if the specifics of the project and its critical path warrant it, and dealt with, as the case may be, in Section I Special Conditions.     

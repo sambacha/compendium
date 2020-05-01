@@ -1,0 +1,2281 @@
+THE AUTONOMOUS CONTRACT
+***********************
+
+REFLECTING THE BORDERLESS ELECTRONIC-COMMERCIAL ENVIRONMENT IN CONTRACTING
+==========================================================================
+
+&#169; Ralph Amissah*
+
+1. INTRODUCTION
+---------------
+
+  "Globalization is unstoppable. Even though it may be only in its early
+  stages, it is already intrinsic to the world economy. We have to live with
+  it, recognize its advantages and learn to manage it.
+
+  That imperative applies to governments, who would be unwise to attempt to
+  stem the tide for reasons of political expediency. It also goes for companies
+  of all sizes, who must now compete on global markets and learn to adjust
+  their strategies accordingly, seizing the opportunities that globalization
+  offers."[^1]
+
+At a national level, jurists as lawmakers over time magically create their own
+reality, that is, the world in which they work, and are certified as
+oracles.[^2] They are proud of their traditions in which they are specialists
+and about which they tend to be protective. Commercial men as contracting
+parties, with greater ease, instantaneously, through an expression of their
+will, (by the wave of their pens, if not by mere incantations), can choose to
+make any one of several alternative parallel worlds their reality. The various
+dogmas and beliefs held as sacrosanct by individual sovereign legal parishes,
+are not necessarily so hallowed by the business community.[^3] The fact that
+the desired "law" may generally be selected by an expression of the will of the
+parties, means that they can elect out of any of these fettered systems. This
+paper is unsentimental about legal systems, its loyalty is placed elsewhere, in
+the contract, and its ability to find solutions to the needs of the parties it
+serves. An eminent economist has suggested that the study not of contract law,
+but rather of contract practice is the key to understanding the economic
+properties of contracting that are necessary to work out sensible uniform laws
+for commercial purposes.[^4] That view is shared in this paper. However, even
+within the frame of law and economics[^5] (to which only passing reference is
+made in this paper) it is necessary to be mindful of the limitations of the
+desirability of absolute freedom of contract.[^6] And to recognise the fact
+that the international business community as a whole may benefit from a degree
+of control over such freedom.[^7] This possibility is recognised by more modern
+schools of law and economics such as the Institutional Approach.[^8]
+
+<u>The autonomous contract</u> is a concept based on three ideas, that provide
+lenses or perspectives with which to view the needs of the international
+business community as they affect and are affected by a polymorphous set of
+interrelated issues and areas of law: * (i) * / <u>The "autonomous contract" as
+an expression of the will that "governs" international commerce</u> /. The
+extensive freedom of contract granted the parties in international commerce,
+ensures that the contract determines the nature of the business relationship
+and most matters that govern it, including the "law" selected (subject to the
+mandatory provisions of applicable governing law), and the means of dispute
+resolution. In a real sense the contract is at the top of the hierarchy of
+legal instruments that govern the parties' relationship. This ensures that the
+selection of "law" and means of dispute resolution is a market driven affair
+that will be based on their ability to provide the parties with the greatest
+utility. / Contractual autonomy as a function of freedom of choice in the
+global economy /. * (ii) * / <u>The "autonomous contract" as seeking the means
+to transcend national boundaries</u> /. Economic activities have become
+increasingly global and the "law" that provides for them should do so in the
+same dimension. The quest is to find or achieve a uniform legal order that is
+preferably delocalised, transcends state boundaries, provides cross-border
+transparency and world-wide effect.[^9] This idea is discussed in relative
+terms, the more transnational and transcending of state law, the greater the
+uniformity achieved, or the more a-national the "law", the more autonomous the
+resulting contract.[^10] Areas of particular interest are: uniform substantive
+rules of law; uniform interpretation of such rules and the contract; and the
+global enforcement of decisions. / Seeking a foundation for contract that is
+more autonomous of individual states, with the aim of attaining greater
+efficiency, consistency and predictability in international business
+transactions, and thereby, insofar as it is possible, to transcend the
+relevance of borders /. * (iii) * / <u>"The autonomous contract" designed to be
+virtually self-contained and "self-governing"</u> /. The contract could become
+a transnational medium of regulation onto itself, being designed as a one-stop
+reference, containing all the material required for its functioning, governance
+and the resolution of any disputes arising under it. Technology of the
+electronic age together with developments in international law would allow a
+contract to be incorporated and presented together with all material that was
+to have a binding authoritative effect in relation to it, (excepting the
+mandatory law).[^11] / The self-contained autonomous contract as one possible
+solution to the efficient achievement of global predictability /.
+
+The practicability and utility of an "autonomous contract" (e.g. one founded in
+a-national law) is dependent on its ability to serve the international business
+community as a suitable risk management tool and to result in improved
+transaction costs. Much discussion is focused on the underlying supportive
+structure for contracting and how a predictable and efficient means of
+contracting world-wide might be achieved. There is a relationship (sometimes
+co-operative at others competitive) between the efforts of interested
+international organisations and governments to provide services to the
+international business community on which they can choose to base the substance
+of their contracts and the resolution of disputes arising thereunder. Given the
+scope of the subject matter of the paper, only a broad outline and general
+framework can be developed. The discussion though occasioned by and made more
+current by the nature and growth of electronic-commerce, is a broader one that
+holds true for all contracts that have a transnational aspiration and as such
+is of general relevance to international commerce. The wider frame is adopted
+under the assumption that solutions should, as far as possible, be technology
+neutral. <u>Section 2</u> of this paper looks at the various means available to
+the international business community to cope with the multitude of states in
+which they conduct business. It suggests a correlation between the search to
+establish reliable internationally uniform business methods and having greater
+autonomy from state law. The autonomous contract in the second sense, seeking
+the means through greater autonomy of individual state to reflect a desired
+borderless transnational environment in contracting. <u>Section 3</u> looks at
+the difficulty in achieving predictability in international disputes, which is
+a requisite for commercial contract planning, and which all legal orders,
+especially those that are autonomous of state, must satisfactorily cope with if
+they are to succeed. <u>Section 4</u> looks at possible alternative ways of
+improving uniform predictability and/or efficiency of dispute resolution, that
+would result in greater autonomy or lead to the further transcending of state
+law.
+
+2. IN SEARCH OF AUTONOMY
+------------------------
+
+The business community engaged in international commerce has had to find ways
+to cope with the high degree of legal uncertainty brought about by the crossing
+of numerous legal systems whose rules are expressed in a multitude of
+languages. This section discusses the business community's search to reduce the
+relevance of borders and attain greater uniformity for their contracts by
+various means, including basing their contracts on a-national law and reliance
+upon international commercial arbitration for the resolution of disputes that
+may arise. Methods employed to reduce the legal relevance of borders include /
+inter alia /:
+
+* (1.a) * Use of standard contracts. * (1.b) * Reference to uniform principles
+and rules. * (2.a) * Choice of law of an acceptable state.[^12] * (2.b) *
+Choice of law of a state applying relevant uniform laws. * (3) * Choice of
+jurisdiction of an acceptable state.[^13] * (4.a) * Recourse to international
+commercial arbitration (ICA) which gives the greatest effect to the will of the
+parties, and provides the most extensive regime for enforcement. * (4.b) * In
+ICA excluding the application of the law of any sovereign state - through
+application instead of / lex mercatoria / or the like - the rules and
+principles of the international business community. * (5) * Use of
+self-regulating constitutional contracts that attempt to internalise all
+aspects of the parties' relationship, e.g. a long-term joint venture which may
+or may not be designed so as to result in the establishment of a separate
+company (Shell is such a company). * (6) * Large multinationals which are
+vertically and horizontally integrated in their production and provision of
+services across national boundaries are able to arrange their transactions
+internally within the corporate structure to a large extent avoiding the need
+for contract law and practice. Examples 5 and 6 are related to corporate
+structuring and are outside the scope of this paper.
+
+The contract is a formal tool used by the business community to structure their
+relations, for which business practice and economics suggest the importance of
+a predictable and efficient underlying legal framework. However, any kind of
+legal regulation is a potential source of unpredictability. The transnational
+nature of international business provides an additional dimension to the
+difficulty of securing these requirements. The predictability of business
+relations is dependent on such aspects of "law" as the predictable
+interpretation and construction of legal texts, and the global recognition and
+enforcement of the dispute resolution judgement or award. Predictability and
+efficiency, which may be roughly equated to risk management and transaction
+costs, can be enhanced through the establishment and use of uniform "laws",
+rules and principles, insofar as they result in reduced complexity. The
+"autonomous contract" in the three senses of the concept, if directed towards
+these ends by the business community suggests various means to secure these
+collective ends for the international business community. A more autonomous
+basis for contract is already given support by relevant international
+institutions (and states competing for international business) that take into
+account the needs of the business community, signalled by their choices (of law
+and legal framework).
+
+2.1 THE DIMINISHING ROLE OF STATES
+..................................
+
+The paradigmatic concept of law and model of legal order is still that of the
+sovereign state.[^14] National systems, for all their shortcomings, tend to
+consistently apply themselves in a way that becomes publicly known to the
+relevant legal community, and allows for the predictable structuring of
+relations. However, members of the international business community are not
+well served by having to employ lawyers in each country in which they operate
+to provide specialist advice on similar areas of law[^15] and are in a constant
+search for ways around these obstacles. There are a number of ways in which
+this paradigm is being broken down in the sphere of international commerce. *
+(a) * At one level the concept of law of the nation state is eroded through
+action of the states themselves, by their implementation of uniform laws (both
+at an international and regional[^16] level). This may be the result of a state
+wishing to modernise its law, or recognising the limitations of a fractal
+international legal order and wishing to facilitate trade by simplifying their
+relationship to it. This is typically done by working through international
+institutions to achieve substantive uniformity in a particular area of
+commercial law. The result of this being that individual state law becomes less
+important. * (b) * With modern substantive uniform law, states are increasingly
+called upon to bind themselves and their judiciaries,[^17] to take account of
+the "international character" of the uniform law and "the need to promote
+uniformity in international trade." In spite of the formidable problems
+associated with achieving uniformity of application of such uniform laws in the
+judiciaries of different states acting independently of each other, this
+obligation further internationalises state law. * (c) * Perhaps more
+importantly, the contract regulatory order represented by the laws and
+judiciary of the sovereign state, has a significant competitor that is arguably
+much better suited to the needs of transnational commerce, in the package
+represented by the many forms of international commercial arbitration. * (d) *
+States, in accepting the preference of the international business community,
+play a further essential role in giving support to the framework required by
+arbitration for it to function effectively. This in fact is carried further as
+competition exists on a state level as regards providing national arbitration
+laws that attract arbitration.[^18] * (e) * Most important and underlying this
+advance has been the granting of full effect to the "will" of contracting
+businessmen. Through freedom of contract in commercial affairs, states have
+provided parties with comprehensive autonomy in the organisation of their
+commercial affairs, with the exception of course of mandatory law. If state law
+does not suit the demands of the business community, they are free to go
+elsewhere. Businessmen can and do limit the role of the state in their
+contractual relations, seeking more globally applicable and uniform solutions.
+Responding to this demand there are various international institutions and
+service providers that are sensitive to the needs of the business community
+that increasingly target the contracting parties as representing an alternative
+means of unifying "law" and providing global solutions.
+
+2.2 SOLUTIONS AVAILABLE WITHIN NATIONAL LAW
+...........................................
+
+2.2.1 UNIFORM LAW AND ITS LIMITATIONS
+.....................................
+
+Selection of the law of a municipal system that applies uniform law is one
+important step that can be taken within the framework of municipal law, to make
+the contract more autonomous. The comments in this paper will be restricted to
+uniform substantive law, in the form of conventions that are to be adopted and
+applied in a uniform manner at an international level.[^19] Several other
+approaches to reaching various levels of uniformity exist.[^20] The model law
+approach for example, is based on ensuring that the law of different countries
+has a similar recognisable structure and essential elements. This is used where
+structural similarity is desirable but uniformity is not essential,[^21] or
+where the achievement of greater uniformity would prove difficult or impossible
+due to differences in national law. Also discussed in this paper are
+"restatements" of law, in the form of general principles of contract, with the
+/ UNIDROIT /[^22] / Principles of International Commercial Contracts /,[^23]
+providing a prominent current example.
+
+* / The CISG as a uniform law example / *
+
+  "Can clear, predictable international law be made from the divergent rules of
+  dozens of domestic legal systems, rules built with local idioms for which
+  there are no equivalent terms in other languages? The answer, unhappily, is
+  no, but that is not the end of the story."[^24]
+
+The greatest success for the unification of substantive commercial contract law
+to date, has been by / UNCITRAL /[^25] with respect to the sale of goods in the
+/ Vienna Sales Convention / (/ CISG /).[^26] The / CISG / is currently applied
+by 49 states, commonly estimated as representing two-thirds of world trade. It
+may be regarded as the culmination of an effort in the field dating back to
+Ernst Rabel,[^27] followed by the Cornell Project,[^28] and connected most
+directly to the / UNIDROIT / inspired / Hague Uniform Law for International
+Sales / (/ ULIS / and / ULF /),[^29] the main preparatory works behind the /
+CISG /.
+
+The development and formulation of uniform law takes time, as does the
+formulation of uniform principles and rules. Unlike principles and rules,
+however, for uniform law to come into force and to be applicable, must go
+through a long process of ratification and accession by states. Even where
+states implement uniform law they frequently do so with various reservations.
+Success that is by no means guaranteed, takes time. For every uniform law that
+is a success, there are more failures. Even where there is widespread use of a
+uniform law, there are usually as many or more states that are exceptions. The
+implementation of uniform law is however, not the end of the story, as
+immediately the question of its uniform application arises. This is a
+fascinating subject that is of central importance to the development of
+autonomy, both within and outside the framework of municipal law.
+
+  "If / UNCITRAL / manages to become accepted by the whole world in any domain
+  of the law or a set of rules, one believes that the problem of conflict of
+  laws will be eliminated in this field, but this is not the case. A
+  counter-effect enters into the picture. The uniform law from the very moment
+  of its coming into operation starts to differ from itself. Every judge in
+  every country is a sovereign interpreter of the text, and the judge became a
+  judge by learning the system of law of his own country. And as the speediest
+  bird is unable to fly out of itself, so the judge is unable to forget the law
+  that he has learned. Divergent or contradictory interpretations, like the
+  application of rules of different countries, lead to different
+  judgements"[^30]
+
+We shall return to the problem of uniform application, under that heading and
+in the context of seeking means of achieving solutions to the problem of
+predictability. It should be noted here however, that uniform law does not
+cover all aspects of the relationship between the contracting parties, its
+scope is defined.[^31] Relevant applicable and mandatory law continues to
+apply.
+
+2.2.2 UNIFORM RULES AND PRINCIPLES
+..................................
+
+We include in this category, rules and principles governing specific aspects of
+the contractual relationship, [^32] negotiated standard contracts, and more
+comprehensive negotiated standard contracts drafted by international
+institutions[^33] and trade associations.[^34] In addition to these are the
+newcomers in the form of comprehensive general contract principles or contract
+law restatements that create an entire "legal" environment for contracting.
+Standard rules and principles provide greater flexibility, and have one clear
+advantage over uniform law in their being contractually agreed, and thereby, as
+Honnold put it "becoming effective by a stroke of the pen of the parties
+concerned."[^35] Amongst the reasons for their use is the reduction of
+transaction cost, "parties often want to close contracts quickly, rather than
+hold up the transaction to negotiate solutions for every problem that might
+arise",[^36] and they satisfy risk management criteria, being known, tried and
+tested, their effects being predictable. Furthermore uniform principles allow
+unification on matters that at the present stage of national and regional
+pluralism could not be achieved at a treaty level. Take for example the
+question of "interest", which is a politically sensitive issue in some
+countries, though largely accepted by the business community, and compare the
+provision in the / CISG / with that of the / UNIDROIT International Contract
+Principles /.[^37] Such provisions are extremely useful to have for clarity,
+and may be varied if unacceptable to the contracting parties. With the /
+UNIDROIT /[^38] and / EU /[^39] / Contract Principles /, we have contract law
+restatements, that is, standard rules and principles of contract that create
+what is close to an autonomous (complete and independent) environment for
+contracting. This is so even where selected in conjunction with the law of a
+sovereign state whether in the context of litigation or arbitration. We shall
+return to consider the / UNIDROIT International Contract Principles / in the
+context of international commercial arbitration where it is possible to achieve
+even greater autonomy.
+
+2.2.3 SITUATION SPECIFIC STANDARD CONTRACTS
+...........................................
+
+Standard contracts may attempt to be autonomous in themselves, but seldom are,
+having a limited scope of regulation and depending for their ultimate
+interpretation and gap filling on the applicable "law". This type of standard
+contract is more often than not drafted unilaterally by a single firm that
+represents a particular contractual interest. These are too diverse for much of
+a general nature to be extracted for our current purposes, being specific to
+the business that prepares them and to the type of goods or services for which
+they provide.
+
+2.3 A TRANSNATIONAL REGULATORY ORDER FOR CONTRACTS
+..................................................
+
+Within the traditional municipal order a limited degree of autonomy is
+available in contract. Autonomy is here used in the sense of reducing the
+relevance of specific national laws. This is achieved as discussed through: the
+selection of the law of a state that applies uniform law; the use of uniform
+rules and principles; and/or the use of negotiated standard contracts. There
+are problems however, with state's judiciaries' limited ability to disengage
+themselves from their traditional legal process, methods of legal reasoning,
+use of sources, and interpretation of uniform law, principles, rules and
+contracts. In addition to these there are problems associated with the
+enforcement of claims in other states world-wide as required for international
+commerce. These constraints have long represented a hindrance to the business
+community that has sought and found a preferable solution in international
+commercial arbitration. This may be further enhanced through the selection of
+a-national law as the governing law of the contract under arbitration, such as
+/ lex mercatoria /. This a-national regulatory order is made possible by: * (a)
+* States' acceptance of <u>freedom of contract</u> (/ odre public / or public
+policy excepted). * (b) * Sanctity of contract embodied in the principle /
+<u>pacta sunt servanda</u> /. * (c) * Written contractual selection of dispute
+resolution by <u>international commercial arbitration</u> - / ad hoc / or
+institutional, usually under internationally accepted arbitration rules. * (d)
+* Enforcement: arbitration where necessary borrowing the state apparatus for
+<u>law enforcement through the / New York Convention</u> on Recognition and
+Enforcement of Arbitral Awards 1958 /. * (e) * Greater transnational effect is
+achieved through the exclusion of state law as governing the contract. Usually
+substituting the choice of general principles of law or / <u>lex mercatoria</u>
+/ as governing the contract, or calling upon the arbitrators to act as /
+amiable compositeur / or / ex aequo et bono /. For increased predictability
+preferably through application of the / UNIDROIT Principles /.
+
+2.3.1 INTERNATIONAL COMMERCIAL ARBITRATION (ICA)
+................................................
+
+It appears accepted that ICA has become the most prevalent means of dispute
+resolution in international commerce.[^40] This is hardly surprising as ICA is
+a cornerstone of the autonomous contract, and unlike litigation survives on its
+merits as a commercial service to provide for the needs of the trading
+community. As such ICA adheres more closely to the rules of the market economy,
+responding to those needs and catering for them more adequately. It has
+consequently been more dynamic than the national courts, in adjusting to the
+changing requirements of modern world trade.[^41] ICA, in taking its mandate
+from and giving effect to the will of the parties, provides them with greater
+flexibility and frees them from many of the limitations of municipal law. As
+examples of this, it seeks to give effect to the parties' agreement upon: the /
+lex mercatoria / as the law of the contract; the number of, and persons to be
+"adjudicators"; the language of proceedings; the procedural rules to be used,
+and; as to the finality of the decision. ICA through state support provided by
+the / New York Convention / (and where implemented by the / UN Model Law / on
+ICA) grants international commercial contracts an unparalleled enforcement
+apparatus world-wide.[^42] Much that has been essential to the success of ICA
+has been contributed by the activities of international organisations, both
+governmental[^43] and non-governmental,[^44] in providing the necessary legal
+infrastructure for arbitration in the form of international legal instruments
+and the dissemination of information about their application on a world-wide
+basis. There are multitudes of papers and publications dedicated to ICA.[^45]
+
+Note: Arbitration under the World Bank supported / ICSID Rules /[^46] is of
+special importance for investment disputes involving a state which is a
+contracting party to the convention. / ICSID / arbitration (which is beyond the
+scope of this paper) is binding and enforceable without appeal even on the
+grounds of public policy, and has an even wider global range of enforceability
+than is available to ICA under the / New York Convention /.
+
+2.3.2 LEX MERCATORIA - AND ITS ESSENTIAL LINK TO ARBITRATION
+............................................................
+
+  "The / lex mercatoria / has sufficient intellectual credentials to merit
+  serious study, and yet is not so generally accepted as to escape the
+  sceptical eye."[^47]
+
+  "Let me just note that in Europe the / lex mercatoria / is a fact.
+  Arbitrators apply it and those courts which have faced awards applying it
+  have accepted its application."[^48]
+
+  "Arbitrators entrusted with the task of settling a dispute in accordance with
+  the intention of the parties and without recourse to any national legal
+  system usually find themselves in a rather challenging situation. However, it
+  is widely recognised as a matter of fact that arbitrators are not so
+  reluctant to apply a-national and less definite systems of rules agreed upon
+  by the parties as their colleagues from a state judiciary, who are more
+  concerned with legal technicalities than with the desire to find a solution
+  in a way contemplated by the parties at the time of conclusion of the
+  contract.[^49] Obviously that can also explain the reason why arbitrators of
+  differing nationalities who have applied the / lex mercatoria / in collegiate
+  arbitral tribunals have not experienced great difficulties in reaching
+  consensus."[^50]
+
+The concept of / lex mercatoria /: of an autonomous set of rules and practices
+accepted by the international business community as regulating their
+transactions, has been actively promoted by a number of eminent authorities,
+mainly in continental Europe, and has continued to gain in stature over the
+years.[^51] The concept has developed particularly in conjunction with ICA,
+identified by Clive Schmitthoff of England and advanced by such authorities as
+Berthold Goldman of France and Pierre Lalive of Switzerland. Under current
+legal thinking, most national courts still require a contract to be governed by
+a national legal system,[^52] although on this front also / lex mercatoria /
+advances.[^53] ICA is not so constrained. It has been suggested that / lex
+mercatoria / was being used in as many as 5-10% of ICA cases.[^54] Ole Lando
+identified 1985 as the landmark year when the / UNCITRAL Model Law on
+International Commercial Arbitration / in Article 28(1) allowed for arbitral
+disputes to be determined "in accordance with the rules of law as chosen by the
+parties".[^55] This clarification is welcome, though hardly revolutionary.[^56]
+It has long been accepted that arbitrators in executing their mandate derived
+from the will of the parties, if so requested, will settle the dispute on non
+legal grounds, in equity or on the merits, acting as / amiable compositeur / or
+/ ex aequo bono /.[^57] Given that ICA is decided according to "the will" of
+the contracting parties, it was open earlier for an a-national (autonomous)
+decision based on / lex mercatoria / by specification of its application
+together with the rules of equity.[^58] This would have fallen under the
+accepted provisions of the earlier recognition and enforcement of arbitration
+rules. It appears to be accepted that <u>when agreed by the parties in ICA</u>,
+/ lex mercatoria / may be applied as a separate legal frame independently of
+national law (mandatory law apart), and that such decisions will be enforced as
+valid by national courts.[^59] Equally, if so instructed, both in arbitration
+and in national courts, / lex mercatoria / may be called upon to play a gap
+filling function for the selected applicable national law. / Lex mercatoria /
+is a polycentric and integrative concept that has eluded precise definition,
+its precise nature, scope, content and application being vague, with wide
+latitude granted arbitrators.[^60] It has been suggested that "there can at
+most be no universal / lex mercatoria /, but merely a variety of / lex
+mercatoria / systems depending on sector or region."[^61] It has been pointed
+out that / lex mercatoria / is a distinct concept from harmonisation and
+transnationalism.[^62] There is a convergence however, if one takes the
+perspective of the businesss community's needs and goals. The business
+community usually refers to / lex mercatoria / by what are regarded as loose
+synonyms, in such phrases as "internationally accepted principles of law
+governing contractual relations", that more clearly indicate the intent behind
+their subscription to it.[^63]
+
+Some reservation must be expressed to their unconsidered use based on the
+uncertainty they represent. Amongst the items of which the / lex mercatoria /
+has grown to be comprised of,[^64] in a not necessarily hierarchical manner,
+are: * (a) * Customs and usages[^65] of international trade. * (b) * Relevant
+rules promulgated by international institutions on the area of law concerned -
+/ ICC - Incoterms /, or the / Uniform Customs and Practices for Documentary
+Credits /. * (c) * The rules and principles common to all or most states
+engaged in international trade, or to those states which are connected to the
+contract. Apart from individual principles and rules for given circumstances,
+this includes uniform law such as / UNCITRAL's CISG /. The following quotation
+is of interest as regards general principles constituting / Lex Mercatoria /:
+
+  "Distilled from a vast literature, these general principles have been
+  enumerated by Lord Justice Mustill as (in abridged form):[^66] (1) / Pacta
+  sunt servanda / (contracts should be enforced according to their terms); (2)
+  / Rebus sic stantibus / (substantially changed circumstances can entail a
+  revision of contract terms); (3) / Abus de droit / (unfair and unconscionable
+  contracts should not be enforced); (4) / Culpa in contrahendo /; (5) Good
+  faith / [and fair dealing] /; (6) Bribes render a contract void or
+  unenforceable; (7) A state may not evade its obligations by denying its own
+  capacity to make an agreement to arbitrate; (8) The controlling interest of a
+  group of companies is regarded as contracting on behalf of all members; (9)
+  Parties should negotiate in good faith if unforeseen circumstances arise;
+  (10) "Gold clause" agreements are valid and enforceable; (11) One party may
+  be released from its obligations if there is a fundamental breach by the
+  other; (12) No party can be allowed by its own act to bring about a
+  non-performance of a condition precedent to its own obligation; (13) A
+  tribunal is bound by the characterisation of the contract ascribed to it by
+  the parties; (14) Damages for breach of contract are limited to the
+  foreseeable consequences of the breach; (15) A party which has suffered a
+  breach of contract must mitigate its losses; (16) Damages for non-delivery
+  are calculated by reference to the market price of the goods and the price at
+  which the buyer has purchased equivalent goods in replacement; (17) A party
+  must act promptly to enforce its rights, lest lose them by waiver; (18) A
+  debtor may set off his own cross-claim to diminish his liability to a
+  creditor; (19) Contracts should be construed according to / ut res magis
+  valeat quam pereat /; (20) Failure to respond to a letter is regarded as
+  evidence of assent to its terms."[^67]
+
+(d) In the absence of the above the arbitrators will apply or establish the
+rule which appears to them to be best suited to the situation. (e) In ICA also
+relevant is the public policy of the country in which the award is likely to be
+requested.[^68] (f) Recently the definition of / lex mercatoria / has been
+greatly if controversially assisted, by comprehensive international rules made
+for this purpose by / UNIDROIT / and the Commission on European Contract Law.
+
+2.3.3 CODIFIED GENERAL CONTRACT PRINCIPLES AS / LEX MERCATORIA /
+................................................................
+
+  "The unification of law has ceased to be the prerogative of State
+  legislators.... The hope of all of us who believe in the necessity of a
+  flexible and pluralistic approach to the international unification of law, is
+  that this equilibrium will be maintained in future."[^69]
+
+  "In offering the / UNIDROIT Principles / to the international legal and
+  business communities, the Governing Council is fully conscious of the fact
+  that the / Principles /, which do not involve the endorsement of governments,
+  are not a binding instrument and that in consequence their acceptance will
+  depend on their persuasive authority."[^70]
+
+  "The objective of the UNIDROIT Principles is to establish a balanced set of
+  rules designated for use throughout the world irrespective of the legal
+  traditions and the economic and political conditions of the countries in
+  which they are to be applied. This goal is reflected both in their formal
+  presentation and in the general policy underlying them."[^71]
+
+The precise contents of "the general principles of law" and of / lex mercatoria
+/ have always been vague and obscure, and presented the arbitrator who was to
+apply them with something of a challenge.[^72] This is changed by reference to
+the / UNIDROIT International Contract Principles / or / European Contract
+Principles / as the proper law of the contract.[^73] They provide a
+comprehensive set of rules to govern contractual relations and may be regarded
+as contract law restatements, although it has been pointed out that it is not
+for these principles to advance themselves as / lex mercatoria /.[^74] Given
+our global perspective, we shall confine ourselves to the / UNIDROIT Principles
+/, which were more international in their formulation and purpose.[^75]
+
+The arrival of the / UNIDROIT International Contract Principles / was
+particularly timely. It coincided with the successful attempt at reducing trade
+barriers represented by the / World Trade Agreement /, and the start of the
+general use of the Internet,[^76] which has allowed for the exponential growth
+of electronic commerce, and has further emphasised its transnational nature.
+This is all the more opportune bearing in mind that it takes years to prepare
+such a legal instrument. The / UNIDROIT Principles / were contemplated in 1971,
+a steering committee was formed composed of René David, Clive Schmitthoff and
+Tudor Popescu to make a study into the feasibility of such a project. Their
+first report in 1974 stressed the importance of the project laying down the
+broad outlines for its structure. In 1980 a special working group was
+constituted, "members of the Group, which included representatives of all the
+major legal and socio-economic systems of the world, were leading experts in
+the field of contract law and international trade law... all sitting ... in a
+personal capacity, and not expressing the views of their governments."[^77] The
+first edition of the / UNIDROIT Principles / were finalised in 1994, 23 years
+after their first conception, and 14 years after work started on them in
+earnest. The / UNIDROIT Principles / constitute a system of principles and
+rules that govern most aspects of contractual relations. They were drawn up
+after consideration of different legal systems, but such influence has been
+deliberately obscured, with the intention and instruction that the / UNIDROIT
+Principles / should be interpreted according to an autonomous international
+standard. The only earlier set of rules to which reference is made within their
+commentary being the / CISG /.[^78] Nevertheless they have been met with
+certain reservation, especially as regards their relationship to / lex
+mercatoria /. It has been expressed on the one hand that:
+
+  "It is not up to the / Principles / to advance themselves as general
+  principles of law or as / lex mercatoria /. As general principles of law the
+  / UNIDROIT / text will only be accepted when the legal community and not
+  merely the some twenty drafters of the / UNIDROIT / text, no matter how
+  skilled and reputed these lawyers may be, has recognised that the / UNIDROIT
+  / document states principles which underlie most legal systems and are
+  generally accepted. In fact some / UNIDROIT / rules are certainly too
+  specific to be perceived as such. The / UNIDROIT / standards will only be
+  part of the / lex mercatoria / if they are recognised as such by the business
+  community and its arbitrators. Since the / UNIDROIT Principles / have just
+  been launched, it is too early to assess this possibility."[^79]
+
+Or again that:
+
+  "No one doubts of course that the principles are the brainchild of learned
+  lawyers who laboured independently. All the same is it not somewhat
+  pretentious to claim that the principles represent the generally accepted
+  principles of law?" ... "For the time being, the / UNIDROIT Principles /
+  remain no more than a learned codification."[^80]
+
+And it has been suggested that an indication of the traditional / lex
+mercatoria / is only firmly established by these codified principles where the
+three new systems represented by the / CISG / the / UNIDROIT Principles / and /
+EU Principles / converge.[^81] Be these objections as they may, the / UNIDROIT
+/ (and / EU /) / Principles / as contract law restatements cater to the needs
+of the business community that seeks an a-national or transnational law as the
+basis of its contracts. Where in the past they would have been forced to rely
+on the ethereal and nebulous / lex mercatoria /, the business community is
+finally provided with the opportunity to make use of such a "law" that is
+readily accessible, and has a clear and reasonably well defined content. As
+such the / UNIDROIT Principles / allow for more universal and uniform
+solutions. Their future success will depend on such factors as: * (a) *
+Suitability of their contract terms to the needs of the business community. *
+(b) * Their becoming widely known and understood. * (c) * Their predictability
+evidenced by a reasonable degree of consistency in the results of their
+application. * (d) * Recognition of their potential to reduce transaction
+costs. * (e) * Recognition of their being neutral as between different nations'
+interests (East, West; North, South). At the present time the / UNIDROIT
+Principles / have to overcome the deterrent fact that they are relatively new
+and untested. Their content, which needs to be known for their practical
+application, is as yet unfamiliar. Their suitability for various tasks has not
+yet been fully ascertained. And the workings of many discretionary powers
+granted the arbitrators have not yet been observed much in practice.
+
+There are those within the business community who point out that "any
+pretension to interfere from the outside, through the imposition of uniform
+legislation, would be inopportune and in any case doomed to failure."[^82] In
+this regard, the / UNIDROIT Principles / advancing themselves as a matter of
+choice for the parties do not constitute such an imposition.
+
+/ The UNIDROIT Principles / require study and understanding for their effective
+use in contracting. * (a) * The / UNIDROIT Principles / are broad in scope
+covering most aspects of contract and as such create a largely autonomous
+uniform legal environment for contracting. Exceptions are mandatory law, and
+some validity issues including capacity. These occur in a minority of
+disputes.[^83] * (b) * The / UNIDROIT Principles / adhere to the principle of
+freedom of contract, but contain mandatory provisions, that parties voluntarily
+choosing to use them cannot contract out of. * (c) * They are to be understood
+not on their own but in conjunction with their commentary. * (d) * The /
+UNIDROIT Principles / cover most aspects of contract including chapters on:
+formation, validity, interpretation, content, performance, and non-performance.
+The section on formation also covers pre-contractual negotiations. * (e) * The
+standards applied are meant to be international and may be different from
+similar domestic standards - e.g. good faith and fair dealings "in
+international trade."[^84] * (f) * The / UNIDROIT Principles / contain separate
+provisions for the interpretation of the text of the / UNIDROIT Principles /
+themselves (Article 1.6), and those of the contract to which they apply
+(Chapter 4). * (g) * Most of the / UNIDROIT Principles / can be regarded as
+"default rules" that save the parties the time and cost "of negotiating and
+drafting by providing rules that they would probably have agreed upon had they
+taken the time to do so."[^85] * (h) * An important consideration is that these
+rules are drafted specifically to take into account the needs of international
+trade, and as such contain provisions specifically directed at such matters as:
+determination of price; currency of payment; government permissions to perform;
+liquidated damages; interest rate on money due; reference back to original
+language text of a contract in case of doubt. * (i) * Unlikely to be familiar
+to those used to contract law models based on / caveat subscriptor /, are a
+number of protective principles, including those of good faith and fair
+dealing, and loyalty, which are discussed briefly later in this paper. * (j) *
+There are also rules which (in contrast with the regular acceptable default
+rules) serve rather the role of inducing the parties to negotiate more suitable
+terms for their transaction.[^86] * (k) * In yet other areas the rules are
+extremely general such as the hardship provision and other works on standard
+rules may provide more suitable solutions. [^87] * (l) * The / UNIDROIT
+Principles / contain many discretions, that arise from their nature as
+principles, and use of standards within them (such as reasonable) that are
+without specific meaning, the content of which depends on the context in which
+they are applied. [^88] * (m) * One might additionally observe that the /
+UNIDROIT Principles / can be used in conjunction with more specific rules and
+regulations. Of particular interest in the sale of goods, the / UNIDROIT
+Principles / are suitable for use (on the contracting parties' election[^89])
+together with the / CISG / to fill gaps in the provisions of the / CISG /.
+Provisions of the / CISG / would be given precedence over the / UNIDROIT
+Principles / under the accepted principle of / specialia generalibus derogant
+/.[^90] The / CISG / has many situations that are not provided for at all, or
+which are provided for in less detail than the / UNIDROIT Principles /.
+Examples include: the deliberately excluded validity (Article 4); the provision
+on interest (Article 78); impediment (Article 79), and; what many believe to be
+the inadequate coverage of battle of forms (Article 19).[^91]
+
+As to the suitability of The / UNIDROIT Principles / for complex international
+contracts, there are differing views. As pointed out forcefully by Vivian
+Gaymer:
+
+  "In relation to the complex type of contracts, I have to say that if the
+  parties are content that the contract would be governed by a well-developed
+  existing law which has been found to be satisfactory in relation to similar
+  contracts in the past they would be unlikely even to consider using the /
+  Principles /. The reasons are obvious. Parties like to know where they stand.
+  They like to have access to an existing body of expert advice. / The
+  Principles /, for the time being at least, suffer from the disadvantage of
+  novelty. The lawyers seem to be resistant to change."[^92]
+
+Paradoxically, where governments are involved (in complex agreements), they not
+infrequently find it necessary to resort to an a-national order to govern the
+contract. Kazuaki Sono before the promulgation of the / UNIDROIT Principles /
+writes:
+
+  "For complex transactions which were seldom heard of in the past, there is a
+  tendency to have resort to "the general principle of law", / lex mercatoria
+  /, or "the principle of good faith and fair dealing" particularly through
+  arbitration clauses. During the Congress, I have been told personally from a
+  reliable source that 5 to 10 per cent of the disputes which are submitted to
+  arbitration now contain such clauses. The person who provided me with this
+  information said "only 5 to 10 per cent", but to me it is an extremely
+  significant percentage. Yet, the contents of these principles are still far
+  from certain."[^93]
+
+In such situations selection of the / UNIDROIT Principles / should provide a
+welcome increase in clarity. [^94] Their use where states participate in
+international contracts is likely to generally boost confidence in their use
+for more complicated agreements also within the business community.
+
+2.3.4 PROTECTIVE PRINCIPLES AS A NECESSARY PART OF / LEX MERCATORIA /
+.....................................................................
+
+The virtues of freedom of contract are stressed in this paper in that they
+allow the international business community to structure their business
+relationships to suit their needs. The protective principles of good faith and
+fair dealing are of particular interest as in the / UNIDROIT Principles / they
+are mandatory and place an encumbrance on this freedom. Other protective
+principles such as loyalty also absent from some traditional contract systems
+are of similar interest. It has been pointed out however, that it is necessary
+to be mindful of the limitations of the benefits of absolute freedom of
+contract. The mandatory protective principles may be justified in that they (on
+the balance) reflect the collective needs of the international business
+community. It may be further and more positively argued that they are in fact
+beneficial and facilitate trade. * (a) * The protective principles help bring
+about confidence and foster relations between parties. They provide an
+assurance in the international arena where parties are less likely to know each
+other and may have more difficulty in finding out about each other. * (b) *
+They better reflect the focus of the international business community on a
+business relationship from which both sides seek to gain. * (c) * They result
+in wider acceptability of the principles within both governments and the
+business community in the pluralistic international community. These protective
+principles may be regarded as enabling the / Principles / to better represent
+the needs of "/ the Commonwealth /" (here used to mean the world as a whole). *
+(d) * Good faith and fair dealing are fundamental underlying principles of
+international commercial relations. More generally, freedom of contract
+benefits from these protective priciples that need mandatory protection from
+contractual freedom to effectively serve their function. One might suggest that
+for most types of international contract based on a-national law, this is the
+minimum price of freedom of contract that should be insisted upon by mandatory
+international law, as the limitation which hinders the misuse by one party of
+unlimited contractual freedom. They appear to be an essential basis for
+acceptability of the autonomous contract (a-national contract, based on agreed
+rules and principles). As mandatory principles they become the default standard
+for the conduct of international business and as such may be looked upon as
+"common property." Unless mandatory they suffer a fate somewhat analogous to
+that of "the tragedy of the commons."[^95]
+
+Modern contract "law" models lay greater emphasis on the contract as an
+expression of co-operation between the parties.[^96] Both the / UNIDROIT
+Contract Principles / and the / EU Contract Principles / display these modern
+features. They include protective principles such as good faith and fair
+dealing, loyalty, and hardship[^97] that will not be as familiar to those used
+to the traditional contract model[^98] though they will be more familiar to
+others. These may be justified as co-operative rules and principles to which
+members of the international business community are prepared to subscribe in
+order to be able to assume the same of others. Being able to make these
+assumptions may facilitate trade, by allowing for greater trust between parties
+that are in less of a position to know of or find out about each other, than
+would be the case in a domestic transaction. Good faith and fair dealing, also
+identified by the English Lord Justice Mustill as part of "The" / Lex
+Mercatoria /,[^99] is a pervasive and fundamental underlying principle common
+to both the / UNIDROIT / and / EU Principles /.[^100] The loyalty principle
+means that a party cannot take a completely singular view of its own interests
+to the exclusion of the other, having in some circumstances to take account of
+those of the other party.
+
+Conversely, it is instructive to question the role in international commerce of
+the traditional contract represented by English contract reasoning and
+inherited by the British Commonwealth. Based on freedom of contract, / pacta
+sunt servanda / and / caveat subscriptor /. Although claimed to be neutral in
+making no judgement as to the contents of a contract, this claim is misleading.
+It is based on free market arguments that parties best understand their
+interests, and the contract arrived at will be an optimum compromise between
+their competing interests. It not being for an outsider to regulate or evaluate
+what a party of its own free will and volition has gained from electing to
+contract on those terms. This approach to contract is adversarial, based on the
+conflicting wills of the parties, achieving a meeting of minds. It imposes no
+duty of good faith and fair dealing or of loyalty (including the disclosure of
+material facts) upon the contracting parties to one another, who are to protect
+their own interests. The traditional model's failings are known in the domestic
+and international arena, frequently producing contractual relations that take
+advantage of the weaker, and less informed party.[^101] Information presents
+particular problems in international commerce.[^102] Adherents to the / caveat
+subscriptor / model, point to the fact that parties have conflicting interests,
+and should look out for their own interests. However, as compared with domestic
+transactions the contracting parties in international commerce are less likely
+to possess information about each other or of what material facts there may be
+within the other party's knowledge, and will find it more difficult (and
+costly) to acquire. And as Michael Trebilcock put it: "Even the most committed
+proponents of free markets and freedom of contract recognise that certain
+information preconditions must be met for a given exchange to possess Pareto
+superior qualities."[^103] Furthermore the more information one already has,
+the less it costs to identify and to obtain any additional information that is
+required.[^104] This suggests that some parties will be in a much better
+position to determine and access what they need to know, a factor that should
+be reflected in the application of the principle.[^105] It is also increasingly
+accepted that it is not possible to fix long-term contracts once and for all,
+without future adjustments, as the traditional model would suggest. Also of
+interest are the claims of those who point out that this method of contracting
+is out of step with the reality of what businessmen do when entering an
+agreement. Ian Macneil[^106] suggests that contract has become an unrealistic
+abstraction, there being no solidarity except in legal remedies, with
+reciprocity absent except in the case of the discrete transaction. And it has
+been pointed out that business-persons at the time of contracting look not to
+their rights and remedies, but to the success of the business
+relationship.[^107] Modern contract models in placing greater emphasis on
+co-operation between the parties, and recognising a distinction between
+procedural and substantive fairness, go some way towards redressing these
+objections and arguably better reflect the ideology and needs of the
+international business community, notwithstanding such other issues as risk
+allocation.
+
+The area represented by protective provisions generally, placing a limitation
+on freedom of contract, is a large and complicated one, which beyond these
+comments is outside the scope of this paper.[^108]
+
+Caveat: Contract law is not built on one model, but on several competing
+ones.[^109] Protective principles, though they may be widely suited for most
+types of contract, may be persuasively argued against for others. Protective
+principles may for example be generally suited for trade in goods and services
+or use in joint venture agreements, (which may benefit from their tendency to
+foster trust between international business contracting parties). However, they
+are less certain suit the needs of financial agreements and some specialist
+contract areas.
+
+2.4 THE AUTONOMOUS CONTRACT - AN A-NATIONAL SOLUTION, A SUMMARY
+...............................................................
+
+The autonomous contract, in the sense of one based on an a-national, autonomous
+order, is possible both in form and substance where based on ICA and / lex
+mercatoria /, with the mandatory law of states excepted. The mandatory law
+exception referring principally to the laws of states in which performance is
+to be made or awards are to be enforced. This arrangement can be provided with
+greater predictability through application of the / UNIDROIT Principles /. This
+model provides the potential to reduce transaction cost through the possibility
+of adherence to a uniform acceptable standard that can be applied across
+borders with minimal concern as to the underlying municipal legal
+structure.[^110] This presupposes the functional and substantive predictability
+of the a-national "law" based contract. Functional predictability appears to
+have been provided, ICA being better catered for on a world-wide basis than the
+national legal order, having secured for itself an unparalleled regime for the
+recognition and enforcement of awards.[^111] Discussion might focus on how much
+could usefully be adopted in ICA from the / ICSID / approach to arbitration.
+The issue is much more complicated where substantive predictability is
+concerned. The simple answer would appear to be, to accept a degree of
+uncertainty, as being in the nature of legal reasoning. Parties should perhaps
+look more to a reasonable solution based on the application of the relevant
+rules and principles, as many parties do. With this in mind there is nothing to
+prevent the updating of the / UNIDROIT Principles / periodically in the light
+of experience of their use. The principals are analogous to the / US
+Restatement of Contract Law /, which is periodically updated, as are / ICC's
+Incoterms / and / Uniform Customs and Practices / and even the / FIDIC Red Book
+/ on construction. Occasional updating would allow the / UNIDROIT Principles /
+to keep pace with developments and should not fall foul of the point raised by
+Jérôme Huet:
+
+  "However, if the / UNIDROIT Principles / were to be modified, corrected or
+  improved they might also finally be rejected. This is because, even if one
+  believes in the merits of "soft law" which is often more effective than
+  written law, it remains that any law must be known and accepted. There must
+  be sufficient time to get used to it. In other words it must be reasonably
+  stable, and not be a 'changing law'".[^112]
+
+The commentaries could be updated with greater frequency (than the black letter
+text of the / UNIDROIT Principles /) in the light of experience. So doing
+should allow for adjustments in the text that assist in ensuring the more
+uniform application of the principles. The question however remains as to how
+such predictability might be improved for an a-national legal order.
+
+3. THE PROBLEM OF PREDICTABILITY
+--------------------------------
+
+However parties contractually structure their relations there is always the
+question of the interpretation of their contract and any "law" on which it is
+based whether municipal, uniform law, or rules and principles. The question is
+how to achieve the uniform application of uniform "law" and legal texts. It is
+necessary to understand the nature of the problem in order to discuss the
+viability of and to seek ways of achieving: uniform international contract law;
+an autonomous contract order; and the autonomous contract (in the third sense
+used in this paper) as a possible solution. Note that much in this section is
+an overview related to problems regarding the unification of international
+law.[^113] it examines the nature of the problem of achieving a uniform global
+"legal" platform on which to base the autonomous contract and the problems
+associated with attaining a high degree of predictability for international
+commerce. Consider the following passage by Ole Lando:
+
+  "I believe that in many arbitrators, as in many lawyers, there are two
+  conflicting attitudes. One wishes the law to be a perfect and stringent
+  system of rules under which the good lawyer can always find the true and only
+  solution. To apply the law is the same as to apply the theorems of
+  mathematics. This will produce certainty and predictability for the citizen.
+
+  The other attitude tells the arbitrator that absolute predictability is not
+  attainable. Each legal system has many gaps and the most provident legislator
+  cannot close them all. Nor can he prevent new gaps from arising when social
+  conditions change. No legal system provides certain solutions to all
+  problems. Even the best lawyer in the most highly-developed country is often
+  in doubt. Besides, predictability is only one of several legal values. Rules
+  which create certainty also tend to bring about rigidity. They do not
+  consider special circumstances and changing conditions. The legal process is
+  not and can never be a mere syllogism. It is above all an effort to reach the
+  most fair and appropriate decision. In this process which is often inventive
+  the arbitrator will weigh the possible solutions against each other and make
+  his choice." [^114]
+
+Uniform "law" has the potential to reduce transaction costs and increase
+world-wide predictability in international commerce. However, the success of an
+autonomous uniform international regulatory order is tied to its ability to
+provide for the risk management needs of the business community and has proved
+to be one of the most challenging, fascinating, and enduring problems. The
+selection of uniform laws and uniform rules is not enough, as this does not
+ensure their uniform application, without which the purpose of establishing
+uniform law is largely defeated. Pragmatically the issue of predictability may
+be regarded as one of degree. "Uniformity of application" is closely related to
+the "predictability" of a legal text and although not identical, their use has
+at times been interchanged in this writing. What degree of uniformity is
+necessary or acceptable in the ordering of relations, and what trade-offs are
+there in achieving or attaining this predictability? There is clearly a tension
+between certainty and flexibility - "rules which create certainty also tend to
+bring about rigidity."
+
+Some comments may be made on the decision-making process and discretion in
+relation to rules and principles. An attempt to base a legal system on rules
+alone would create gaps. Discretion is required, which is applied through
+principles of law, which are more holistic constraining legal standards. Ronald
+Dworkin[^115] appears to distinguish them in two ways. * (i) * Whereas a rule
+is either applicable or not, principles do not operate in this all or nothing
+way, having a dimension and weight, they can apply to varying extents. * (ii) *
+Rules cannot conflict, either they apply or they do not, whereas principles may
+conflict with each other.[^116] Some principles will be more pervasive than
+others.[^117] Their relative importance may vary according to the circumstances
+in which they are to be applied. The work of the legal craftsman being to know
+when and how they are to be applied in a given factual situation, according to
+the different considerations and relationships between particular conflicting
+circumstances, and in so doing arrive at the "correct" legal solution.
+
+3.1 PREDICTABILITY AT A MUNICIPAL LEVEL
+.......................................
+
+Complete predictability in a legal or regulatory regime is not attainable -
+this is a charge that can be levelled against all legal systems including those
+of sovereign states. At a national level the nature of legal reasoning and
+application of particular rules of law and principles is understood by its
+practitioners, and certified by supreme authority. Consider the comment of John
+Honnold:
+
+  "Perfect clarity and predictability in law, as most of you know all too well,
+  is not for this world ... Nevertheless, within a single domestic system it
+  usually has been possible to keep uncertainty within tolerable limits so that
+  nearly everyone prefers law to anarchy."[^118]
+
+This issue is important enough to merit special consideration. * (i) * Ignoring
+evidentiary problems, total predictability is unattainable even at a domestic
+level where we are confined to the workings of legal reasoning, without
+admitting the possibility of extraneous influences. The nature of the
+decision-making process, in this case, in the application of rules and
+principles with various sources of law for appropriate guidance[^119] has all
+the hallmarks of a highly complex system, indeed in the nature of the
+chaoplexic.[^120] The fact that decisions stem from deterministic processes
+does not mean jurists can predict all their meanderings. The application of
+simple deterministic axioms[^121] to subtly differing sets of circumstance can
+lead to complex results that often cannot be predicted with certainty. Simple
+sets of principles and rules applied give rise to extremely complicated
+patterns that never quite repeat themselves. * (ii) * Even within a single
+national jurisdiction, whether or not they should, extraneous influences will
+play a role in the decision-making process. There will be differences in the
+basic ideologies and beliefs of the adjudicators, and these will sometimes have
+an effect on the decision-making process. The diversity of basic ideology,
+views and politics accepted within a democracy, together with the different
+social, economic and cultural backgrounds of adjudicators guarantee a
+difference in their basic assumptions that cannot be excluded from playing a
+role in their application of discretion and in the weighing of principles. Even
+Dworkin's super-judge Hercules is not unaffected. In a democracy accepting the
+pluralism of views, there is no single set of background characteristics that
+may be used to define such a being.
+
+3.2 UNIFORMITY AT AN INTERNATIONAL LEVEL
+........................................
+
+Absolute predictability does not exist at a purely domestic level. These
+problems are compounded in the context of the application of a uniform law by
+different judiciaries.
+
+  "Even within a common set of rules and concepts, the habits of mind of
+  lawyers in different legal systems, no doubt reinforced by rules of civil
+  procedure, are too deeply ingrained to achieve practical uniformity in
+  approach ... the instinct of civil lawyers is to turn to rules contained in
+  the code, whereas English lawyers turn principally to the terms of the
+  contract. The difference between legal systems about what constitutes a good
+  argument, what has intellectual strength and integrity, will prove hard to
+  abolish..."[^122]
+
+Adjudicators (especially within national courts) are faced with formidable
+compounded complexity where attempting to apply a uniform law in a uniform
+manner, that will frequently prove difficult to satisfactorily overcome, even
+where assuming that there is no problem of access to information. These are a
+consequence of their different legal traditions, which have different technical
+rules of procedure, rely on different sources for authority and respect
+different reasoning as legally sound. (There are also additional extraneous
+influences resulting from their different cultures and ideologies).
+
+3.2.1 THE / UN CONVENTION ON THE LAW OF TREATIES /
+..................................................
+
+Where dealing with uniform law, the way of discovering the rights and duties of
+contracting parties is by its interpretation, and that of the parties'
+contract. Herbert Briggs in / The Law of Nations; Cases, Documents and Notes
+/[^123] on the interpretation of treaties states:
+
+  "Practically all treatises on international law have sections on the
+  so-called 'canons of interpretation' of treaties. Analysis reveals that the
+  canons consist largely of the application of the principles of logic, equity,
+  and common sense to the text of a treaty in an endeavour to discover its
+  'clear' or 'natural' meaning."
+
+The / UN Convention on the Law of Treaties 1969 / (in force 1980) is considered
+to be a codification of existing public international law with regard to the
+interpretation of treaties.[^124]
+
+The relevant articles on interpretation are Article 31 and 32. Article 31
+instructs that a "treaty shall be interpreted in good faith in accordance with
+the ordinary meaning to be given to the terms of the treaty in their context
+and in the light of its object and purpose." Article 32 instructing that
+reference be made to its / travaux préparatoires / and circumstances of its
+conclusion to confirm the meaning resulting through application of Article 31,
+and resolve any ambiguity, or that which is manifestly absurd or unreasonable.
+Article 31(2) takes into account agreements made by the parties as to its
+interpretation on the conclusion of the treaty. Article 31(3)(a) and (b)
+instruct the taking into account of any subsequent agreement between the
+parties regarding the interpretation of the treaty or the application of its
+provisions, including that which is evidenced by a practice in its application
+by the parties; Article 31(3)(c) makes any relevant rules of international law
+applicable in the relations between the parties; Article 31(4) states that the
+application of a special meaning shall be given to a term if it is established
+that the parties so intended.
+
+3.2.2 INTERPRETATION CLAUSES WITHIN UNIFORM LAWS
+................................................
+
+  "The more successful the activities of / UNCITRAL /,[^125] "the more it
+  extends its activities in the field of international trade relations, the
+  more necessary the uniform interpretation of the uniform rules will be."
+  [^126]
+
+Modern uniform laws and principles increasingly contain their own
+interpretation clauses, which increasingly provide for the taking into account
+of their international character, and the need to promote uniformity in their
+application. [^127] The / CISG / provision on interpretation - Article 7:
+
+  (1) In the interpretation of this Convention, regard is to be had to its
+  international character and to the need to promote uniformity in its
+  application and the observance of good faith in international trade.
+
+  (2) Questions concerning matters governed by this Convention which are not
+  expressly settled in it are to be settled in conformity with the general
+  principles on which it is based or, in the absence of such principles, in
+  conformity with the law applicable by virtue of the rules of private
+  international law.
+
+The / UNIDROIT Principles / provision on the "interpretation and
+supplementation of the Principles" - Article 1.6:
+
+  (1) In the interpretation of these Principles, regard is to be had to their
+  international character and to their purposes including the need to promote
+  uniformity in their application.
+
+  (2) Issues within the scope of these Principles but not expressly settled by
+  them are as far as possible to be settled in accordance with their underlying
+  general principles.
+
+Most scholarly writing to date has centred on the / CISG /, though much of the
+discussion there holds true generally for all uniform law. It is instructive to
+read Honnold's text / Uniform Words and Uniform Application /,[^128] prepared
+with input from 16 professors to get an idea of the dimension of the problem
+faced, as seen through the eyes of scholars representing each of the major
+legal systems. The professors agreed that to achieve the uniform application of
+texts it was necessary to look at writings in other jurisdictions, and to look
+beyond the traditional national sources and methods of interpretation. They
+also agreed that this was a Convention duty imposed upon Contracting
+States.[^129] Relevant sources were identified as: * (a) * The legislative
+history. * (b) * Rulings world-wide. * (c) * The official and other
+commentaries. * (d) * Scholarly writings. However, perhaps not surprisingly,
+despite such forward thinking as to how uniformity might be achieved, success
+so far has been limited and a number of questions have been raised. Where a
+particularly novel solution is employed by a court, is it to be followed
+elsewhere? Where a solution thought to be inappropriate is adopted, is this to
+be followed, must it be distinguished, or can it simply be ignored? If there is
+much text generated on a particular uniform law, how much is it necessary to
+cover, and what should be approached first and what relative weight should be
+given the different sources? Courts will still have a tendency to look first to
+domestic decisions and writings. In one sense ICA with an international
+arbitral panel provides a better balance in having a more international
+perspective as to how the uniform law should be applied. This will allow
+arbitrators to reach a reasonable conclusion in the circumstances, taking into
+account their multi-national perspective of the uniform law. Such a method of
+reaching a reasonable decision, though more flexible, has its measure of
+predictability where the approach is understood. It may be what a significant
+proportion of the international business community that chooses ICA are after.
+A distinction is to be made between world-wide predictability in application,
+and predictability on a national scale. Where national law is applied by its
+national court "A" that looks first to its domestic writings, it may have a
+clear - predictable manner of application, even if not in the spirit of the
+Convention. Another nation "B", may apply the uniform law in a different way
+that is equally predictable, being perfectly consistent internally. This
+however defeats much of the purpose of the uniform law. The court of nation
+"B", applying the national law of state "A", is much more likely to take
+seriously the treaty obligation undertaken by that state,[^130] and much the
+same is the case where a nation fails in its Convention obligations as to its
+implementation of a uniform law.[^131] The question both as regards the
+adoption of uniform substantive law, and attempting to achieve its uniform
+application is not so much whether or not a country has a perfectly good and
+modern contract law tradition, and should definitely not be whether it is felt
+that the effort could be improved upon. The question should be how far is it
+possible to end up with a common understanding and application of a uniform
+text, so as to achieve a uniform and predictable law, at as international a
+level as possible, and thereby facilitate international commerce by simplifying
+it.
+
+Among the solutions levelled at the problem is the greater dissemination of
+information, including making use of information technology to ensure that
+writings are commonly known world-wide. Efforts have been started by / UNCITRAL
+/, / UNIDROIT / and some academic institutions.[^132] But assuming successful
+updating and dissemination of relevant international texts, if much writing is
+generated, whether in the form of decisions or literature, there is an
+information management challenge. What does one look at, if one has to be
+selective, and in any event, what weight should be given to any given legal
+writing?[^133] And according to whose legal methodology and practice should
+they be applied? And the question, is this really the best way to promote the
+development of uniform law?
+
+4. ALTERNATIVE SOLUTIONS
+------------------------
+
+Whoever is able to provide the business community with the solutions it is
+seeking, in an acceptable way, has a reasonable chance of being subscribed to.
+Keep in mind: * (i) * the business community's interest in greater efficiency
+and predictability in the uniform and if possible transnational application of
+"law" and uniform texts; * (ii) * the business community's lack of focus on
+national law as a goal / per se /, increased autonomy from state law being
+acceptable and in fact desirable if successfully able to further the mentioned
+goals, and; * (iii) * the business community's ability through freedom of
+contract to take advantage of what is made available to them.
+
+However a question does arise as to whether the ability to create alternative
+solutions and even an independent / lex / is or should be without limits. The
+present author is of the opinion that the duties of good faith and fair dealing
+and loyalty (or an acceptable equivalent) should be a necessary part of any
+attempt at the self-legislation or institutional legislation of any contract
+regime that is based on "rules and principles" (rather than a national legal
+order). If absent a requirement for them should be imposed by mandatory
+international law. As discussed in section 2.3.4 such protective provisions are
+to be found within the / UNIDROIT / and / EU Contract Principles / on good
+faith and fair dealing, and loyalty.
+
+4.1 INDEPENDENT SUPRA-NATIONAL INTERPRETATION TRIBUNALS
+.......................................................
+
+A radical approach has been proposed,[^134] to have states accept an
+independent supra-national interpretation tribunal, to whom questions of an
+international commercial character concerning a uniform law would be referred
+for clarification, and whose rulings would be followed under a / droit commune
+/.
+
+  "[O]nly a fundamental methodological change would have a chance to reduce the
+  gap between the slow pace of international legislation and the requirements
+  of the modern world, especially in the field of international trade. He
+  suggested that States should agree, by way of a general Convention, to accept
+  rules established by the Commission, or under its auspices as a body of
+  common law (/ droit commune /)."[^135]
+
+This suggestion was advanced on more than one occasion at early sessions of /
+UNCITRAL / where it drew respectful attention but little enthusiastic
+support.[^136] A mitigation might be to give such a tribunal only persuasive
+authority.[^137]
+
+  "As Professor Don King also indicated, a need may soon be felt for the
+  establishment of a global court of commerce initially for those cases where
+  resort has been made in arbitration to a national / lex mercatoria / or to
+  general principles of contract law. At this Congress, we already heard a
+  suggestion of Professor Sohn for the establishment of an international
+  tribunal to interpret uniform texts."[^138]
+
+To date the political will backed by the financing for either such organ has
+not been forthcoming. In 1992 the / UNCITRAL / Secretariat's conclusion was
+that "probably the time still has not yet come".[^139]
+
+4.2 AUTHORITATIVE REVIEWS AS CO-ORDINATING GUIDES
+.................................................
+
+A less radical possibility is that there might be some body charged with (or
+that charges itself with) the task of reviewing important developments in
+relation to uniform texts over the course of time, and giving their
+authoritative, or persuasive opinion on the issue as to the right course to be
+taken in future. This might be an international body of scholars formed by the
+institution concerned, or in some other manner acceptable to legal counsel of
+the international business community, that reviews the decisions and writings
+made over the year and makes recommendations as to the future course that
+should be taken by others in the interpretation of the text. This could
+alternatively be pursued as an international interdisciplinary research effort
+(involving legal academics and practitioners, economists, business schools, and
+representatives of the business community) that is co-ordinated by a central
+institution.
+
+If pursued through the original formulating agency, this could be done as a
+periodic update to a relevant commentary such as that of the / UNIDROIT
+Principles /, which could be updated in light of the experience that has been
+gained from the application of the text. Again this would be able to take
+advantage of the opportunities offered by information technology. Alternatively
+an independent authoritative guide on uniform application could be published
+annually (as a complete text). However organised, and whether by integral
+commentary update, or independent guide, provided the publication is reputable
+and acceptable to the business community it has a number of attractive
+features. The parties in their contract could specifically refer to the
+commentary or guide, together with the black letter text, as the primary source
+of regulation and means of interpretation of the uniform "law" in dispute
+resolution.
+
+4.3 LIMITING OF SOURCES FOR INTERPRETATION
+..........................................
+
+This suggests the possibility of another approach to the problem of
+unpredictability of uniform application. Given the mentioned problems, serious
+consideration should be given to the fact that improved predictability and
+efficiency may be better achieved by limiting of sources to be applied for the
+purpose of interpretation. What might such an alternative solution be? In
+attempting to achieve the uniform transnational application of a uniform text
+it is most efficient to look for answers as far as possible within the text
+itself, and if there is one, in the commentary or guide. An argument may be
+made for leaving the rest largely to the discretion of arbitrators. Part of the
+appeal of the / UNIDROIT Principles / is that they may be regarded (at the
+parties' election) as largely self-contained and that they allow for the
+arrival at efficient reasonable resolutions of disputes. The parties may wish
+to rely on the substantive text and accompanying commentary or guide to the
+greatest possible extent, and to restrict external sources for their
+interpretation in the interests of efficiency - achieving this "at the stroke
+of a pen". This to the common law lawyer is unfamiliar territory.[^140]
+Predictability in most circumstances may be increased by reduced complexity in
+knowing where to look, the parties having a uniform, clear and concise idea of
+what there is to be aware of on the issue. Transaction cost should be reduced
+as a result, in knowing that there is a single set of transnational uniform
+rules and principles, and a limited amount of text to be ploughed through. This
+would represent the further rise of pragmatism over legal technicalities.
+
+Robert Hillman writing on Article 7 of the CISG (contemporaneously with the
+writing and presentation of this paper) makes the following observations, that
+are of general relevance to harmonisation efforts, and with which the present
+author is in full agreement as suggesting the sensible approach and way
+forward:
+
+  "Professor Honnold suggests that decisions construing the Convention and
+  secondary analysis will also clarify the significance of focusing on the
+  "international character" of the Convention. In fact, most authorities have
+  called for the publication of cases construing the Convention to increase the
+  potential for its uniform application. The problem with this approach is that
+  a high reliance on cases may create the impression that they are the primary
+  source of international sales law and that the Convention's principles are
+  inadequate. Such an environment may encourage tribunals not only to take
+  their eyes off the principles but to engage in distinguishing, overruling,
+  and even manipulating precedent. Lawyers from common-law states may feel
+  comfortable with these activities, but they do not offer much promise if the
+  goal is to achieve uniformity and certainty in the international sales law.
+  Perhaps most worrisome, de-emphasizing principles may encourage tribunals
+  facilely to turn to domestic cases, expressly or implicitly, when
+  interpreting and gap-filling under Article 7. Analysts should therefore urge
+  tribunals to try to find answers within the four corners of the Convention
+  and to look to cases only in the unusual case where the Convention does not
+  supply adequate guidance."[^141]
+
+In addition to original texts, international supra-national bodies or
+acceptable third parties might produce works on interpretation which, if not
+overly voluminous, and if they become generally known and recognised, could
+provide a particularly efficient way of reducing transaction costs and
+achieving sufficient predictability. Relying upon the reasonable resolution of
+the dispute by an arbitrator directed to use these specific sources as
+authority for reaching the decision.
+
+4.4 INFORMATION TECHNOLOGY SOLUTIONS - TRANSNATIONAL HARMONISING INFORMATION
+AND KNOWLEDGE-BASES
+..............................................................................
+
+There can be no doubt that the information potential of information technology
+will play a vital role in this process. As a tool what is most valuable is its
+potential to make instantly available large volumes of information if required
+(from anywhere on the globe). At the most basic level tremendous potential is
+provided for comparative study of developments around the world with regard to
+uniform law texts - academic writings, court decisions. However, its most
+exciting potential is realised when designed for transnational harmonisation.
+There is every possibility to adopt the approaches discussed in section 4.1-4.3
+combined with an educational aspect (section 4.6). One possibility is the
+development of specialist sites dedicated to particular uniform law texts, that
+attempt to catalogue and manage information regarding international
+developments, and in so doing implicitly or explicitly recommend and provide a
+guiding hand as to how it should be interpreted and applied. Such "databases"
+dedicated to the task of international harmonisation would serve more than
+"data". Such use of information technology appears over time to offer the best
+chance of altering the orientation and focus of the world's legal communities
+in the way necessary to achieve the internationally uniform application of
+uniform texts and more generally to achieve greater harmonisation of
+international trade law.
+
+4.5 E-CONTRACT SOLUTIONS?
+.........................
+
+The electronic environment provides possibilities for designing standard
+contracts that are virtually self contained and self-governing. The contract
+together with an entire / Lex / can easily be stored on electronic media -
+illustrated by the possibility of storing relevant portions of such databases
+as / Lexis /, / Westlaw /, or / Lovdata / on "disk". The parties may confine
+themselves to their electronic contract, which contains or incorporates all
+sources of regulation and their interpretation in a convenient one-stop
+location, including / inter alia /: all relevant conventions, principles, rules
+and standard terms on which it is based, together with relevant commentaries
+and contractually authorised sources of authority (copyright problems apart).
+Having relevant material easily available from a single source is of some
+interest, however, the idea in itself is only of marginally greater interest
+than what is made possible by the use of one of the large commercial law
+databases.[^142] The real value of such a concept arises where the electronic
+contract (as a one-stop solution) is designed to meet the "objective" of the
+business community for a relatively straightforward transnational and uniform /
+Lex /, (see Section 2.4) that is of a limited textual dimension, (see Section 4
+and 4.1 - 4.4). It was suggested that limiting the sources for the
+interpretation of uniform texts might be a better way to achieve uniformity
+than seeking to know and distinguish all that has been decided on point
+internationally.
+
+In the electronic contract further steps could be taken in the design of the
+contract so as to limit the necessity to look elsewhere. Several issues that
+might not usually be agreed in advance could be covered, including procedural
+ones, such as the manner and amount of discovery in the event of a dispute. In
+creating an environment for the parties, it could also be used as a means of
+broaching some differences between civil law and common law approaches. There
+are numerous other possibilities, the contract could for example become part of
+a standard software utility program (being incorporated into a standard model
+regulatory order, based for example on the structure outlined within this
+text). Such a contract, even if agreed at a specific point in time, is likely
+to be more dynamic. It could guide the parties during contractual negotiations
+as to some of the more important factors to consider. On having entered a
+contract it could assist the parties in determining the nature and timing of
+their relative obligations. For longer term and more complex agreements, part
+of the contract directed towards the parties goals could be designed to have
+interactive logistical functions. It could make use of live data from specified
+sources - that is continually updated. "appendices" to the electronic contract
+could record submitted logs of performances of the parties. The parties may be
+guided to use electronic communication for third party conciliation and
+mediation, before the more serious step of adversarial dispute resolution
+through ICA.
+
+Beyond this the imagination is the only limitation as to what might technically
+be done. Drawing back to the more mundane, but essential in today's world, the
+standard electronic contract could have country specific profiles that might
+include such details as the status of electronic documents and signatures, and
+relevant country specific details and peculiarities.
+
+A standard electronic "autonomous contract" could provide greater control, and
+further simplify the parties' contractual environment. Given that this would be
+the result of the parties' contractual freedom there is no need to suggest that
+this would be the only or best solution, only that it should be workable, and
+should have potential if pursued.
+
+* / Note on the validity of electronic documents and signatures / *
+
+  "Contract law is one of Rome's most important contributions to legal history.
+  Yet, Watson (The Evolution of Law) writes, it is / prima facie / astonishing
+  that the Romans never developed a written contract that would take its place
+  by the side of / stipulatio / as a second contract form. Stipulation required
+  the presence of both parties and was oral. A written contract could have been
+  negotiated at a distance and would have been easier to prove. The Romans knew
+  that written contracts had been standard and useful in classical Athens. But
+  the idea of / stipulatio / as the contract form had become so ingrained in
+  the Roman legal mind that the option of using an alternative form simply was
+  not adopted."[^143]
+
+For most purposes but not all and in most jurisdictions though not all,
+contracts may be entered into without regard as to form: orally, in writing, or
+by conduct. It being possible, where necessary, to adduce evidence as to the
+existence and contents of an agreement. In some cases however, an agreement
+must be in writing, as for example in the case of an arbitration agreement for
+its recognition and enforcement under the / New York Convention /.[^144]
+Needless to say, for such purposes, acceptance of the validity of electronic
+documents is essential for truly electronic contracting and commerce. For
+electronic contracting to be borderless and effective globally such acceptance
+of validity should be world-wide. Some states including some "modern" European
+ones do not recognise the validity of electronic documents or electronic
+signatures, however well authenticated and free from the possibility of
+tampering they may be.[^145] / The UNCITRAL Model Law on Electronic Commerce
+1996 / addresses these and other issues related to electronic commerce. In the
+interest of a global rather than regional solutions, it makes sense that states
+give electronic commerce the support it needs by adopting the / Model Law / or
+by enacting laws that are in conformity with it. The guiding principle, here to
+be applied to writing on paper or electronically, that is found in the / UN
+Model Law on Electronic Commerce /, is suggested by the / US Framework for
+Global Electronic Commerce / (1997):
+
+  "rules should be technology-neutral (i.e., the rules should neither require
+  nor assume a particular technology) and forward looking (i.e., the rules
+  should not hinder the use or development of technologies in the
+  future)"[^146]
+
+This in a sense is a rejoinder to the Roman favouring of oral over written
+contracts, which today sounds backward, but in fact is no less so than the
+blanket non-acceptance of electronic writing and signatures regardless of
+suitable authentication and verification possibilities. Beyond these
+observations on the need for electronic documents to be held valid for
+electronic commerce, the discussion in this paper is generic to international
+commerce. Under the current diverse national orders, however, it is necessary
+to know the requirements of individual state laws to ensure the validity of
+electronic contracts where a contract is required to be in writing, and if in
+doubt to resort to paper.
+
+It may be observed that the business counterparts are least cognisant of
+location in transactions that can be carried out entirely within the electronic
+world, such as trade in intangibles, money transfers, services, many areas on
+intellectual property; whereas trade in tangibles, including goods and most
+types of investment include a physical (off-line) component.
+
+4.6 EDUCATION
+.............
+
+  "... one should create awareness about the fact that an international
+  contract or transaction is not naturally rooted in one particular domestic
+  law, and that its international specifics are best catered for in a uniform
+  law."[^147]
+
+Within the framework described in this section, education and sensitivity to
+the needs of the business community by the legal profession and academia would
+appear to be a necessary part of any solution. However, while the business
+community seeks and requires greater uniformity in their business relations,
+there has paradoxically, at a national level, been a trend towards a
+nationalisation of contract law, and a regionalisation of business practice.
+[^148] As Pierre Lalive points out quoting Roy Goode: "The undeniable fact is
+that, in most countries today, the part played in a student's / curriculum / by
+what I would call 'non-national' subjects (ie public and private international
+law, comparative law, international trade law and the like) has steadily
+diminished over the years, paradoxically, at the very time when everyone can
+observe and should know that the world is becoming more and more
+international." [^149] The disparity grows worse today. Legal education has
+become more local as a result of the considerable domestic and regional
+legislation passed. Textbooks and studies, to cope with the increased material,
+have had to concentrate on taking a domestic and regional approach with little
+space to spare for an international perspective, or for comparative
+study.[^150] This is regarded by many as unfortunate, especially given the long
+experience with fruitful international communication in the area of
+international trade law.[^151] Finding means to transcend national boundaries
+is also to continue in the tradition of seeking the means to break down
+barriers to legal communication and understanding. In 1966, a time when there
+were greater differences in the legal systems of states comprising the world
+economy Clive Schmitthoff was able to comment that:
+
+  "22. The similarity of the law of international trade transcends the division
+  of the world between countries of free enterprise and countries of centrally
+  planned economy, and between the legal families of the civil law of Roman
+  inspiration and the common law of English tradition. As a Polish scholar
+  observed, "the law of external trade of the countries of planned economy does
+  not differ in its fundamental principles from the law of external trade of
+  other countries, such as e.g., Austria or Switzerland. Consequently,
+  international trade law specialists of all countries have found without
+  difficulty that they speak a 'common language'
+
+  23. The reason for this universal similarity of the law of international
+  trade is that this branch of law is based on three fundamental propositions:
+  first, that the parties are free, subject to limitations imposed by the
+  national laws, to contract on whatever terms they are able to agree
+  (principle of the autonomy of the parties' will); secondly, that once the
+  parties have entered into a contract, that contract must be faithfully
+  fulfilled (/ pacta sunt servanda /) and only in very exceptional
+  circumstances does the law excuse a party from performing his obligations,
+  viz., if / force majeure / or frustration can be established; and, thirdly
+  that arbitration is widely used in international trade for the settlement of
+  disputes, and the awards of arbitration tribunals command far-reaching
+  international recognition and are often capable of enforcement abroad."[^152]
+
+As suggested in the passage quoted earlier by Lalive and Goode and underlined
+by the discussion throughout this paper, an increased attention to
+international commercial law and arbitration is merited in the law student's
+curriculum. Efforts by a number of institutions aimed at enriching student
+awareness, education and experience in this respect, through the arrangement of
+such international inter-collegiate activities as arbitration moots and essay
+competitions are commendable. Equally so are various international commercial
+law oriented Internet efforts that are of value to researchers and
+practitioners alike.[^153]
+
+5. SUMMARY
+----------
+
+This paper has discussed a number of interrelationships, themes, problems and
+possible solutions that arise from its premises, perspective, and framework, as
+set out in summary form in the introduction. It highlights the need for lawyers
+world-wide to foster a genuine international approach to their thinking,
+method, practice and solutions with regard to international commercial
+contracting and law. The conduct of business world-wide is increasingly
+transnational. It demands that the legal community keep abreast of and cater
+for these needs. Efforts to find solutions to should similarly focus on a
+transnational and harmonising direction. The discussion in this paper
+concentrates on various aspects that are raised in consequence of this with
+regard to: the legal framework available for the international business
+community; problems related to further transnationalisation; and some possible
+solutions. It is not, however, a mere matter of choice for the legal community
+to decide whether or not to take an interest in this increasingly evident
+phenomena. The international business community has the power to find ways to
+meet their needs through the expression of their choice in the exercise of
+their contractual freedom. In using this power they exert influence on the
+conduct of the legal community in a manner which ensures that these needs are
+eventually satisfied. The business community subscribes to the legal framework
+and services provided by those sensitive to their needs. Those less sensitive
+are marginalised and eventually persuaded of the need to adapt. The results
+that would be achieved by absolute freedom of contract, however, are not
+necessarily the most ideal for the business community as a whole. As such it is
+necessary to be mindful of the limitations of contractual freedom and
+legislators should give recognition to this need as well.
+
+6. ENDNOTE
+----------
+
+* Lectures on private law aspects of international trade at the Faculty of Law,
+University of Tromsø, Norway, and created / ITL - International Trade Law
+Monitor / <http://itl.irv.uit.no/trade_law/> or <http://tradelaw.net/> off
+which a large number of the (black letter) legal texts referred to in this
+paper are available.
+
+Thanks are due to Albert Kritzer, the Executive Secretary, Institute of
+International Commercial Law, Pace University School of Law and Petri
+Keskitalo, Research Fellow, Faculty of Law, University of Troms&oslash;, for
+reading and commenting on this text in its preparatory stages. The views
+expressed here and any remaining errors are my sole responsibility.
+
+URLs are occasionally provided as references. These are subject to change
+without notice.
+
+ [1]: Maria Livanos Cattaui, / The global economy - an opportunity to be seized /
+ in / Business World / the Electronic magazine of the International Chamber of
+ Commerce (Paris, July 1997) at <http://www.iccwbo.org/html/globalec.htm>
+
+ [2]: Tangential support for the simile from Hans Petter Graver, / "Den
+ juristskapte virkelightet og juristrollen" / in Jussens Venner (1986) p.
+ 314-324.
+
+ [3]: René David suggests the primary constraints on development are
+ "conservatism, routine, prejudice and inertia" cited by the / UNCITRAL
+ Secretariat, The Future Role of UNCITRAL - Promoting Wider Awareness and
+ Acceptance of Uniform Texts /, in / Uniform Commercial Law in the Twenty First
+ Century - Proceedings of the Congress of the United Nations Commission on
+ International Trade Law / (New York, 1992) pp. 249-259 on p. 252, referred to
+ later as / 25<sup>th</sup> UNCITRAL Congress /. See also René David comments
+ in / International Encyclopedia of Comparative Law /, Vol. II, Chap. 5
+ (Tübingen, 1971) pp. 24 and 25.
+
+ [4]: Ronald Coase, / Industrial Organization: A Proposal for Research / (1972) in
+ / The Firm, The Market and the Law / (Chicago, London, 1988) pp. 57-74, comp.
+ Coase's Nobel Lecture / The Institutional Structure of Production /, AER 82
+ (1992) pp. 713-719. For a web site inspired by the work of Coase see / The
+ Center for Research on Contracts and the Structure of Enterprise / at the Katz
+ School, University of Pittsburgh <http://crcse.business.pitt.edu/> also the /
+ New Institutional Economics Network / <http://sykuta.business.pitt.edu/nie/>
+
+ [5]: For an introduction to the different approaches to law and economics see
+ Nicholas Mercuro and Steven Medema, / Schools of Thought in Law and Economics:
+ A Kuhnian Competition / in Robin Malloy and Christopher Brown (ed.) / Law and
+ Economics New and Critical Perspectives / (New York, 1995) pp. 65-123.
+
+ [6]: See Michael Trebilcock, / The Limits of Freedom of Contract / (Harvard,
+ 1993).
+
+ [7]: Discussed very briefly in section 2.3.4 of this paper in relation to
+ protective principles.
+
+ [8]: Which is pursued by Wisconsin University and Michigan State University.
+ Mercuro and Medema (1995) pp. 65-123 at pp. 95-108.
+
+ [9]: The concept of the autonomous contract becomes attractive when looked upon
+ as the collective embodiment of elusive characteristics that the business
+ community seeks upon which to base their transactions, and includes:
+ harmonisation, transnationalism and a-nationalism for our purposes insofar as
+ it furthers the other two objectives.
+
+ [10]: An a-national uniform transnational legal framework for contracts that is
+ independent of, but supported by governments.
+
+ [11]: Though parties can "legislate" an extensively autonomous contact, they
+ cannot "legislate" a contract that is entirely. Areas such as "validity" are
+ defined differently within different jurisdictions, and international
+ contracts can be subject to laws on currency control; export and import
+ control; hazardous substances; antitrust | competition rules; anti-boycott;
+ anti-bribery, etc. Similarly, mandatory rules on such matters as good faith,
+ fair dealing, unconscionability, fraud, duress, extortion, interest, penalty
+ clauses, etc. In specialised fields, such as consumer contracts, contracts
+ with local sales representatives and specialised industries, such as banking
+ and insurance, one also encounters national laws that parties cannot modify by
+ their contract "legislation". See also article by Jan Ramberg / Autonomy of
+ Contract and Non-Mandatory Law / in / Scandinavian Studies in Law (1993) / pp.
+ 141-149.
+
+ [12]: Criteria for selection might include: familiarity; application of uniform
+ law; neutrality; reputation; language; and convenience.
+
+ [13]: Similar criteria to choice of law in addition to which include: appropriate
+ enforcement treaties; location.
+
+ [14]: E.g. Thomas Wilhelmsson, / Legal Integration as Disintegration of National
+ Law / in / Legal Polycentricity - Consequences of Pluralism in Law / (1995)
+ pp. 127-147 on p. 128.
+
+ [15]: E.g. arbitration law (different arbitration statutes), electronic commerce
+ (the validity of electronic documents and signatures), or sale of goods law
+ (England and Japan do not apply the / CISG /) for example. Also see comment by
+ Charles Brower, in the arbitration panel, / Are International Institutions
+ Doing Their Job? - The American Society of International Law, Proceedings of
+ the 90th Annual Meeting, 1996 / (Washington D.C. 1996) p. 249.
+
+ [16]: E.g. / EC, NAFTA, ASEAN /.
+
+ [17]: / De jure / if not / de facto /.
+
+ [18]: See William W. Park, / International forum selection / (Hague, 1995).
+
+ [19]: Regional efforts with their frequently associated political objectives are
+ outside the scope of this paper.
+
+ [20]: See Roy Goode, / Reflections on the Harmonisation of Commercial Law / in /
+ Uniform Law Review / (1991) pp. 54-74 for a more detailed account of the
+ alternatives and related considerations.
+
+ [21]: E.g. / UN Model Law on Arbitration 1985 /; / UN Model Law on Electronic
+ Commerce 1996 /.
+
+ [22]: The International Institute for the Unification of Private Law, Rome,
+ <http://www.agora.stm.it/unidroit/> also
+ <http://itl.irv.uit.no/trade_law/papers/unidroit.html>
+
+ [23]: / UNIDROIT Principles of International Commercial Contracts / (Rome, 1994)
+ text of the principles and accompanying commentary; Joachim Bonell, / An
+ international restatement of contract law: the UNIDROIT principles of
+ international commercial contracts / (New York, 1994); and / UNIDROIT
+ Principles for International Commercial Contracts: A New Lex Mercatoria? /
+ (Paris, 1995) referred to later as / UNIDROIT Principles: A New Lex
+ Mercatoria? / The black letter text of the / Principles / are on the Internet
+ at <http://www.agora.stm.it/unidroit/english/principles/pr-main.htms> and
+ <http://itl.irv.uit.no/trade_law/doc/Unidroit.Contract.Principles.1994.html>
+
+ [24]: John Honnold, / Goals of unification - Process and value of the unification
+ of commercial law: lessons for the future drawn from the past 25 years /
+ (1992) in / 25<sup>th</sup> UNCITRAL Congress /, pp. 11-13, p. 11.
+
+ [25]: United Nations Commission on International Trade Law, Vienna,
+ <http://www.un.or.at/uncitral> also
+ <http://itl.irv.uit.no/trade_law/papers/UNCITRAL.html>
+
+ [26]: / United Nations Convention On Contracts For The International Sale Of
+ Goods (1980) /. See Honnold, / Uniform Law for International Sales, Under the
+ 1980 United Nations Convention / (Philadelphia, 1991); Fritz Enderlein and
+ Dietrich Maskow, / International Sales Law, United Nations Convention on
+ Contracts for the International Sale of Good... / (1992); Kritzer, /
+ International Contract Manual: Guide to Practical Applications of the United
+ Nations Convention on Contracts for the International Sale of Goods / (1994)
+ and the / CISG W3 Database /, Institute of International Commercial Law, Pace
+ University School of Law <http://www.cisg.law.pace.edu/> For some general
+ links <http://itl.irv.uit.no/trade_law/nav/sales.html>
+
+ [27]: Ernst Rabel, / Das Recht des Warenkaufs / Bd. I&II (Berlin, 1936-1958). Two
+ volume study on sales law.
+
+ [28]: Cornell Project on Formation of Contracts 1968 - Rudolf Schlesinger, /
+ Formation of Contracts. A study of the Common Core of Legal Systems /, 2 vols.
+ (New York, London 1968). Arthur von Mehren (ed.), / International Encyclopedia
+ of Comparative Law / - Konrad Zweigert, including an agenda for national
+ reports and general reports on various issues of contract law from formation
+ to termination. For more information see Erich Schanze, New Directions in
+ Business Research in Børge Dahl & Ruth Nielsen (ed.), / New Directions in
+ Contract Research / (Copenhagen, 1996) pp. 61-90, on p. 61.
+
+ [29]: / Uniform Law on the Formation of Contracts for the International Sale of
+ Goods / (/ ULF /) and the / Convention relating to a Uniform Law on the
+ International Sale of Goods / (/ ULIS /) The Hague, 1964.
+
+ [30]: László Réczei, / Process and value of the unification of commercial law:
+ lessons for the future drawn from the past 25 years / (1992) in /
+ 25<sup>th</sup> UNCITRAL Congress /, pp. 5-7, on p. 6.
+
+ [31]: The / CISG / for example covers international sale of goods of specific
+ types not those listed under Article 2; and specifically excludes its
+ application to factors that vitiate a contract and the passing of property
+ under Article 4.
+
+ [32]: E.g. / ICC's Incoterms / (1990) and contract clauses on / Hardship and
+ Force Majeure /, and recently completed model for various / CISG /
+ transactions.
+
+ [33]: Such as the European Council for Europe, / General Conditions for the
+ Supply of Plant and Machinery for Export / (Form No. 574) (UN - ECE, 1955);
+ The International Federation of (independent) Consulting Engineers, / FIDIC
+ Red Book on Construction / (1996); Works of the European trade association /
+ Orgalime /.
+
+ [34]: Such as the Grain and Feed Trade Association - / GAFTA /
+
+ [35]: Honnold (1992) on p. 12.
+
+ [36]: Honnold id. p. 13.
+
+ [37]: / CISG / Article 78 - Interest; / UNIDROIT Principles /, Article 7.4.9 -
+ "interest for failure to pay money," and Article 7.4.10 - "interest on
+ damages."
+
+ [38]: See footnote 23.
+
+ [39]: / The Principles of European Contract Law 1998 / (publication expected in
+ 1998). Previews of the final text of the / Principles of European Contract Law
+ / are available on the Net at <http://www.ufsia.ac.be/~estorme/PECL.html> and
+ <http://itl.irv.uit.no/trade_law/doc/EU.Contract.Principles.1997.preview.html>
+ Also the earlier edition of the principles and accompanying commentary is
+ published: Ole Lando and Hugh Beale (ed.) / Principles of European Contract
+ Law, Part I: Performance, Non-performance and Remedies / (1995).
+
+ [40]: Alexander Komarov / Remarks on the Applications of the UNIDROIT Principles
+ of International Commercial Contracts in International Commercial Arbitration
+ / (1995) in / UNIDROIT Principles: A New Lex Mercatoria? / pp. 157-166 on p.
+ 157; Stewart Hancock / A Uniform Commercial Code for International Sales? We
+ Have it Now / in New York State Bar Journal (January, 1995) quoting oral
+ statement by Werner Melis to the effect that practically all international
+ commercial disputes are settled by arbitration and not before state courts.
+ Also see comments by Yasuhei Taniguchi, / The Changing Attitude to
+ International Commercial Dispute Settlement in Asia / in / Arbitration and
+ Dispute Resolution Law Journal / (London, 1997) pp. 67-77 at pp. 72-73.
+
+ [41]: Dispute resolution is a service industry - with many competing arbitration
+ entities, both institutional and freelance, it is sensitive to its market. An
+ arbitration tribunal's mandate is determined by the "will" of the contracting
+ parties, this extends to the methods and "law" employed by it in dispute
+ resolution. Competition exists also on a national level as regards national
+ arbitration laws to attract ICA, see Park (Hague, 1995).
+
+ [42]: Attained through state support of the / New York Convention 1958 / (108
+ states contracting states) said to be honoured/ effective in 98 per cent of
+ cases, see Albert Jan Van Den Berg, / Some practical questions concerning the
+ 1958 New York Convention on the Recognition and Enforcement of Foreign
+ Arbitral Awards / (1992) in / 25<sup>th</sup> UNCITRAL Congress / pp. 212-220
+ at p. 213. Also through the subsequent / UN Model Law on Arbitration 1985 /.
+ In the important but less generic area of investment disputes were a
+ contracting state is a party to the contract, the / ICSID Arbitration Rules /
+ have even wider and further reaching effect.
+
+ [43]: Such as / UNCITRAL /.
+
+ [44]: Such as the / ICC's International Court of Arbitration /; / LCIA - London
+ Court of International Arbitration /; / AAA - American Arbitration Association
+ /.
+
+ [45]: For a brief overview see Sir Michael Kerr, / Concord and Conflict in
+ International Arbitration /, in / Arbitration International / (London, LCIA,
+ 1997) Vol. 13 pp. 121-143.
+
+ [46]: See Allan Redfern and Martin Hunter, / Law and Practice of International
+ Commercial Arbitration / (London, 1991) pp. 47-49; and Esa Paasivirta, /
+ Participation of States in International Contracts / (Helsinki, 1990).
+
+ [47]: The Rt. Hon. Lord Justice Mustill, / The New Lex Mercatoria: The First
+ Twenty-five Years / in Maarten Bos and Ian Brownlie, Liber Amicorum for the
+ Rt. Hon. Lord Wilberforce, Clarendon Press (Oxford, 1987) pp.149-183.
+
+ [48]: See Ole Lando, / The Law Applicable to the Merits of the Dispute /, in
+ Julian Lew (ed.) / Contemporary Problems in International Arbitration / (1987)
+ pp. 101-112 on p. 104.
+
+ [49]: W. Laurence Craig, William W. Park, Jan Paulsson, / International Chamber
+ of Commerce Arbitration / (New York, looseleaf updated, 2nd ed.) p. 640.
+
+ [50]: Lando, / The lex mercatoria in International Commercial Arbitration /, 34
+ ICLQ (1985) p. 753. as cited by Komarov (1995) pp. 157-166 on p. 161.
+
+ [51]: Discussions and examples of / lex mercatoria / are to be found in: Berthold
+ Goldman, / Frontières du droit et lex mercatoria /, Archives de philosophie
+ du droit (Paris 1964); / La lex mercatoria dans les contrats et l'arbitrage
+ internationaux: réalité et perspectives /, 106 Culnet Journal du droit
+ international (1979) p. 475; / Etudes offèrtes à Berthold Goldman / (Paris
+ 1982) contributions by Battifol, Kahn, von Mehren, Rigaux, Weil; Cremades and
+ Pehn, / The New Lex Mercatoria and the Harmonisation of the Laws of
+ International Commercial Transactions / 3 Boston Univ Intl LJ 317 (1984); /
+ The applicable Law: General Principles of Law - the Lex Mercatoria / in J. Lew
+ (ed.), / Contemporary Problems in International Arbitration / (1986) p. 113; /
+ Lex Mercatoria / in Forum Internationale, No.3 (Nov. 1983); Pierre Lalive of
+ Switzerland, / Transnational (or Truly International) Public Policy and
+ International Arbitration /; Mustill, / The New Lex Mercatoria: The First
+ Twenty-five Years /, (Oxford, 1987) pp.149-183; E. Gaillard (ed.), /
+ Transnational Rules in International Commercial Arbitration / (Paris, 1993);
+ Lando, / Lex mercatoria / 1985-1996 in / Festskrift till Stig Strömholm /,
+ Vol. II p. 567-584 (Götenborg, 1997). Also Clive Schmitthoff, / Nature and
+ Evolution of the Transnational Law of Commercial Transactions in the
+ Transnational law of International Commercial Transactions / in Studies in
+ Transnational Economic Law, Vol. 2 (1982) pp. 23-24. See also the / UNIDROIT
+ Principles of International Commercial Contracts 1994 / and the / Principles
+ Of European Contract Law 1998. /.
+
+ [52]: See Himlar Raeschke-Kessler, / Should an Arbitrator in an International
+ Arbitration Procedure apply the UNIDROIT Principles? / (1995) in / UNIDROIT
+ Principles: A New Lex Mercatoria? /, pp. 167-177 on p. 169 "It is no secret
+ that the prevailing opinion among jurists in some countries, like mine, is
+ plainly adverse towards an uncodified / lex mercatoria / as an independent
+ body of transnational law" and discussion by Ulrich Drobnig, / The Use of the
+ UNIDROIT Principles by National and Supranational Courts / (1995) in /
+ UNIDROIT Principles: A New Lex Mercatoria? /, pp. 223-229 on p. 226-227.
+
+ [53]: The / Inter American Convention on the Law Applicable to International
+ Contracts 1994 / invites state courts to apply / lex mercatoria /, Article 10.
+ This is done in addition to the application of state law. In the absence of
+ its selection by the parties the state with the closest ties, Article 9(1).
+ Significantly, Article 9(2) provides that the court also take into account the
+ general principles of international commercial law recognised by international
+ organisations. See Lando (1997) pp. 567-584.
+
+ [54]: Kazuaki Sono, / The Changing Role of UNCITRAL / within / The Future Role of
+ UNCITRAL / (1992) in / 25<sup>th</sup> UNCITRAL Congress /, pp. 249-252, on p.
+ 250. Statement made prior to the / UNIDROIT Principles /, a significant figure
+ as pinning down the exact content and effect of use of / lex mercatoria / is
+ far from certain.
+
+ [55]: Lando (1997) p. 575. See also / UNIDROIT Principles /, Preamble 4 a. Also
+ Arthur Hartkamp, / The Use of UNIDROIT Principles of International Commercial
+ Contracts by National and Supranational Courts / (1995) in / UNIDROIT
+ Principles: A New Lex Mercatoria? /, pp. 253-260 on p. 255, notes that "there
+ is a growing tendency to permit them to choose 'rules of law' other than
+ national laws on which the arbitrators may base their decisions".
+
+ [56]: Innovative and new are the ("Lando" and "Bonell") codifications of contract
+ principles / "lex mercatoria" / discussed in the following section. Though
+ these may be regarded as being inspired by the / US Restatement of Contract
+ Law /.
+
+ [57]: As indicated e.g. by the / European Arbitration Convention 1961 /, /
+ UNCITRAL Arbitration Rules 1975 /, / UNCITRAL Model Law 1985 /.
+
+ [58]: Komarov (1995) on p. 163; Hans Van Houtte, / The UNIDROIT Principles of
+ International Commercial Contracts and International Commercial Arbitration:
+ Their Reciprocal Relevance / (A:1995) in / UNIDROIT Principles: A New Lex
+ Mercatoria? /, pp. 181-195 on p. 183.
+
+ [59]: There is no dissent on this from the correspondents of various
+ nationalities in / UNIDROIT Principles: A New Lex Mercatoria? / E.g. Michael
+ Furmston in / The UNIDROIT Principles in International Commercial Arbitration
+ / (1995) in / UNIDROIT Principles: A New Lex Mercatoria? /, pp. 199-208 on p.
+ 202; Raeschke-Kessler (1995) p. 170. See also / UNIDROIT Principles /,
+ Preamble 4 a. See also Van Houtte (A:1995) p. 183. Apart from the / UNCITRAL
+ Model Law on International Commercial Arbitration / (Article 28) specific
+ provision permitting the selection of "rules of law" (as opposed merely to
+ "the law") is provided in the new / Arbitration Rules / of both the / ICC /
+ (Article 17) and / LCIA / (Article 22(2)), both effective from 1 January 1998.
+
+ [60]: See comment by Van Houtte, / International Trade Law / (London, 1995) p.
+ 28-29 and p. 399 suggests that / lex mercatoria / is too vague and imprecise
+ to be "self-sufficient". See the next section of this paper on "general
+ contract principles as / lex mercatoria /."
+
+ [61]: Van Houtte (London, 1995) p. 28. Given the uncertainty as to its precise
+ scope and application he also suggests that it is safer to apply a given
+ system of state law, Van Houtte (London, 1995) p. 412 and p. 399.
+
+ [62]: Mustill (1987) pp.149-183 at pp.152-153.
+
+ [63]: As applied in / Deutsche Schachtbau-und Tiefbohrgesellschaft v. Ras Al
+ Khaimah National Oil Co. / [1987] 2 All ER 769. See comment by Komarov (1995)
+ on p. 162.
+
+ [64]: See for example Lando (1997) pp. 567-584.
+
+ [65]: Trade usages are actual practices of the relevant business community, the
+ existence of which must be established and if necessary proven, e.g. by expert
+ witnesses. The trade usage is not a source of law.
+
+ [66]: Mustill (1987) pp.149-183 at pp.174-177.
+
+ [67]: As presented by Jarrod Wiener, / The 'Transnational' Political Economy: A
+ Framework for Analysis / (1995) at
+ <http://itl.irv.uit.no/trade_law/papers/The.Transnational.Political.Economy.a.Framework.for.Analysis.Jarrod.Wiener.UKC.html>
+ For a listing of general principles to be found within the / CISG /, see
+ Ulrich Magnus, / Die Allgemeinen Grndsätze im UN-Kaufrecht / / [The General
+ Principles of the CISG- in German] /, Rabels Zeitschrift für ausländisches
+ und internationales Privatrecht (1995) 469-494. For an english translation of
+ this text, see <http://www.cisg.law.pace.edu/cisg/biblio/magnus.html> at the /
+ CISG W3 Database /, Institute of International Commercial Law, Pace University
+ School of Law.
+
+ [68]: Mustill (1987) pp.149-183 at p. 173.
+
+ [69]: Bonell, / Various Techniques of Unification - Non-legislative means of
+ harmonisation / (1992) in / 25<sup>th</sup> UNCITRAL Congress /, pp. 33-40 on
+ p. 40.
+
+ [70]: Introduction of the / UNIDROIT Principles of International Commercial
+ Contracts / (Rome, 1994) p. ix.
+
+ [71]: Id. p. viii.
+
+ [72]: As pointed out, their general nature, and the wide latitude granted
+ arbitrators to determine the case, has led to some reservation as to the
+ general suitability of their use, see Van Houtte, id. p. 412 and p. 399.
+
+ [73]: Whether so instructed specifically by the parties, or referred to as
+ suggested by the Preamble of the / UNIDROIT Principles 1994 /. Comp. Article
+ 1.101 - Application of the Principles of the / European Principles, European
+ Principles 1998 /.
+
+ [74]: The most constraining suggestion being that it is only when the / UNIDROIT
+ Principles 1994 / and the / EU Principles 1998 / converge, together with the /
+ CISG / that there is a clear indication that they represent the / Lex
+ Mercatoria /, see Raeschke-Kessler (1995) on p. 174.
+
+ [75]: Bonell, / The UNIDROIT Principles of International Commercial Contracts and
+ the Principles of European Contract Law: Similar Rules for the Same Purpose? /
+ in / UNIDROIT Uniform Law Review / (Rome, 1996) pp. 229-246 at pp. 242-243;
+ Lando (1997) pp. 567-584 where he states "The / UNIDROIT Principles / are for
+ the World ... The / PECL [Principles of European Contract Law] / are for the
+ European Union" on p. 572.
+
+ [76]: See Amissah, / On the Net and the Liberation of Information that wants to
+ be Free / in / Fra institutt til fakultet, Jubileumsskrift i anledning av at
+ IRV ved Universitetet i Tromsø feirer 10 år og er blitt til Det juridiske
+ fakultet / (Tromsø, 1996) pp. 59-76 or the same at
+ <http://itl.irv.uit.no/trade_law/papers/On.the.Net.and.Information.17.02.1997.Amissah.d.html>
+
+ [77]: See Bonell (1996) on pp. 230-231.
+
+ [78]: Bonell, / The UNIDROIT principles of International commercial contracts:
+ Why? What? How? / in Børge Dahl & Ruth Nielsen (ed.), (1996) pp. 91-98 on p.
+ 93 and in id. (1997) on p. 231, comments on sources of inspiration mentioning
+ diverse sources including (articles combined) the United States / Uniform
+ Commercial Code and the Restatement (Second) of the law of Contracts /, the
+ drafts of the / Dutch Civil Code 1992 /, the / Civil Code of Quebec 1994 /,
+ also the / Foreign Economic Contract Law of the Peoples Republic of China 1985
+ /, and the / Algerian Civil Code of 1975 /. The international instrument
+ referred to is the / CISG /. Also to non-legislative instruments such as
+ Incoterms, the UCP, FIDIC Red book, and various works by / UNCITRAL /.
+
+ [79]: Van Houtte, / The UNIDROIT Principles as a Guide to Drafting Contracts /
+ (B:1995) in / UNIDROIT Principles: A New Lex Mercatoria? / pp. 115-125 on p.
+ 118.
+
+ [80]: Jérôme Huet, / Synthesis / (1995) in / UNIDROIT Principles: A New Lex
+ Mercatoria? / pp. 273-281 on p. 278 and p. 281.
+
+ [81]: Supra footnote 74.
+
+ [82]: J. Carver, / Uniform law and its impact on business circles: the experience
+ of the legal profession /, in / UNIDROIT / (ed.), / International Uniform Law
+ in Practice / (N.Y., 1988) p. 411. see also Bonell (1992) p. 39.
+
+ [83]: Honnold, / Documentary History of the Uniform Law for International Sales /
+ (1989) para. 19 on p. 256.
+
+ [84]: Article 1.7, Comment 2. Also see Van Houtte (A:1995), p. 186.
+
+ [85]: See Allan Farnsworth, / An American View to the Principles as a Guide to
+ Drafting Contracts / in / UNIDROIT Principles: A New Lex Mercatoria? / pp.
+ 85-92 on p. 87.
+
+ [86]: Farnsworth id. as an example points out Article 6.1.4(2) does not reflect
+ commercial practice.
+
+ [87]: E.g. the / ICC's Force Majeure and Hardship clauses /.
+
+ [88]: Van Houtte (A:1995), p. 185.
+
+ [89]: Also consider present and future possibilities for such use of / The
+ Principles / under / CISG / articles 8 and 9.
+
+ [90]: Special principles have precedence over general ones. See Huet, / Synthesis
+ / (1995) p. 277.
+
+ [91]: Drobnig, id. p. 228, comment that the / CISG / precludes recourse to
+ general principles of contract law in Article 7. This does not refer to the
+ situation where parties determine that the / UNIDROIT Principles / should do
+ so, see / CISG / Article 6.
+
+ [92]: Vivien Gaymer, / The UNIDROIT Principles as a Guide for Drafting Contracts:
+ A View from an International Commercial Lawyer /, in / UNIDROIT Principles: A
+ New Lex Mercatoria? / pp. 97-102 on p. 100.
+
+ [93]: Sono (1992) p. 250.
+
+ [94]: Furmston (1995) p. 202, provides the compelling examples of two such
+ agreements involving * (i) * the construction and * (ii) * the operation of
+ the Channel Tunnel by Anglo-French consortiums. Both agreed upon disputes
+ being "governed by those Principles of English and French contract law which
+ are common and, if were no relevant common principles, by general principles
+ of international commercial law." Dispute resolution to be by / ICC /
+ arbitration in Brussels.
+
+ [95]: Special problem regarding common/shared resources discussed by Garrett
+ Hardin in / Science / (1968) 162 pp. 1243-1248. For short discussion and
+ summary see Trebilcock, (1993) p. 13-15.
+
+ [96]: Hugh Collins, / The Law of Contract / (London, 1986) p. 160; Lars Erik
+ Taxell, / Avtalsrättens normer / (Turku, 1987) p. 11; cited by Wilhelmsson, /
+ Questions for a Critical Contract Law - and a Contradictory Answer: Contract
+ as Social Cooperation / in Wilhelmsson (ed.), / Perspectives of Critical
+ Contract Law / (1993) pp. 9-52 on p. 20.
+
+ [97]: There are other protective provisions in the form of: hardship (Chapter 6,
+ Section 2); surprising terms (2.20); duty of confidentiality (2.16); and
+ negotiation in bad faith (2.15). The principles also have specific provisions
+ on: fraud (3.8); threat (3.9) gross disparity (3.10); and mistake (3.4, 3.5).
+
+ [98]: Gaymer (1995) p. 97 states "I particularly noted Article 1.7, which
+ requires each party to act in accordance with good faith and fair dealing.
+ This is not a general principle of English contract law, nor can it be readily
+ achieved under that law and I am interested to learn more about its perceived
+ application and benefits." The US has come further than England with the
+ development of the doctrine of unconscionability, and in basing the Uniform
+ Commercial Code on the principle of good faith, which is hailed as its "single
+ most important concept" and as "the foundation on which the [UCC] was
+ drafted", citations to Dore and DeFranco from Albert Kritzer, International
+ Contract Manual: Guides to Practical Applications of the / CISG / (looseleaf
+ 1994) p. 74. See also the / Official UCC Commentary /, Section 1-203.
+
+ [99]: Supra 2.3.2. in e§39.
+
+ [100]: / UNIDROIT Contract Principles /, General provisions - Article 1.7 Each
+ party must act in accordance with good faith and fair dealing in international
+ trade. (2) The parties may not exclude or limit this liability. / EU Contract
+ Principles /, General Obligations - Article 1.201 (ex art. 1.106) - Good faith
+ and fair dealing: "(1) Each party must act in accordance with good faith and
+ fair dealing. (2) The parties may not exclude or limit this duty." Good faith
+ and fair dealing is also to be found in several national contract law systems,
+ if not the English and "American". Generally see Lando, / Each Contracting
+ Party Must Act In Accordance with Good Faith and Fair Dealing / in /
+ Festskrift til Jan Ramberg / (Stockholm, 1997) pp. 345-361.
+
+ [101]: Roger Brownsword, / Towards a Rational Law of Contract / in Wilhelmsson
+ (ed.), / Perspectives of Critical Contract Law / (1993) pp. 241-272 on p. 241.
+ Furmston (1995) on p. 201 notes: "It is recognised that even between
+ commercial parties there may be stronger and weaker parties" in discussing
+ Article 3.10 of the / UNIDROIT Principles /.
+
+ [102]: Apart from the more straightforward cases of different types of
+ misrepresentation.
+
+ [103]: Trebilcock, (1993) p. 102, followed by a quotation of Milton Friedman,
+ from / Capitalism and Freedom / (1962) p. 13.
+
+ [104]: Trebilcock, (1993) p. 102, note quoted passage of Kim Lane Scheppele, /
+ Legal Secrets: Equality and Efficiency in the Common Law / (1988) p. 25.
+
+ [105]: On the loyalty principle generally see L.E. Taxell, / Avtalsträtt /
+ (Stockholm, 1997). For a critical opinion on the principle of loyalty see
+ Ernst Nordtveit, / Partnerskap ved utveksling av ytingar. Realitet eller
+ illusjon / in / Lov og Rett / (1996) p. 337.
+
+ [106]: Ian Macneil, / Barriers to the Idea of Relational Contracts /, in F.
+ Nicklisch (ed.), / Der komplexe Langzeitvertrag / (Heidelberg, 1987) 31-49, at
+ 35.
+
+ [107]: Stewart Macaulay, / Non-Contractual Relations in Business a Preliminary
+ Study /, in / American Sociological Review / (1963) pp. 55-67 on p. 61.
+
+ [108]: Writing on EC law Hans-W. Micklitz, / Principles of Justice in Private Law
+ within the European Union / pp. 259-258 at pp. 284.290, discusses the concept
+ of "legitimate expectations" as having the potential to cover similar ground
+ in a more constructive manner as being as yet without national connotations it
+ may be easier to achieve/develop an internationally uniform definition and
+ interpretation.
+
+ [109]: Wilhelmsson, / Legal Polycentricity: Consequences of Pluralism in Law /
+ (1995) pp.127-147 on p. 131.
+
+ [110]: Secured as required by relevant conditions precedent and contractual
+ guarantee.
+
+ [111]: Under the / New York Convention 1958 /, / UNCITRAL Model Law on
+ Arbitration 1985 / and arbitration laws that have been influenced by it.
+
+ [112]: Huet (1995) p. 278 and p. 281.
+
+ [113]: For more detailed reading see Goode (1991) pp. 54-74. For an English law
+ perspective on uniform statutes see F.A. Mann, / Uniform Statutes in English
+ Law / in P.V. Baker (ed.) / The Law Quarterly Review / (London, 1983) Vol. 99
+ pp. 376-406.
+
+ [114]: Lando (1987) p. 111.
+
+ [115]: Ronald Dworkin, / Laws Empire / (Harvard, 1986); / Hard Cases / in /
+ Harvard Law Review / (1988). For a short summary see Wayne Morrison, /
+ Jurisprudence: from the Greeks to post-modernism / (London, 1997) pp. 415-448.
+
+ [116]: E.g. / pacta sunt servanda / and the narrow / clausula rebus sic stantibus
+ /.
+
+ [117]: E.g. / pacta sunt servanda / and good faith under the / UNIDROIT / and /
+ EU Principles / and their interpretation clauses.
+
+ [118]: Honnold (1992) p. 11.
+
+ [119]: In the common law system based on the earlier authoritative legal
+ reasoning of binding precedent and persuasive authority.
+
+ [120]: Word coined by John Horgan in / The End of Science / (London, 1996) to
+ cover the related fields of chaos and complexity. Chaos theory is a branch of
+ mathematics and physics. Sometimes described as the edge of chaos, what is
+ studied here is not randomness or disorder. Chaoplexity examines non-linear
+ systems in which simple sets of deterministic rules can lead to highly
+ complicated (detailed) results, which cannot be predicted accurately. A good
+ introduction to the subject chaos is provided by James Gleick, / Chaos: Making
+ a New Science / (New York, 1987).
+
+ [121]: Such as those provided by Dworkin in explaining the application of rules
+ and principles (to determine judicial outcomes).
+
+ [122]: Hugh Collins, / European Private Law and Cultural Identity of States / in
+ / European Review of Private Law / 3 (1995) pp. 353 at 356, 357-58, citation
+ used by Christian Joerges, / The Process of European Integration and the
+ 'Denationalization' of Private Law / in Børge Dahl & Ruth Nielsen (ed.),
+ (1996) pp. 73-90, p. 82.
+
+ [123]: Herbert Briggs, / The Law of Nations; Cases, Documents and Notes / (New
+ York, 1952) on p. 897.
+
+ [124]: Lord Diplock in / Fothergill v Monarch Airlines / [1981], A.C. 251, 282 or
+ see
+ <http://itl.irv.uit.no/trade_law/papers/England.Fothergill.v.Monarch.Airlines.HL.1980.html#ecs85>.
+ Also Mann (London, 1983) at p. 379.
+
+ [125]: And other international organisations such as / UNIDROIT / - footnote
+ added.
+
+ [126]: Réczei (1992), p. 6.
+
+ [127]: Examples: / The United Nations Convention on Contracts for the
+ International Sale of Goods / 1980, Article 7; / The UNIDROIT Principles of
+ International Commercial Contracts / 1994, Article 1.6; / The Principles of
+ European Contract Law / 1998</i> Article 1.106; / The United Nations
+ Convention on the Carriage of Goods by Sea (The Hamburg Rules) / 1978, Article
+ 3; / The United Nations Convention on the Limitation Period in the
+ International Sale of Goods / 1974 and 1978, Article 7; / UN Model Law on
+ Electronic Commerce / 1996, Article 3; / UNIDROIT Convention on International
+ Factoring / 1988, Article 4; / UNIDROIT Convention on International Financial
+ Leasing / 1988¸ Article 6; also / EC Convention on the Law Applicable to
+ Contractual Obligations / 1980, Article 18.
+
+ [128]: Honnold, / Uniform words and uniform applications. Uniform Words and
+ Uniform Application: The 1980 Sales Convention and International Juridical
+ Practice in Einheitliches Kaufrecht und nationales Obligationenrecht /.
+ Referate Diskussionen der Fachtagung. am 16/17-2-1987, hrsg. von Peter
+ Schlechtriem (Baden-Baden, 1987) pp. 115-147.
+
+ [129]: Under Article 7. See also footnote 126.
+
+ [130]: To take account of its international nature and the need to promote
+ uniformity in international trade.
+
+ [131]: For an example based on the probable international treatment of Norway's
+ singular and controversial transformation of the / CISG / see Viggo Hagstrøm,
+ / Kjøpsrettskonvensjon, Norsk Kjøpslov og Internasjonal Rettsenhet / in
+ Tidsskrift for Rettsvitenskap (1995) pp. 561-588 on p. 569 and Joseph
+ Lookofsky, / Understanding the CISG in Scandinavia / (Copenhagen, 1996) on p.
+ 5, 13, and 105. Compare Kai Krüger's argument in / Komparativ rettsmetode -
+ observasjoner vedrørende prinsipper for rettsanvendelse i Europa nord og sør
+ - illustrert ved tilfellet Norge og Italia / in Jussens Venner (1996) pp.
+ 281-312 on p. 312.
+
+ [132]: For further information on such projects and information sources, see ITL
+ the / International Trade Law Monitor / by Amissah at
+ <http://itl.irv.uit.no/trade_law/>
+
+ [133]: Coming as they do from different: states; genre of writing; sources and
+ levels of authority.
+
+ [134]: / UNCITRAL / Secretariat (1992) p. 253. Proposed by David (France) at the
+ second / UNCITRAL / Congress and on later occasions put forward by Farnsworth
+ (USA). For references on interpretation of the / CISG / by a supranational
+ committee of experts or council of "wise men" see Bonell, / Proposal for the
+ Establishment of a Permanent Editorial Board for the Vienna Sales Convention
+ /, in / International Uniform Law in Practice/Le droit uniforme international
+ dans la pratique [Acts and Proceedings of the 3<sup>rd</sup> Congress on
+ Private Law held by the International Institute for the Unification of Private
+ law / (Rome 7-10 September 1987)], (New York, 1988) pp. 241-244; and Drobnig,
+ / Observations / in / Uniform Law in Practice /, / supra. / at p. 306.
+
+ [135]: / UNCITRAL / Secretariat, id.
+
+ [136]: / UNCITRAL / Secretariat, id.
+
+ [137]: / UNCITRAL / Secretariat, id. p. 258.
+
+ [138]: Sono (1992) p. 251. The suggestion by Louis Sohn found in, / Uniform laws
+ require uniform interpretation: proposals for an international tribunal to
+ interpret uniform legal texts / (1992) in / 25<sup>th</sup> UNCITRAL Congress
+ /, pp. 50-54.
+
+ [139]: / UNCITRAL / Secretariat, id.
+
+ [140]: Which is not the same as to suggest that the idea would be new. As Goode
+ points out "Truly there is nothing new under the sun. Nearly two thousand
+ years have elapsed since Cicero proclaimed the virtues of legal
+ harmonisation", see Goode (1991) p. 54.
+
+ [141]: Robert Hillman, / CISG Cross Reference and Editorial Analysis: Article 7 /
+ in / CISG W3 Database /, Institute of International Commercial Law, Pace
+ University School of Law (New York, September 1997)
+ <http://www.cisg.law.pace.edu/cisg/text/hillman.html>
+
+ [142]: It should be noted that whilst electronic media makes such a solution more
+ practicable and attractive, the same thing is achieved through the age-old
+ tradition of incorporation by reference.
+
+ [143]: John Robert Cassidy Mahwah, / An Undergraduate Course in Comparative Legal
+ Studies / in / Rechtstheorie Zeitschrift für Logik, Methodenlehre Kybernetik
+ und Soziologie des Rechts, Beiheft 12 Monistic or Pluralistic Legal Culture? /
+ Ed. Peter Sack, Carl Wellman, Mitsukunk Yasaki (Berlin, 1987) pp. 200-207 on
+ p. 205. See also footnote 3 of this text.
+
+ [144]: / United Nations Convention on the Recognition and Enforcement of Foreign
+ Arbitral Awards New York, 1958 /, Article II. The convention is available off
+ ITL.
+
+ [145]: Noted in the / European Initiative on Electronic Commerce / (1997) §45.
+ "A number of Member States' rules governing the formation and the performance
+ of contracts are not appropriate for an electronic commerce environment and
+ are generating uncertainties relating to the validity and enforceability of
+ electronic contracts (for example the requirements for written documents, for
+ hand written signatures, or the rules of evidence that do not take into
+ account electronic documents)..."
+ <http://www.cordis.lu/esprit/src/ecomcomx.htm>
+
+ [146]: / US Framework for Global Electronic Commerce / (1997)
+ <http://www.whitehouse.gov/WH/New/Commerce/>
+
+ [147]: / UNCITRAL / Secretariat (1992) p. 255.
+
+ [148]: Schanze (1996) p. 62.
+
+ [149]: Lalive, / International Arbitration - Teaching and Research / in Julian
+ Lew (ed.), / Contemporary Problems in International Arbitration / (1987) at p.
+ 18, quoting statement by Goode.
+
+ [150]: Regionalisation may be a step towards internationalisation, but is not the
+ same thing, and the subsequent step does not necessarily follow.
+
+ [151]: See Lalive, id. reference to Goode and the Institute of International Law,
+ Teaching of International Law, 1987 Committee chaired by Zourek.
+
+ [152]: Report of the Secretary-General of the United Nations, / Progressive
+ Development of the Law of International Trade / (1966). Report prepared for
+ the UN by C. Schmitthoff.
+
+ [153]: The Institute of International Commercial Law, Pace University School of
+ Law, is engaged in the various activities mentioned in this paragraph with
+ regard to the / CISG /.
+
+==============================================================================
+
+	Title:  The Autonomous Contract - Reflecting the borderless
+               electronic-commercial environment in contracting
+
+	Creator:  Ralph Amissah
+
+	Rights:  Copyright (C)[Ralph Amissah]
+
+	Subject:  international contracts, international commercial arbitration,
+               private international law
+
+	Publisher:  SiSU http://www.jus.uio.no/sisu (this copy)
+
+	Sourcefile:  the.autonomous.contract.07.10.1997.amissah.sst
+
+	Filetype:  SiSU text 2.0
+
+	Source digest:  SHA256(the.autonomous.contract.07.10.1997.amissah.sst)=
+               c62b93978c10324392c55c8790b9ae56bd9e4da662b83bb05565733d93e31296
+
+	Skin digest:  SHA256(skin_lm.rb)=
+               5acda64a9532f9ef6b71693da2b471d4efac2f23a8499e68de066eec8ea9b8e9
+
+	Generated by:  Generated by: SiSU 2.6.3 of 2010w30/3 (2010-07-28)
+
+	Ruby version:  ruby 1.8.7 (2010-08-16 patchlevel 302) [i486-linux]
+
+	Document (dal) last generated:  Tue Sep 21 17:35:36 -0400 2010
+
+==============================================================================
+
+Other versions of this document:
+manifest:
+   http://www.jus.uio.no/lm//the.autonomous.contract.07.10.1997.amissah/sisu_manifest.html
+html:
+   http://www.jus.uio.no/lm//the.autonomous.contract.07.10.1997.amissah/toc.html
+pdf:
+   http://www.jus.uio.no/lm//the.autonomous.contract.07.10.1997.amissah/portrait.pdf
+   http://www.jus.uio.no/lm//the.autonomous.contract.07.10.1997.amissah/landscape.pdf
+plaintext (plain text):
+   http://www.jus.uio.no/lm//the.autonomous.contract.07.10.1997.amissah/plain.txt
+at:
+   http://lexmercatoria.org
+* Generated by: SiSU 2.6.3 of 2010w30/3 (2010-07-28)
+* Ruby version: ruby 1.8.7 (2010-08-16 patchlevel 302) [i486-linux]
+* Last Generated on: Tue Sep 21 17:35:41 -0400 2010
+* SiSU http://www.sisudoc.org/

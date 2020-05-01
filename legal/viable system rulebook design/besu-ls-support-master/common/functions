@@ -1,0 +1,27 @@
+#!/bin/bash
+set -e
+run()  {
+	CMD=$1
+	echo $CMD
+	eval $CMD
+	echo "\n"
+}
+
+runBesu() {
+	run "$BESU_PATH $1 --data-path=$BESU_DATA --rpc-http-cors-origins=all --discovery-enabled=false --rpc-http-enabled --network=dev --rpc-http-apis=ETH,NET,WEB3,DEBUG --logging=INFO"
+}
+
+printBesuNodesRunning(){
+	echo "-------------------------"
+	echo "Besu nodes running:"
+	ps aux | grep java | grep besu | awk -F'org.hyperledger.besu.' '{print $2}' | awk -F'data-path=out/ibft-network/' '{print $2}' | awk -F'/data' '{print $1}'
+	echo "-------------------------"
+}
+
+netPeerCount(){
+	echo "................................"
+	echo "net_peerCount:"
+	curl -X POST --data '{"jsonrpc":"2.0","method":"net_peerCount","params":[],"id":1}' localhost:8545
+	echo
+	echo "................................"
+}

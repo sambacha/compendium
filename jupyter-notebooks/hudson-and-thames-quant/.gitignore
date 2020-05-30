@@ -1,0 +1,7 @@
+*.idea*
+.DS_Store
+*.pyc
+.ipynb_checkpoints
+*.pickle
+Online Portfolio Selection/data/*
+*.db

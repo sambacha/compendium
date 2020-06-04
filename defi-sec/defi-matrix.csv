@@ -1,0 +1,31 @@
+Protocol / Interaction Based,Blockchain Transaction Based,Non-Blockchain Sources,Blockchain Sources,Contract Language
+Market Attacks,Economic Attack,Off-Chain,On-Chain,Solidity
+Front-Running,Front-Running,Price Feed,Timestamp Dependence,Integer Overflow and Underflow
+Coordinated Attack,Insufficient gas griefing,Quote Stuffing,Admin Key,DoS with (Unexpected) revert
+Liquidity Pocket,Token Inflation,Spoofing,Timelock,DoS with Block Gas Limit
+Quote Stuffing,Circulating Supply Attack,Credential Access,Lateral Movements,Arithmetic Over/Under Flows
+Wash Trading,Gas Griefing (DoS),Multi-Sig Keys,Miner Cartel,Forcibly Sending Ether to a Contract
+Ramping The Market,Network Congestion (uDoS),Privilage Esclation,Finality,Delegatecall
+Cornering The Market,,Credential Access,Transaction Pool,Entropy Illusion
+Churning,,Encryption Protections,,Short Address/Parameter Attack
+Flash Loans,,Phishing,,Uninitialised Storage Pointers
+Aggregated Transactions,,Unicode Exploits,,Floating Points and Numerical Precision
+Bulge Bracket Transactions,,API,,Right-To-Left-Override control character (U+202E)
+Layering,,DNS Attacks,,Delegatecall to Untrusted Callee
+Spoofing,,Transaction Pool,,Requirement Violation
+Order Book,,Checksum Address,,Shadowing State Variables
+Market Index Calculation Attack,,,,Transaction Order Dependence
+Flash Crash,,,,Assert Violation
+Repo,,,,Uninitialized Storage Pointer
+Excessive Leverage,,,,Unprotected Ether Withdrawal
+"Breaking the ""Buck""",,,,Floating Pragma
+"""Fake"" News",,,,Outdated Compiler Version
+Nested Bot,,,,Function Default Visibility
+Audience of Bots,,,,Reentrancy
+Arb. Exploit,,,,
+Slippage Exploit,,,,
+Safety Check Exploits,,,,
+Circulating Supply Dump,,,,
+Governance Cartel,,,,
+"Flash ""Straddle"" ",,,,
+Structuring,,,,

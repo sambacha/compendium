@@ -1,0 +1,20 @@
+# gitattributes
+# custom gitattributes
+*.pdf diff=exif
+*.png diff=exif
+
+*.dtd    text
+*.html   text diff=html
+*.java   text diff=java
+*.md     text
+*.nuspec text
+*.rng    text
+*.rngc   text
+*.sh     eol=lf
+*.xml    text
+*.xsd    text
+*.xsl    text
+*.yml    text
+.gitattributes text
+KEY      text
+LICENSE* text

@@ -1,0 +1,157 @@
+ID	DUP	AR	Title	Desc	Notes	URL	DOI			
+1		0	Blockchain for AI: Review and open research challenges		Application	https://ieeexplore.ieee.org/iel7/6287639/6514899/08598784.pdf				
+2		0	A survey on consensus mechanisms and mining strategy management in blockchain networks		No new information or discussion [has a comparison of sharding with scale out papers]	https://ieeexplore.ieee.org/iel7/6287639/6514899/08629877.pdf				
+3		1	SoK: Consensus in the age of blockchains			https://dl.acm.org/doi/pdf/10.1145/3318041.3355458				
+4		1	Monoxide: Scale out blockchains with asynchronous consensus zones		improvment (not specific to rapidchain)	https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf				
+5		1	Towards scaling blockchain systems via sharding		Discussion, improvment (not specific to rapidchain), but uses TEE	https://dl.acm.org/doi/pdf/10.1145/3299869.3319889				
+6		0	Proof-of-Stake Sidechains.		Not related to rapidchain or any similar constructions	https://eprint.iacr.org/2018/1239.pdf				
+7		0	LightChain: A Lightweight Blockchain System for Industrial Internet of Things		Application	https://cse.buffalo.edu/~wenyaoxu/papers/journal/xu-tii2019.pdf				
+8		1	Polyshard: Coded sharding achieves linearly scaling efficiency and security simultaneously		An improvment to sharding?	https://arxiv.org/pdf/1809.10361				
+9		1	A game-theoretic analysis of shard-based permissionless blockchains		Game theory and incentive to similar pconstructions	https://ieeexplore.ieee.org/iel7/6287639/6514899/08558531.pdf				
+10		1	Flyclient: Super-Light Clients for Cryptocurrencies.		Minimizing the amount of data needed for verification. But no special relation to rapidchain other than the main author Zamani.	https://eprint.iacr.org/2019/226.pdf				
+11		0	Parallel Chains: Improving Throughput and Latency of Blockchain Protocols via Parallel Composition.		Not related to rapidchain	https://pdfs.semanticscholar.org/6116/a7c1c0820e357204e9277901c82bd38c35a5.pdf				
+12		0	OHIE: blockchain scaling made simple		Not related to comitte based constructions	https://arxiv.org/pdf/1811.12628				
+13		0	Fine-grained, secure and efficient data provenance on blockchain systems		Does not cite rapidchain	https://dl.acm.org/ft_gateway.cfm?id=3342042&type=pdf				
+14		1	BlockchainDB: a shared database on blockchains		Extra storage layer above blockchain, proposes sharding chains as backend. Could this construction allow more effecient transaction storage?	https://dl.acm.org/ft_gateway.cfm?id=3360366&type=pdf				-
+15		0	Flash: efficient dynamic routing for offchain networks		Does not cite rapidchain	https://dl.acm.org/doi/pdf/10.1145/3359989.3365411				
+16		0	YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes	Offchain computation	Does not relate to comitee based constructions. But it's results are interesting	https://arxiv.org/pdf/1811.03265				
+17		0	Mystiko—Blockchain Meets Big Data		Not related	https://ieeexplore.ieee.org/iel7/8610059/8621858/08622341.pdf				
+18		1	Replay attacks and defenses against cross-shard consensus in sharded distributed ledgers		Attack vectors for comitee based sharding	https://arxiv.org/pdf/1901.11218				
+19		0	SoK: A Taxonomy for Layer-2 Scalability Related Protocols for Cryptocurrencies.		not related	https://www.researchgate.net/profile/Mario_Larangeira2/publication/332859444_SoK_A_Taxonomy_for_Layer-2_Scalability_Related_Protocols_for_Cryptocurrencies/links/5ccd585ea6fdccc9dd8b964e/SoK-A-Taxonomy-for-Layer-2-Scalability-Related-Protocols-for-Cryptocurrencies.pdf				
+20		1	Velocity: Scalability improvements in block propagation through rateless erasure coding		May provide discussion or improvements on block gossiping. But did not discuss rapidchain at all in this context	https://ieeexplore.ieee.org/iel7/8744142/8751228/08751427.pdf				
+21		0	Lightchain: A dht-based blockchain for resource constrained environments		Not related and no relevant discussion	https://arxiv.org/pdf/1904.00375				
+22		0	A survey on consensus protocols in blockchain for iot networks		No relevant discussion	https://arxiv.org/pdf/1809.05613				
+23	1		Proof-of-stake sidechains			https://ieeexplore.ieee.org/iel7/8826229/8835208/08835275.pdf				
+24		0	Agent-based simulations of blockchain protocols illustrated via kadena's chainweb		Not relevant	https://ieeexplore.ieee.org/iel7/8790672/8802376/08802494.pdf				
+25		1	Ostraka: Secure Blockchain scaling by node sharding		Relevant discussion of attack vectors	https://arxiv.org/pdf/1907.03331				
+26		0	A survey on efficient parallelization of blockchain-based smart contracts		No relevant discussion	https://arxiv.org/pdf/1904.00731				
+27		1	Committee selection is more similar than you think: Evidence from avalanche and stellar		Might provide some relevant discussion on comitte selection	https://arxiv.org/pdf/1904.09839				
+28		1	Sok: Sharding on blockchain		Might provide some relevant discussion on comitte based sharding	https://dl.acm.org/doi/pdf/10.1145/3318041.3355457				
+29		1	Robust and scalable consensus for sharded distributed ledgers		Maybe relevant discussion, and improvment on byzcoin which is in the same research line. From the author of omniledger	https://eprint.iacr.org/2019/676.pdf				
+30		1	A security reference architecture for blockchains		Security and attack vectors	https://ieeexplore.ieee.org/iel7/8938397/8946120/08946197.pdf				
+31		0	Anchoring the value of Cryptocurrency		economics	https://ieeexplore.ieee.org/iel7/9040368/9050160/09050264.pdf				
+32		1	SeF: A secure fountain architecture for slashing storage costs in blockchains		May provide discussion or improvements on block gossiping. But did not discuss rapidchain much in this context	https://arxiv.org/pdf/1906.12140				
+33		0	Segment blockchain: A size reduced storage mechanism for blockchain		Does not cite rapidchain.	https://ieeexplore.ieee.org/iel7/6287639/8948470/08957450.pdf				
+34		1	Don't Mine, Wait in Line: Fair and Efficient Blockchain Consensus with Robust Round Robin		A little bit of dicussion on rapidchain	https://arxiv.org/pdf/1804.07391				
+35		1	On the Security of Blockchain Consensus Protocols		Might provide some security discussion	https://link.springer.com/content/pdf/10.1007%2F978-3-030-05171-6_24.pdf				x
+36		1	Cycledger: A scalable and secure parallel protocol for distributed ledger via sharding		A successor to rapidchain?	https://arxiv.org/pdf/2001.06778				
+37		1	Design and Implementation of a Scalable IoT-based Blockchain		A successor to rapidchain? Might provide some good comitte based sharding details	https://files.ifi.uzh.ch/CSG/staff/Rafati/Kursat-Aydinli-MA.pdf				
+38		1	A flexible n/2 adversary node resistant and halting recoverable blockchain sharding protocol		Might provide good discussion	https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5773				
+39		1	Sok: Communication across distributed ledgers		Discussion on cross-chain communication	http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/crosschain.pdf				
+40		1	A methodology for a probabilistic security analysis of sharding-based blockchain protocols		security analysis	http://www.iro.umontreal.ca/~ahafid/docs/Hafid-blockchain.pdf				
+41		0	XBlock-EOS: Extracting and Exploring Blockchain Data From EOSIO		not relevant	https://arxiv.org/pdf/2003.11967				
+42		0	Microchain: A Hybrid Consensus Mechanism for Lightweight Distributed Ledger for IoT		not relevant	https://arxiv.org/pdf/1909.10948				
+43		1	The Security Reference Architecture for Blockchains: Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses		security	https://arxiv.org/pdf/1910.09775				
+44		1	Scalable network-coded PBFT consensus algorithm		reducing communication burden	https://ieeexplore.ieee.org/iel7/8827389/8849208/08849573.pdf				
+45		0	Public blockchains scalability: An examination of sharding and segregated witness		not relevant					
+46		0	Hyperservice: Interoperability and programmability across heterogeneous blockchains		Does not cite rapidchain	https://dl.acm.org/doi/pdf/10.1145/3319535.3355503				
+47		1	Divide and Scale: Formalization of Distributed Ledger Sharding Protocols		Formalization of rapidchain and detailed analysis?	https://arxiv.org/pdf/1910.10434				
+48		0	Solutions to scalability of blockchain: A survey		No relevant discussion	https://ieeexplore.ieee.org/iel7/6287639/8948470/08962150.pdf				
+49		1	Survey: Sharding in blockchains		Very relevant. (And also manalysis ethereum 2.0)	https://ieeexplore.ieee.org/iel7/6287639/8948470/08954616.pdf				
+50		0	Open infrastructure for edge: A distributed ledger outlook		not relevant	https://www.usenix.org/system/files/hotedge19-paper-zavodovski_0.pdf				
+51		1	How to Securely Prune Bitcoin's Blockchain		block pruning	https://arxiv.org/pdf/2004.06911				
+52		0	Replicated state machines without replicated execution		not relevant	https://eprint.iacr.org/2020/195.pdf				
+53		0	Evaluation and Improving Scalability of the BAZO Blockchain		not relevant	https://files.ifi.uzh.ch/CSG/staff/Rafati/Fabio-Maddaloni-BA.pdf				
+54		0	Utilizing Public Blockchains for the Sybil-Resistant Bootstrapping of Distributed Anonymity Services		not relevant	https://arxiv.org/pdf/2004.06386				
+55		0	Resilientdb: Global scale resilient blockchain fabric		Not relevant 	https://arxiv.org/pdf/2002.00160				
+56		0	Managing QoS of Internet-of-Things Services Using Blockchain		Not relevant 	https://ieeexplore.ieee.org/iel7/6570650/6780646/08741207.pdf				
+57		0	Platypus: Offchain Protocol Without Synchrony		Not relevant 	https://ieeexplore.ieee.org/iel7/8930311/8935004/08935037.pdf				
+58		0	区块链共识机制研究综述		Not in english	http://www.jcr.cacrnet.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=343				
+59		1	Gas Consumption-Aware Dynamic Load Balancing in Ethereum Sharding Environments		An alternative way of assigning transactions? But does not discuss rapidchain at all	https://ieeexplore.ieee.org/iel7/8785421/8791939/08791945.pdf				
+60		0	Pledge: a private ledger based decentralized data sharing framework		Not relevant 	https://ieeexplore.ieee.org/iel7/8728125/8732845/08732913.pdf				
+61		0	Proof-of-Execution: Reaching Consensus through Fault-Tolerant Speculation		No relevant discussion	https://arxiv.org/pdf/1911.00838				
+62		0	Flow: Separating Consensus and Compute		not a paper???					
+63		0	SSHTDNS: A Secure, Scalable and High-Throughput Domain Name System via Blockchain Technique		Not relevant 	https://scholar.google.com/scholar?output=instlink&q=info:9l1bEyD_hZoJ:scholar.google.com/&hl=en&as_sdt=1,5&sciodt=1,5&scillfp=15012720131320130813&oi=lle				
+64		0	Exploring heterogeneity in loosely consistent decentralized data replication		No relevant discussion	https://hal.inria.fr/tel-01964628/document				
+65		0	Blockchain business networks: Understanding the value proposal within centralized and decentralized governance structures		Not relevant 	http://www.diva-portal.org/smash/get/diva2:1339471/FULLTEXT02				
+66		0	Serializability and Heterogeneous Trust from Two Phase Commit to Blockchains		No relevant discussion	https://ecommons.cornell.edu/bitstream/handle/1813/67616/Sheff_cornellgrad_0058F_11665.pdf?sequence=1				
+67		0	An Adaptive Modular-Based Compression Scheme for Address Data in the Blockchain System		No relevant discussion	https://link.springer.com/content/pdf/10.1007%2F978-981-15-2777-7_13.pdf				
+68		0	Eunomia: A Permissionless Parallel Chain Protocol Based on Logical Clock		No relevant discussion	https://arxiv.org/pdf/1908.07567				
+69		0	SoK: Layer-Two Blockchain Protocols		Not relevant 	https://pure.tudelft.nl/portal/files/69224849/150.pdf				
+70		1	Technical Whitepaper	Harmony	Migth provide relevant discussion	https://static2.coinpaprika.com/storage/cdn/whitepapers/10576969.pdf				
+71		0	Aplos: Smart Contracts Made Smart		Not relevant	https://link.springer.com/chapter/10.1007/978-981-15-2777-7_35				
+72		0	Secure Balance Planning of Off-blockchain Payment Channel Networks		Not relevant	https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf				
+73		0	Validating pairwise transactions on cryptocurrencies: a novel heuristics and network simulation		Not relevant	https://link.springer.com/article/10.1007/s42786-018-00003-5				
+74		0	An Approach of Secure Two-Way-Pegged Multi-sidechain		No relevant discussion	https://link.springer.com/chapter/10.1007/978-3-030-38961-1_47				
+75	1	0	Flash: E icient Dynamic Routing for O chain Networks			http://www.cs.jhu.edu/~xinjin/files/CoNEXT19_Flash.pdf				
+76		0	XBlock-ETH: Extracting and Exploring Blockchain Data From Etherem		Not relevant	https://arxiv.org/pdf/1911.00169				
+77		0	Blockchain based Decentralized Applications: Technology Review and Development Guidelines		No relevant discussion	https://arxiv.org/pdf/2003.07131				
+78		1	Practicability of blockchain technology and scalable blockchain network: sharding		Optimized transaction routing/gossiping?	https://minds.wisconsin.edu/bitstream/handle/1793/79576/AbdoulYigoThesis.pdf?sequence=1&isAllowed=y				
+79		0	A Framework for Blockchain-Based Verification of Integrity and Authenticity			https://link.springer.com/chapter/10.1007/978-3-030-33716-2_15				
+80		0	Apex: a High-Performance Hierarchical Distributed Ledger		No relevant discussion	https://ieeexplore.ieee.org/iel7/8924808/8939160/08939189.pdf				
+81		0	Core Concepts, Challenges, and Future Directions in Blockchain: A Centralized Tutorial		No relevant discussion	https://dl.acm.org/doi/pdf/10.1145/3366370				
+82		0	Gnocchi: Multiplexed Payment Channels for Cryptocurrencies		Not relevant	https://scholar.google.com/scholar?output=instlink&q=info:ZbHcPnTaVSIJ:scholar.google.com/&hl=en&as_sdt=1,5&sciodt=1,5&scillfp=4546932450360448581&oi=lle				
+83		0	Decentralized Authorization with Private Delegation		Not relevant	https://escholarship.org/uc/item/8r20m39b				
+84		1	Scaling Blockchain Databases through Parallel Resilient Consensus Paradigm		Maybe a better bft protocol?	https://arxiv.org/pdf/1911.00837				
+85		0	Consolidating Hash Power in Blockchain Shards with a Forest		Not relevant	https://link.springer.com/chapter/10.1007/978-3-030-42921-8_18				
+86		0	Efficient Transaction Processing in Byzantine Fault Tolerant Environments		Not a paper	https://jhellings.nl/files/htps2019_paper.pdf				
+87		0	Blockguard: Adaptive Blockchain Security		Not relevant	https://arxiv.org/pdf/1907.13232				
+88		0	PIRATE: A Blockchain-based Secure Framework of Distributed Machine Learning in 5G Networks		Not relevant	https://arxiv.org/pdf/1912.07860				
+89		0	Smart Contracts on the Move		Not relevant	https://arxiv.org/pdf/2004.05933				
+90		0	Decentralized Platform for Investments and Operation of Energy Communities		Not relevant	https://ieeexplore.ieee.org/iel7/8962268/8974850/08975165.pdf				
+91		0	Software-Defined Infrastructure for Decentralized Data Lifecycle Governance: Principled Design and Open Challenges		Not relevant	https://ieeexplore.ieee.org/iel7/8867821/8884790/08885317.pdf				
+92		0	Guaranteed-TX: The exploration of a guaranteed cross-shard transaction execution protocol for Ethereum 2.0.		Not relevant	http://essay.utwente.nl/79884/1/Wels_MA_EEMCS.pdf				
+93		0	Addressing Scalability and Storage issues in Block Chain using Sharding		No access to paper					
+94		0	Reliable inter-blockchain communication framework for improving scalability		No access to paper (preprint)	https://www.researchgate.net/profile/Liu_Keyang/publication/334453300_Reliable_Inter-Blockchain_Protocol_for_improving_scalability/links/5d888025458515cbd1b3c4bb/Reliable-Inter-Blockchain-Protocol-for-improving-scalability.pdf				
+95		0	Technical Report Fides: Managing Data on Untrusted Infrastructure		Not relevant	https://sites.cs.ucsb.edu/~sujaya_maiyya/assets/papers/Fides.pdf				
+96		0	A Blockchain Traceable Scheme with Oversight Function		Not relevant	https://eprint.iacr.org/2020/311.pdf				
+97		0	Local Bitcoin Network Simulator for Performance Evaluation using Lightweight Virtualization		Not relevant	https://arxiv.org/pdf/2002.01243				
+98		1	GARET: improving throughput using gas consumption-aware relocation in Ethereum sharding environments		An alternative way of assigning transactions?	https://link.springer.com/article/10.1007/s10586-020-03087-1				
+99		0	Effective scaling of blockchain beyond consensus innovations and Moore's law		No relevant discussion	https://arxiv.org/pdf/2001.01865				
+100		0	Beyond Replications in Blockchain		Not relevant	https://www.researchgate.net/profile/Shlomi_Dolev/publication/333813003_Beyond_Replications_in_Blockchain_OnOff-Blockchain_IDA_for_Storage_Efficiency_and_Confidentiality_Brief_Announcement/links/5dd2320c299bf1b74b4b3985/Beyond-Replications-in-Blockchain-On-Off-Blockchain-IDA-for-Storage-Efficiency-and-Confidentiality-Brief-Announcement.pdf				
+101		1	On the Feasibility of Sybil Attacks in Shard-Based Permissionless Blockchains		security and attack vectors	https://arxiv.org/pdf/2002.06531				
+102		0	A Practical Dynamic Enhanced BFT Protocol		No relevant discussion	https://scholar.google.com/scholar?output=instlink&q=info:xWWIb0aIvVYJ:scholar.google.com/&hl=en&as_sdt=1,5&sciodt=1,5&scillfp=11267631656067756812&oi=lle				
+103		0	Sharding Is Scaling (Blockchain)		An unfinnished paper? What?	https://cdn.occloxium.com/g/seminar/55ea2bae/template_final.pdf				
+104		0	Enhancing Autonomy with Blockchain and Multi-Acess Edge Computing in Distributed Robotic Systems		Not relevant	https://tiers.utu.fi/static/papers/queralta2020enhancing.pdf				
+105		0	DiPETrans: A Framework for Distributed Parallel Execution of Transactions of Blocks in Blockchain		No relevant discussion	https://arxiv.org/pdf/1906.11721				
+106		0	Multi-Stage Proof-of-Work Blockchain.		No relevant discussion	https://pdfs.semanticscholar.org/f450/71da7486af515d4d1982cd20098b11fa9fd6.pdf				
+107		0	A Survey on Consensus Methods in Blockchain for Resource-constrained IoT Networks		No relevant discussion	https://www.techrxiv.org/articles/A_Survey_on_Consensus_Methods_in_Blockchain_for_Resource-constrained_IoT_Networks/12152142/files/22344654.pdf				
+108		1	A Generic Sharding Scheme for Blockchain Protocols			https://arxiv.org/pdf/1909.01162				
+109		1	Lever: Breaking the Shackles of Scalable On-chain Validation		Takes inspiration from rapidchain	https://pdfs.semanticscholar.org/6fd1/705cf99c5d57bde230b3e9143c874e874d95.pdf				
+110		0	Thinkey: A Scalable Blockchain Architecture		Does not state correct information on rapidchain and does not offer a discussion or argument to their statements.	https://arxiv.org/pdf/1904.04560				
+111		0	Hybrid-BFT: Optimistically Responsive Synchronous Consensus with Optimal Latency or Resilience		No relevant discussion	https://eprint.iacr.org/2020/406.pdf				
+112		0	Flow: Separating Consensus and Compute		No relevant discussion	https://arxiv.org/pdf/1909.05821				
+113		0	Snappy: Fast On-chain Payments with Practical Collaterals		No relevant discussion	https://arxiv.org/pdf/2001.01278				
+114		0	Trust-Based Shard Distribution Scheme for Fault-Tolerant Shard Blockchain Networks		No relevant discussion	https://ieeexplore.ieee.org/iel7/6287639/8600701/08840847.pdf				
+115		1	A Node Rating Based Sharding Scheme for Blockchain		Node assigment based on speed	https://ieeexplore.ieee.org/iel7/8961328/8975714/08975842.pdf				
+116		0	 Efficient Transaction Processing in Byzantine Fault Tolerant Environments		Just an abstract, full paper not available	https://gupta-suyash.github.io/hpts_abstract.pdf				
+117		0	Design and Optimization for Storage Mechanism of the Public Blockchain Based on Redundant Residual Number System		No relevant discussion and outside the field of sharding	https://ieeexplore.ieee.org/iel7/6287639/8600701/08767923.pdf				
+118		0	Fission: A Provably Fast, Scalable, and Secure Permissionless Blockchain	Focus on reducing message prop. relays	No relevant discussion	https://arxiv.org/pdf/1812.05032				
+119		0	Reliable Inter-Blockchain Protocol for improving scalability		Paper not available					
+120		0	A State-aware Proof of Stake Consensus Protocol for Power System Resilience	 	No relevant discussion.	https://dl.acm.org/doi/pdf/10.1145/3307772.3330177				
+121		0	SkyEye: A Traceable Scheme for Blockchain		Not relevant 	https://eprint.iacr.org/2020/034.pdf				
+122		1	A Fair Selection Protocol for Committee-based Permissionless Blockchains		relevant	https://www.sciencedirect.com/science/article/pii/S0167404820300055				
+123		0	Incentive Analysis of Bitcoin-NG, Revisited		No relevant discussion	https://arxiv.org/pdf/2001.05082				
+124		0	Boros: Secure Cross-Channel Transfers via Channel Hub		No relevant discussion	https://arxiv.org/pdf/1911.12929				
+125		1	Bootstrapping Consensus Without Trusted Setup: Fully Asynchronous Distributed Key Generation		Bootstrapping	https://eprint.iacr.org/2019/1015.pdf				
+126		1	SharPer: Sharding Permissioned Blockchains Over Network Clusters		Relevant discussion	https://arxiv.org/pdf/1910.00765				
+127		0	Scalable Blockchain Protocol Based on Proof of Stake and Sharding		No relevant discussion					
+128		0	Charlotte: Composable Authenticated Distributed Data Structures, Technical Report		No relevant discussion	https://arxiv.org/pdf/1905.03888				
+129		0	Verifiable and Auditable Digital Interchange Framework		No relevant discussion	https://arxiv.org/pdf/2001.03717				
+130		0	Towards Private, Robust, and Verifiable Crowdsensing Systems via Public Blockchains		No relevant discussion	https://ieeexplore.ieee.org/iel7/8858/4358699/08839417.pdf				
+131		1	Multichain-MWPoW: A  Adversary Power Resistant Blockchain Sharding Approach to a Decentralised Autonomous Organisation Architecture		Might provide some relevant discussion	https://arxiv.org/pdf/2004.04798				
+132		0	Contract-connection: An efficient communication protocol for Distributed Ledger Technology		No relevant discussion	https://ieeexplore.ieee.org/iel7/8955479/8958711/08958730.pdf				
+133		1	A Secure and Practical Blockchain Scheme for IoT		Compares it self with rapidchain	https://ieeexplore.ieee.org/iel7/8883860/8887294/08887375.pdf				
+134		1	An n/2 Byzantine node tolerate Blockchain Sharding approach		A successor?	https://arxiv.org/pdf/2001.05240				
+135		0	ShallowForest: Optimizing All-to-All Data Transmission in WANs		No relevant discussion	https://uwspace.uwaterloo.ca/bitstream/handle/10012/14690/Hao_Tan_Thesis.pdf?sequence=1&isAllowed=y				
+136		0	BAASH: Enabling Blockchain-as-a-Service on High-Performance Computing Systems		No relevant discussion	https://arxiv.org/pdf/2001.07022				
+137		0	 Elastico as an ordering service in Hyperledger Fabric		No relevant discussion	https://security.cse.iitk.ac.in/sites/default/files/17111010.pdf				
+138		1	Load Balancing for Sharded Blockchains		load balancing	http://fc20.ifca.ai/wtsc/WTSC2020/WTSC20_paper_7.pdf				
+139		0	A Study on Security and Privacy related Issues in Blockchain Based Applications		No relevant discussion	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8991214				
+140		1	Progress on the Use of Sharding to Enhance Blockchain Scalability		very relevant. Compares elastico omniledger and rapidchain.	https://cdn.occloxium.com/g/seminar/3947cec6/paper.pdf				
+141		0	Blockchain System for 5G Network Sharing		No relevant discussion	https://i.cs.hku.hk/fyp/2019/fyp19037/assets/docs/proj_plan.pdf				
+142		0	On the information theory of clustering, registration, and blockchains		No relevant discussion	https://www.ideals.illinois.edu/bitstream/handle/2142/104833/RAMAN-DISSERTATION-2019.pdf?sequence=1&isAllowed=y				
+143	1	0	GARET: improving throughput using gas consumption-aware relocation in Ethereum sharding environments			https://lass.sogang.ac.kr/pdf/2020/intl_jour/Cluster_Computing_2020_SWoo.pdf				
+144		0	Improving the Efficiency of Blockchain Applications with Smart Contract based Cyber-insurance		Not relevant	http://faculty.cs.njupt.edu.cn/~xujia/Paper/2020ICC.pdf				
+145		0	Scalable and Efficient Data Authentication for Decentralized Systems		Does not cite rapidchain, and no relevant discussion.	https://arxiv.org/pdf/1909.11590				
+146		0	Blockchain enabled Named Data Networking for Secure Vehicle-to-Everything Communications		No relevant discussion	https://ieeexplore.ieee.org/iel7/65/7593428/09023466.pdf				
+147		0	Permissioned Blockchain Through the Looking Glass: Architectural and Implementation Lessons Learned		Permissioned and No relevant discussion	https://arxiv.org/pdf/1911.09208				
+148		0	Fides: Managing Data on Untrusted Infrastructure		Not relevant	https://arxiv.org/pdf/2001.06933				
+149		0	Do you need a blockchain in construction? Use case categories and decision framework for DLT design options		Not relevant	https://www.sciencedirect.com/science/article/pii/S147403462030063X				
+150		0	Microchain: a Light Hierarchical Consensus Protocol for IoT System		No relevant discussion	https://arxiv.org/pdf/1912.10357				
+151		0	A Robust Throughput Scheme for Bitcoin Network without Block Reward		No relevant discussion	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8855462				
+152		1	New Mathematical Model to Analyze Security of Sharding-Based Blockchain Protocols		Analysis	https://ieeexplore.ieee.org/iel7/6287639/8600701/08936849.pdf				
+153		0	GCBlock: A Grouping and Coding Based Storage Scheme for Blockchain System		Not relevant	https://ieeexplore.ieee.org/iel7/6287639/8948470/09025067.pdf				
+154		0	Comparison Between Bitcoin and Quarkchain		Full paper not accessible	https://www.ingentaconnect.com/content/asp/jctn/2019/00000016/00000003/art00005				
+155		0	Projektbericht für die QS Qualität und Sicherheit GmbH, Bonn		Not in english	https://www.q-s.de/services/files/qs-wissenschaftsfonds/Forschungsbericht-Ermittlung-Potenziale-ausgew%C3%A4hlte-Distri.pdf				
+	3	45								

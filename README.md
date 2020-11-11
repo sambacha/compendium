@@ -2,6 +2,12 @@
 
 > The Greatest Collection of anything related to finance and crypto. 
 
+## Notes
+
+speed up pull
+
+` git -c filter.lfs.smudge= -c filter.lfs.required=false pull && git lfs pull `
+
 ## Zero Knwoledge 
 
 # Crypto Content (zk, obvram, circuts, smpc, etc)

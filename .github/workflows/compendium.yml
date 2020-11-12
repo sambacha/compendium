@@ -1,4 +1,4 @@
-name: codex
+name: compendium
 on:
   push:
   pull_request:

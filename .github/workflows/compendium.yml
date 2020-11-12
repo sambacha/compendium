@@ -1,0 +1,14 @@
+name: codex
+on:
+  push:
+  pull_request:
+jobs:
+  create compendium:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: montudor/action-zip@v0.1.0
+        with:
+          args: zip -qq -r compendium-pdf.zip *.pdf
+      - uses: actions/upload-artifact@v2
+        with:
+          name: compendium-pdf.zip

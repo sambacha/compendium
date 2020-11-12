@@ -1,6 +1,8 @@
 # Compendium
 
-> The Greatest Collection of anything related to finance and crypto. 
+![compendium](https://github.com/sambacha/compendium/workflows/compendium/badge.svg)
+
+> The Greatest Collection of anything related to finance and crypto. (now with zip releases)
 
 ## Notes
 

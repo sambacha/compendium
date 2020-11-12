@@ -1,19 +1,12 @@
 name: compendium
-
-
-on: [push, pull_request]
-
+on: [push]
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v1
-    - name: Zip PDF's
-    - uses: montudor/action-zip@v0.1.0
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
       with:
-          args: zip -qq -r compendium-pdf.zip *.pdf
-    - uses: actions/upload-artifact@v2
-      with:
-        name: compendium-pdf.zip
+        filename: 'release.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'

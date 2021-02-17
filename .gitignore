@@ -1,4 +1,21 @@
 *.sql
 *.zip
 *.tar
+*.tar.gz
+*.tar.lz4
+*.tgz
+*.7z
+
 audit-trail/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### MicrosoftOffice ###
+*.tmp
+~$*.doc*
+Backup of *.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*

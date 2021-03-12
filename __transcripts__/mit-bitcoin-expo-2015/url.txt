@@ -1,0 +1,12 @@
+---
+layout: default
+parent: Mit Bitcoin Expo 2015
+title: Url.Txt
+nav_exclude: true
+transcript_by: Bryan Bishop
+---
+
+{% if page.transcript_by %}
+  <i>Transcript by: {{ page.transcript_by }}</i>
+{% endif %}
+https://www.youtube.com/watch?v=lIgjogLipvk
